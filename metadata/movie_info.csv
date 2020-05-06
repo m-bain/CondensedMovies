@@ -1,0 +1,2895 @@
+imdbid,genre,country
+tt0020629,"['Drama', 'War']",['USA']
+tt0020640,"['Comedy', 'Musical']",['USA']
+tt0021814,"['Fantasy', 'Horror']",['USA']
+tt0021884,"['Drama', 'Horror', 'Sci-Fi']",['USA']
+tt0022913,['Drama'],['USA']
+tt0023027,"['Comedy', 'Musical', 'Romance']",['USA']
+tt0023245,"['Fantasy', 'Horror']",['USA']
+tt0023969,"['Comedy', 'Musical', 'War']",['USA']
+tt0024184,"['Comedy', 'Horror', 'Sci-Fi']",['USA']
+tt0024216,"['Adventure', 'Horror', 'Sci-Fi']",['USA']
+tt0025316,"['Comedy', 'Romance']",['USA']
+tt0026138,"['Drama', 'Horror', 'Sci-Fi']",['USA']
+tt0026714,"['Comedy', 'Fantasy', 'Romance']",['USA']
+tt0029947,"['Comedy', 'Family', 'Romance']",['USA']
+tt0031381,"['Drama', 'History', 'Romance']",['USA']
+tt0031679,"['Comedy', 'Drama']",['USA']
+tt0031725,"['Comedy', 'Romance']",['USA']
+tt0031867,"['Crime', 'Drama', 'Film-Noir']",['USA']
+tt0032138,"['Adventure', 'Family', 'Fantasy']",['USA']
+tt0032599,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0032904,"['Comedy', 'Romance']",['USA']
+tt0032976,"['Drama', 'Mystery', 'Romance']",['USA']
+tt0033467,"['Drama', 'Mystery']",['USA']
+tt0033553,"['Drama', 'Horror', 'Sci-Fi']",['USA']
+tt0033804,"['Comedy', 'Romance']",['USA']
+tt0033870,"['Film-Noir', 'Mystery']",['USA']
+tt0034240,"['Adventure', 'Comedy', 'Drama']",['USA']
+tt0034398,['Horror'],['USA']
+tt0034583,"['Drama', 'Romance', 'War']",['USA']
+tt0034587,"['Fantasy', 'Horror', 'Thriller']",['USA']
+tt0035015,"['Drama', 'Romance']",['USA']
+tt0035140,"['Drama', 'Romance']",['USA']
+tt0035423,"['Comedy', 'Fantasy', 'Romance']",['USA']
+tt0036098,"['Adventure', 'Family']",['USA']
+tt0036613,"['Comedy', 'Crime', 'Thriller']",['USA']
+tt0036775,"['Crime', 'Drama', 'Film-Noir']",['USA']
+tt0036855,"['Crime', 'Drama', 'Film-Noir']",['USA']
+tt0037536,['Drama'],['USA']
+tt0037913,"['Crime', 'Drama', 'Film-Noir']",['USA']
+tt0038109,"['Film-Noir', 'Mystery', 'Romance']",['USA']
+tt0038650,"['Drama', 'Family', 'Fantasy']",['USA']
+tt0039628,"['Comedy', 'Drama', 'Family']",['USA']
+tt0040068,"['Comedy', 'Fantasy', 'Horror']",['USA']
+tt0040724,"['Action', 'Adventure', 'Romance']",['USA']
+tt0040823,"['Drama', 'Film-Noir', 'Mystery']",['USA']
+tt0040872,"['Crime', 'Film-Noir', 'Romance']",['USA']
+tt0040897,"['Adventure', 'Drama', 'Western']","['USA', 'Mexico']"
+tt0041090,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0042192,['Drama'],['USA']
+tt0042208,"['Crime', 'Drama', 'Film-Noir']",['USA']
+tt0043014,"['Drama', 'Film-Noir']",['USA']
+tt0043338,"['Drama', 'Film-Noir']",['USA']
+tt0043456,"['Drama', 'Sci-Fi']",['USA']
+tt0044079,"['Crime', 'Film-Noir', 'Thriller']",['USA']
+tt0044081,['Drama'],['USA']
+tt0044509,"['Drama', 'Romance']",['USA']
+tt0044672,"['Drama', 'Family', 'Romance']",['USA']
+tt0044685,"['Biography', 'Family', 'Musical']",['USA']
+tt0044953,"['Thriller', 'Western']",['USA']
+tt0045152,"['Comedy', 'Musical', 'Romance']",['USA']
+tt0045920,"['Horror', 'Sci-Fi']",['USA']
+tt0046250,"['Comedy', 'Romance']",['USA']
+tt0046303,"['Drama', 'Western']",['USA']
+tt0046754,"['Crime', 'Drama', 'Mystery']","['Italy', 'USA']"
+tt0046816,"['Drama', 'War']",['USA']
+tt0046876,"['Horror', 'Sci-Fi']",['USA']
+tt0046912,"['Crime', 'Thriller']",['USA']
+tt0047296,"['Crime', 'Drama', 'Thriller']",['USA']
+tt0047396,"['Mystery', 'Thriller']",['USA']
+tt0047472,"['Comedy', 'Drama', 'Musical']",['USA']
+tt0047795,"['Action', 'Adventure', 'Comedy']",['USA']
+tt0048028,['Drama'],['USA']
+tt0048254,"['Crime', 'Drama', 'Film-Noir']",['USA']
+tt0048356,"['Drama', 'Romance']",['USA']
+tt0048380,"['Comedy', 'Drama', 'War']",['USA']
+tt0048424,"['Crime', 'Drama', 'Film-Noir']",['USA']
+tt0048545,['Drama'],['USA']
+tt0048605,"['Comedy', 'Romance']",['USA']
+tt0048801,"['Comedy', 'Crime', 'Romance']",['USA']
+tt0049096,"['Adventure', 'Comedy', 'Family']",['USA']
+tt0049406,"['Crime', 'Drama', 'Film-Noir']",['USA']
+tt0049414,"['Crime', 'Film-Noir', 'Mystery']",['USA']
+tt0049730,"['Adventure', 'Drama', 'Western']",['USA']
+tt0049833,"['Adventure', 'Drama']",['USA']
+tt0049934,"['Drama', 'Romance', 'War']","['USA', 'Italy']"
+tt0050083,['Drama'],['USA']
+tt0050212,"['Adventure', 'Drama', 'War']","['UK', 'USA']"
+tt0050419,"['Comedy', 'Musical', 'Romance']",['USA']
+tt0050468,"['Biography', 'Drama', 'Western']",['USA']
+tt0050825,"['Drama', 'War']",['USA']
+tt0051036,"['Drama', 'Film-Noir']",['USA']
+tt0051201,"['Crime', 'Drama', 'Film-Noir']",['USA']
+tt0051364,"['Drama', 'Romance', 'War']",['UK']
+tt0051411,"['Romance', 'Western']",['USA']
+tt0051436,"['Adventure', 'Drama', 'History']",['USA']
+tt0051525,"['Crime', 'Drama']",['USA']
+tt0051745,"['Comedy', 'Drama', 'Family']",['USA']
+tt0051786,"['Horror', 'Sci-Fi', 'Thriller']",['USA']
+tt0051878,['Drama'],['USA']
+tt0052357,"['Mystery', 'Romance', 'Thriller']",['USA']
+tt0052564,"['Adventure', 'Sci-Fi']",['USA']
+tt0052618,"['Adventure', 'Drama', 'History']",['USA']
+tt0052832,"['Drama', 'Romance']",['USA']
+tt0052896,"['Comedy', 'Drama']",['USA']
+tt0053125,"['Adventure', 'Mystery', 'Thriller']",['USA']
+tt0053291,"['Comedy', 'Music', 'Romance']",['USA']
+tt0053604,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0053946,"['Biography', 'Drama', 'History']",['USA']
+tt0054047,"['Action', 'Adventure', 'Western']",['USA']
+tt0054135,"['Comedy', 'Crime', 'Music']",['USA']
+tt0054215,"['Horror', 'Mystery', 'Thriller']",['USA']
+tt0054331,"['Adventure', 'Biography', 'Drama']",['USA']
+tt0054428,"['Drama', 'Romance', 'Western']",['USA']
+tt0054698,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0054997,"['Drama', 'Sport']",['USA']
+tt0055031,"['Drama', 'War']",['USA']
+tt0055184,"['Drama', 'Romance', 'Western']",['USA']
+tt0055614,"['Crime', 'Drama', 'Musical']",['USA']
+tt0055706,['Comedy'],['USA']
+tt0055798,"['Biography', 'Crime', 'Drama']",['USA']
+tt0055871,"['Drama', 'Thriller', 'War']",['USA']
+tt0055928,"['Action', 'Adventure', 'Thriller']",['UK']
+tt0056172,"['Adventure', 'Biography', 'Drama']",['UK']
+tt0056193,"['Crime', 'Drama', 'Romance']","['UK', 'USA']"
+tt0056197,"['Action', 'Drama', 'History']",['USA']
+tt0056217,"['Drama', 'Western']",['USA']
+tt0056218,"['Drama', 'Thriller']",['USA']
+tt0056241,"['Biography', 'Drama']",['USA']
+tt0056264,"['Adventure', 'Drama', 'History']",['USA']
+tt0056267,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0056592,"['Crime', 'Drama']",['USA']
+tt0056869,"['Drama', 'Horror', 'Mystery']",['USA']
+tt0056923,"['Comedy', 'Mystery', 'Romance']",['USA']
+tt0057012,['Comedy'],"['UK', 'USA']"
+tt0057076,"['Action', 'Adventure', 'Thriller']",['UK']
+tt0057115,"['Adventure', 'Drama', 'History']",['USA']
+tt0057187,"['Comedy', 'Romance']",['USA']
+tt0057193,"['Action', 'Adventure', 'Comedy']",['USA']
+tt0057251,['Drama'],['USA']
+tt0057413,"['Comedy', 'Crime', 'Romance']",['USA']
+tt0057449,"['Comedy', 'Fantasy', 'Horror']",['USA']
+tt0058150,"['Action', 'Adventure', 'Thriller']",['UK']
+tt0058461,"['Drama', 'Western']","['Italy', 'Spain', 'West Germany']"
+tt0058586,"['Comedy', 'Mystery']","['UK', 'USA']"
+tt0058672,"['Adventure', 'Comedy', 'Crime']",['USA']
+tt0059113,"['Drama', 'Romance', 'War']","['USA', 'Italy']"
+tt0059124,"['Comedy', 'Sci-Fi']",['USA']
+tt0059245,"['Biography', 'Drama', 'History']",['USA']
+tt0059287,"['Comedy', 'Musical']",['USA']
+tt0059575,['Drama'],['USA']
+tt0059578,['Western'],"['Italy', 'Spain', 'West Germany']"
+tt0059742,"['Biography', 'Drama', 'Family']",['USA']
+tt0059800,"['Action', 'Adventure', 'Thriller']",['UK']
+tt0059803,"['Drama', 'Western']",['Mexico']
+tt0059825,"['Thriller', 'War']","['France', 'Italy', 'USA']"
+tt0060086,"['Comedy', 'Drama']",['UK']
+tt0060196,['Western'],"['Italy', 'Spain', 'West Germany']"
+tt0060429,"['Comedy', 'Musical', 'Romance']",['USA']
+tt0060438,"['Comedy', 'Musical']",['USA']
+tt0060736,"['Adventure', 'Drama', 'Thriller']","['South Africa', 'USA']"
+tt0060921,"['Comedy', 'War']",['USA']
+tt0061385,"['Comedy', 'Romance']",['USA']
+tt0061418,"['Action', 'Biography', 'Crime']",['USA']
+tt0061452,['Comedy'],"['UK', 'USA']"
+tt0061512,"['Crime', 'Drama']",['USA']
+tt0061735,"['Comedy', 'Drama']",['USA']
+tt0061747,"['Drama', 'Western']",['USA']
+tt0061791,"['Comedy', 'Musical']",['USA']
+tt0061809,"['Biography', 'Crime', 'Drama']",['USA']
+tt0061811,"['Crime', 'Drama', 'Mystery']",['USA']
+tt0062153,"['Comedy', 'Sci-Fi', 'Thriller']",['USA']
+tt0062512,"['Action', 'Adventure', 'Thriller']",['UK']
+tt0062622,"['Adventure', 'Sci-Fi']","['USA', 'UK']"
+tt0062765,"['Action', 'Crime', 'Thriller']",['USA']
+tt0062803,"['Adventure', 'Family', 'Fantasy']","['UK', 'USA']"
+tt0063350,['Horror'],['USA']
+tt0063356,"['Comedy', 'Crime', 'Drama']",['USA']
+tt0063374,['Comedy'],['USA']
+tt0063415,['Comedy'],['USA']
+tt0063442,"['Adventure', 'Sci-Fi']",['USA']
+tt0063518,"['Drama', 'Romance']","['UK', 'Italy']"
+tt0063522,"['Drama', 'Horror']",['USA']
+tt0063688,"['Crime', 'Drama', 'Romance']",['USA']
+tt0063829,"['Comedy', 'Family']",['USA']
+tt0064045,"['Action', 'Adventure', 'Comedy']",['UK']
+tt0064115,"['Biography', 'Crime', 'Drama']",['USA']
+tt0064116,['Western'],"['Italy', 'USA']"
+tt0064276,"['Adventure', 'Drama']",['USA']
+tt0064381,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0064395,"['Action', 'Western']",['USA']
+tt0064505,"['Action', 'Comedy', 'Crime']",['UK']
+tt0064665,['Drama'],['USA']
+tt0064757,"['Action', 'Adventure', 'Thriller']",['UK']
+tt0065112,"['Drama', 'Thriller']",['USA']
+tt0065126,"['Adventure', 'Drama', 'Western']",['USA']
+tt0065214,"['Action', 'Adventure', 'Western']",['USA']
+tt0065446,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0065466,"['Comedy', 'Drama', 'Music']",['USA']
+tt0065528,"['Comedy', 'Drama', 'War']",['USA']
+tt0065724,['Drama'],['USA']
+tt0066011,"['Drama', 'Romance']",['USA']
+tt0066026,"['Comedy', 'Drama', 'War']",['USA']
+tt0066130,"['Biography', 'Crime', 'Drama']",['UK']
+tt0066181,"['Comedy', 'Drama', 'Fantasy']",['USA']
+tt0066206,"['Biography', 'Drama', 'War']",['USA']
+tt0066434,"['Drama', 'Sci-Fi', 'Thriller']",['USA']
+tt0066448,"['Comedy', 'Western']",['USA']
+tt0066995,"['Action', 'Adventure', 'Thriller']",['UK']
+tt0066999,"['Action', 'Crime', 'Thriller']",['USA']
+tt0067093,"['Drama', 'Family', 'Musical']",['USA']
+tt0067116,"['Action', 'Crime', 'Drama']",['USA']
+tt0067185,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0067328,"['Drama', 'Romance']",['USA']
+tt0067411,"['Drama', 'Western']",['USA']
+tt0067589,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0067741,"['Action', 'Crime', 'Thriller']",['USA']
+tt0067992,"['Family', 'Fantasy', 'Musical']","['USA', 'East Germany', 'West Germany', 'Belgium']"
+tt0068245,"['Adventure', 'Drama', 'Western']",['USA']
+tt0068284,"['Fantasy', 'Horror', 'Romance']",['USA']
+tt0068309,"['Crime', 'Drama', 'Romance']",['USA']
+tt0068473,"['Adventure', 'Drama', 'Thriller']",['USA']
+tt0068646,"['Crime', 'Drama']",['USA']
+tt0068673,"['Crime', 'Drama', 'Action']",['USA']
+tt0068699,"['Drama', 'Mystery', 'Western']",['USA']
+tt0068762,"['Adventure', 'Drama', 'Western']",['USA']
+tt0068767,"['Action', 'Drama', 'Romance']",['Hong Kong']
+tt0068833,"['Horror', 'Thriller']",['USA']
+tt0068835,['Comedy'],['USA']
+tt0068897,"['Action', 'Western']",['USA']
+tt0068909,"['Drama', 'Fantasy', 'Musical']","['Italy', 'USA']"
+tt0068931,"['Action', 'Crime', 'Thriller']",['USA']
+tt0068935,"['Action', 'Adventure', 'Crime']",['Hong Kong']
+tt0069097,"['Comedy', 'Romance']",['USA']
+tt0069113,"['Action', 'Adventure', 'Drama']",['USA']
+tt0069495,['Comedy'],['USA']
+tt0069704,"['Comedy', 'Drama']",['USA']
+tt0069897,"['Action', 'Crime', 'Thriller']",['USA']
+tt0069976,"['Action', 'Biography', 'Crime']",['USA']
+tt0069995,"['Drama', 'Horror', 'Thriller']","['UK', 'Italy']"
+tt0070016,"['Animation', 'Family', 'Musical']",['USA']
+tt0070034,"['Action', 'Crime', 'Drama']","['Hong Kong', 'USA']"
+tt0070047,['Horror'],['USA']
+tt0070328,"['Action', 'Adventure', 'Thriller']",['UK']
+tt0070334,"['Comedy', 'Crime', 'Drama']",['USA']
+tt0070355,"['Action', 'Crime', 'Mystery']",['USA']
+tt0070379,"['Crime', 'Drama', 'Thriller']",['USA']
+tt0070460,"['Comedy', 'Drama', 'Romance']","['France', 'Italy']"
+tt0070510,"['Comedy', 'Drama']",['USA']
+tt0070653,"['Action', 'Drama', 'Thriller']",['USA']
+tt0070666,"['Biography', 'Crime', 'Drama']","['Italy', 'USA']"
+tt0070735,"['Comedy', 'Crime', 'Drama']",['USA']
+tt0070814,"['Adventure', 'Musical', 'Family']",['USA']
+tt0070849,"['Drama', 'Romance']","['France', 'Italy']"
+tt0070895,"['Action', 'Biography', 'Crime']",['USA']
+tt0070909,"['Action', 'Sci-Fi', 'Thriller']",['USA']
+tt0070915,"['Action', 'Drama', 'Crime']",['USA']
+tt0071230,"['Comedy', 'Western']",['USA']
+tt0071315,"['Drama', 'Mystery', 'Thriller']",['USA']
+tt0071360,"['Drama', 'Mystery', 'Thriller']",['USA']
+tt0071402,"['Action', 'Crime', 'Drama']","['USA', 'Canada']"
+tt0071517,"['Action', 'Crime', 'Thriller']",['USA']
+tt0071562,"['Crime', 'Drama']",['USA']
+tt0071577,"['Drama', 'Romance']",['USA']
+tt0071675,['Horror'],['USA']
+tt0071706,"['Action', 'Drama', 'Thriller']","['UK', 'USA']"
+tt0071746,"['Biography', 'Drama']",['USA']
+tt0071771,"['Comedy', 'Crime', 'Drama']",['USA']
+tt0071807,"['Action', 'Adventure', 'Thriller']",['UK']
+tt0071970,"['Drama', 'Thriller']",['USA']
+tt0072067,"['Crime', 'Drama', 'Horror']",['USA']
+tt0072081,"['Comedy', 'Crime', 'Mystery']","['UK', 'USA']"
+tt0072251,"['Action', 'Crime', 'Thriller']",['USA']
+tt0072325,"['Action', 'Crime', 'Thriller']",['USA']
+tt0072848,"['Drama', 'Thriller']",['USA']
+tt0072890,"['Biography', 'Crime', 'Drama']",['USA']
+tt0073190,"['Drama', 'Romance']",['USA']
+tt0073195,"['Adventure', 'Drama', 'Thriller']",['USA']
+tt0073260,"['Adventure', 'Fantasy']","['UK', 'USA']"
+tt0073440,"['Comedy', 'Drama', 'Music']",['USA']
+tt0073629,"['Comedy', 'Musical']","['UK', 'USA']"
+tt0073747,"['Horror', 'Mystery', 'Sci-Fi']",['USA']
+tt0073802,"['Mystery', 'Thriller']",['USA']
+tt0074119,"['Biography', 'Drama', 'History']",['USA']
+tt0074174,"['Comedy', 'Drama', 'Family']",['USA']
+tt0074281,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0074285,['Horror'],['USA']
+tt0074559,"['Sci-Fi', 'Thriller']",['USA']
+tt0074751,"['Adventure', 'Horror']",['USA']
+tt0074777,"['Drama', 'Romance']",['USA']
+tt0074860,"['Crime', 'Thriller']",['USA']
+tt0075066,"['Comedy', 'Crime']","['UK', 'USA']"
+tt0075148,"['Drama', 'Sport']",['USA']
+tt0075268,"['Comedy', 'Drama']",['USA']
+tt0075314,"['Crime', 'Drama']",['USA']
+tt0075686,"['Comedy', 'Romance']",['USA']
+tt0075765,"['Adventure', 'Crime', 'Drama']",['USA']
+tt0075860,"['Drama', 'Sci-Fi']",['USA']
+tt0076210,"['Adventure', 'Fantasy', 'Horror']",['USA']
+tt0076239,"['Adventure', 'Comedy', 'Crime']",['USA']
+tt0076489,"['Comedy', 'Fantasy']",['USA']
+tt0076666,"['Drama', 'Music']",['USA']
+tt0076723,"['Comedy', 'Drama', 'Sport']",['USA']
+tt0076729,"['Action', 'Comedy']",['USA']
+tt0076752,"['Action', 'Adventure', 'Thriller']",['UK']
+tt0077235,"['Drama', 'Sport']",['USA']
+tt0077288,['Comedy'],"['France', 'Italy']"
+tt0077294,"['Action', 'Adventure', 'Drama']","['USA', 'UK']"
+tt0077416,"['Drama', 'War']",['USA']
+tt0077504,"['Comedy', 'Drama']",['USA']
+tt0077572,"['Action', 'Drama', 'War']","['UK', 'USA']"
+tt0077594,"['Action', 'Crime', 'Drama']","['Hong Kong', 'USA']"
+tt0077597,['Comedy'],['USA']
+tt0077621,"['Comedy', 'Crime', 'Romance']",['USA']
+tt0077631,"['Musical', 'Romance']",['USA']
+tt0077663,"['Comedy', 'Fantasy', 'Romance']",['USA']
+tt0077745,"['Horror', 'Sci-Fi']",['USA']
+tt0077766,"['Adventure', 'Drama', 'Horror']",['USA']
+tt0077838,"['Documentary', 'Biography', 'Music']",['USA']
+tt0077975,['Comedy'],['USA']
+tt0078024,"['Drama', 'Romance']",['USA']
+tt0078111,['Drama'],['USA']
+tt0078163,"['Comedy', 'Crime', 'Mystery']","['UK', 'USA']"
+tt0078227,"['Comedy', 'Romance', 'Sport']",['USA']
+tt0078346,"['Action', 'Adventure', 'Drama']","['USA', 'UK', 'Canada', 'Switzerland']"
+tt0078504,"['Adventure', 'Family', 'Fantasy']",['USA']
+tt0078723,"['Action', 'Comedy', 'War']",['USA']
+tt0078748,"['Horror', 'Sci-Fi']","['UK', 'USA']"
+tt0078757,"['Comedy', 'Romance']",['USA']
+tt0078767,['Horror'],['USA']
+tt0078788,"['Drama', 'Mystery', 'War']",['USA']
+tt0078790,"['Comedy', 'Family', 'Western']",['USA']
+tt0078872,"['Adventure', 'Family', 'Sport']",['USA']
+tt0078902,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0079073,"['Horror', 'Romance']",['UK']
+tt0079239,['Drama'],['USA']
+tt0079240,"['Adventure', 'Crime', 'Drama']",['UK']
+tt0079261,"['Comedy', 'Drama', 'Musical']","['West Germany', 'USA']"
+tt0079367,['Comedy'],['USA']
+tt0079417,['Drama'],['USA']
+tt0079501,"['Action', 'Adventure', 'Sci-Fi']",['Australia']
+tt0079522,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0079540,['Comedy'],['Canada']
+tt0079574,"['Action', 'Adventure', 'Sci-Fi']","['UK', 'France']"
+tt0079592,"['Mystery', 'Thriller']","['UK', 'Canada']"
+tt0079640,"['Comedy', 'Drama', 'Sport']",['USA']
+tt0079714,"['Horror', 'Sci-Fi']",['USA']
+tt0079817,"['Drama', 'Sport']",['USA']
+tt0079945,"['Adventure', 'Mystery', 'Sci-Fi']",['USA']
+tt0080120,"['Action', 'Crime', 'Thriller']",['USA']
+tt0080339,['Comedy'],['USA']
+tt0080365,"['Crime', 'Drama', 'Mystery']",['USA']
+tt0080388,"['Crime', 'Drama', 'Romance']","['France', 'Canada', 'USA']"
+tt0080453,"['Adventure', 'Drama', 'Romance']",['USA']
+tt0080455,"['Adventure', 'Comedy', 'Crime']",['USA']
+tt0080487,"['Comedy', 'Sport']",['USA']
+tt0080661,"['Mystery', 'Thriller']",['USA']
+tt0080678,"['Biography', 'Drama']","['USA', 'UK']"
+tt0080745,"['Action', 'Adventure', 'Sci-Fi']",['UK']
+tt0080761,"['Horror', 'Mystery', 'Thriller']",['USA']
+tt0080836,"['Action', 'Biography', 'Sci-Fi']",['USA']
+tt0080895,"['Comedy', 'Crime']",['USA']
+tt0081071,"['Biography', 'Crime', 'Western']",['USA']
+tt0081184,"['Comedy', 'Horror', 'Thriller']",['USA']
+tt0081283,['Drama'],['USA']
+tt0081353,"['Adventure', 'Comedy', 'Family']",['USA']
+tt0081398,"['Biography', 'Drama', 'Sport']",['USA']
+tt0081455,"['Horror', 'Sci-Fi', 'Thriller']",['Canada']
+tt0081505,"['Drama', 'Horror']","['UK', 'USA']"
+tt0081562,"['Comedy', 'Crime']",['USA']
+tt0081573,"['Action', 'Adventure', 'Sci-Fi']","['USA', 'UK', 'Canada']"
+tt0081609,"['Action', 'Drama', 'Crime']","['Soviet Union', 'France', 'Switzerland']"
+tt0081696,"['Drama', 'Romance', 'Western']",['USA']
+tt0082010,"['Comedy', 'Horror']","['UK', 'USA']"
+tt0082198,"['Action', 'Adventure', 'Fantasy']","['USA', 'Spain', 'Mexico']"
+tt0082200,"['Comedy', 'Romance']",['USA']
+tt0082250,"['Action', 'Crime', 'Drama']","['USA', 'Canada']"
+tt0082332,"['Action', 'Crime', 'Drama']",['USA']
+tt0082348,"['Adventure', 'Drama', 'Fantasy']","['USA', 'UK']"
+tt0082382,"['Comedy', 'Drama']",['USA']
+tt0082398,"['Action', 'Adventure', 'Thriller']",['UK']
+tt0082416,"['Drama', 'Romance']",['UK']
+tt0082418,"['Horror', 'Mystery', 'Thriller']",['USA']
+tt0082432,"['Adventure', 'Drama', 'History']",['Australia']
+tt0082495,['Horror'],['USA']
+tt0082694,"['Action', 'Adventure', 'Sci-Fi']",['Australia']
+tt0082766,"['Biography', 'Drama']",['USA']
+tt0082782,"['Horror', 'Mystery', 'Thriller']",['Canada']
+tt0082846,['Drama'],"['UK', 'USA']"
+tt0082970,['Drama'],['USA']
+tt0082971,"['Action', 'Adventure']",['USA']
+tt0083131,"['Comedy', 'War']",['USA']
+tt0083511,"['Action', 'Comedy', 'Crime']",['USA']
+tt0083530,"['Comedy', 'Sci-Fi']",['USA']
+tt0083550,['Horror'],"['Mexico', 'USA']"
+tt0083629,['Horror'],['USA']
+tt0083642,"['Comedy', 'Musical']",['USA']
+tt0083658,"['Action', 'Sci-Fi', 'Thriller']","['USA', 'Hong Kong', 'UK']"
+tt0083739,"['Action', 'Crime', 'Drama']","['Canada', 'USA']"
+tt0083767,"['Comedy', 'Fantasy', 'Horror']",['USA']
+tt0083866,"['Family', 'Sci-Fi']",['USA']
+tt0083929,"['Comedy', 'Drama']",['USA']
+tt0083972,"['Horror', 'Thriller']",['USA']
+tt0083987,"['Biography', 'Drama', 'History']","['UK', 'India']"
+tt0084021,"['Comedy', 'Drama', 'Musical']",['USA']
+tt0084191,"['Sci-Fi', 'Thriller']",['West Germany']
+tt0084434,"['Drama', 'Romance']",['USA']
+tt0084602,"['Drama', 'Sport']","['USA', 'Canada']"
+tt0084649,"['Animation', 'Adventure', 'Drama']",['USA']
+tt0084707,"['Drama', 'Romance']","['UK', 'USA']"
+tt0084726,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt0084732,"['Crime', 'Drama', 'Mystery']",['USA']
+tt0084745,"['Horror', 'Sci-Fi']",['USA']
+tt0084787,"['Horror', 'Mystery', 'Sci-Fi']",['USA']
+tt0084814,"['Comedy', 'Crime', 'Mystery']","['UK', 'USA']"
+tt0084855,['Drama'],['USA']
+tt0084917,"['Comedy', 'Drama']",['USA']
+tt0085127,"['Action', 'Comedy']",['Hong Kong']
+tt0085248,"['Adventure', 'Family']",['USA']
+tt0085333,"['Horror', 'Thriller']",['USA']
+tt0085382,"['Horror', 'Thriller']",['USA']
+tt0085384,"['Comedy', 'Crime', 'Mystery']","['UK', 'USA']"
+tt0085407,"['Drama', 'Horror', 'Sci-Fi']",['Canada']
+tt0085470,['Comedy'],['USA']
+tt0085549,"['Drama', 'Music', 'Romance']",['USA']
+tt0085636,"['Horror', 'Mystery', 'Sci-Fi']",['USA']
+tt0085672,"['Adventure', 'Fantasy']","['Italy', 'USA']"
+tt0085750,"['Adventure', 'Horror', 'Thriller']",['USA']
+tt0085811,"['Action', 'Adventure', 'Fantasy']",['UK']
+tt0085862,"['Action', 'Crime', 'Drama']",['USA']
+tt0085959,"['Comedy', 'Musical']",['UK']
+tt0085970,"['Comedy', 'Drama']",['USA']
+tt0086006,"['Action', 'Adventure', 'Thriller']","['UK', 'USA', 'West Germany']"
+tt0086034,"['Action', 'Adventure', 'Thriller']",['UK']
+tt0086200,"['Comedy', 'Crime', 'Drama']",['USA']
+tt0086250,"['Crime', 'Drama']",['USA']
+tt0086393,"['Action', 'Adventure', 'Comedy']","['UK', 'USA']"
+tt0086425,"['Comedy', 'Drama']",['USA']
+tt0086465,['Comedy'],['USA']
+tt0086508,"['Action', 'Drama', 'Thriller']",['USA']
+tt0086525,"['Comedy', 'Romance']",['USA']
+tt0086567,"['Sci-Fi', 'Thriller']",['USA']
+tt0086619,"['Drama', 'Musical', 'Romance']","['UK', 'USA']"
+tt0086856,"['Adventure', 'Comedy', 'Romance']",['USA']
+tt0086873,"['Comedy', 'Fantasy', 'Romance']",['USA']
+tt0086946,"['Drama', 'Music']",['USA']
+tt0086960,"['Action', 'Comedy', 'Crime']",['USA']
+tt0086979,"['Crime', 'Drama', 'Thriller']",['USA']
+tt0086993,"['Adventure', 'Drama', 'History']","['UK', 'USA', 'New Zealand']"
+tt0086998,"['Comedy', 'Drama', 'Music']",['USA']
+tt0086999,"['Comedy', 'Drama', 'Musical']",['USA']
+tt0087065,"['Action', 'Adventure', 'Crime']",['USA']
+tt0087078,"['Action', 'Adventure', 'Fantasy']","['USA', 'Mexico']"
+tt0087182,"['Action', 'Adventure', 'Sci-Fi']","['USA', 'Mexico']"
+tt0087231,"['Biography', 'Crime', 'Drama']","['UK', 'USA', 'Mexico']"
+tt0087262,"['Action', 'Horror', 'Sci-Fi']",['USA']
+tt0087277,"['Drama', 'Music', 'Romance']",['USA']
+tt0087298,"['Horror', 'Thriller']",['USA']
+tt0087332,"['Action', 'Comedy', 'Fantasy']",['USA']
+tt0087363,"['Comedy', 'Fantasy', 'Horror']",['USA']
+tt0087365,"['Adventure', 'Drama']","['UK', 'USA']"
+tt0087469,"['Action', 'Adventure']",['USA']
+tt0087538,"['Action', 'Drama', 'Family']",['USA']
+tt0087597,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt0087727,"['Action', 'Adventure', 'Drama']",['USA']
+tt0087781,"['Drama', 'Sport']",['USA']
+tt0087800,['Horror'],['USA']
+tt0087803,"['Drama', 'Sci-Fi']",['UK']
+tt0087928,['Comedy'],['USA']
+tt0087985,"['Action', 'Drama']",['USA']
+tt0087995,"['Action', 'Comedy', 'Crime']",['USA']
+tt0088128,"['Comedy', 'Romance']",['USA']
+tt0088170,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt0088172,"['Romance', 'Sci-Fi']",['USA']
+tt0088206,"['Action', 'Adventure', 'Fantasy']","['UK', 'USA']"
+tt0088286,"['Comedy', 'Music']","['UK', 'USA']"
+tt0088323,"['Adventure', 'Drama', 'Family']",['West Germany']
+tt0088680,"['Comedy', 'Crime', 'Drama']",['USA']
+tt0088707,"['Drama', 'Sport']",['USA']
+tt0088763,"['Adventure', 'Comedy', 'Sci-Fi']",['USA']
+tt0088846,"['Drama', 'Sci-Fi']","['UK', 'USA']"
+tt0088847,"['Comedy', 'Drama']",['USA']
+tt0088850,['Comedy'],['USA']
+tt0088915,"['Drama', 'Music', 'Musical']",['USA']
+tt0088930,"['Comedy', 'Crime', 'Mystery']",['USA']
+tt0088939,['Drama'],['USA']
+tt0088944,"['Action', 'Adventure', 'Thriller']",['USA']
+tt0088960,"['Comedy', 'Romance', 'Sci-Fi']",['USA']
+tt0089017,"['Comedy', 'Drama']",['USA']
+tt0089118,"['Action', 'Thriller']",['USA']
+tt0089155,"['Comedy', 'Crime', 'Mystery']",['USA']
+tt0089175,"['Horror', 'Thriller']",['USA']
+tt0089200,"['Comedy', 'Fantasy', 'Horror']",['USA']
+tt0089218,"['Adventure', 'Comedy', 'Family']",['USA']
+tt0089348,"['Action', 'Thriller']",['USA']
+tt0089370,"['Action', 'Adventure', 'Comedy']",['USA']
+tt0089457,"['Adventure', 'Comedy', 'Drama']","['USA', 'Italy']"
+tt0089469,"['Adventure', 'Fantasy', 'Romance']",['USA']
+tt0089489,"['Action', 'Horror', 'Mystery']","['UK', 'USA']"
+tt0089504,['Comedy'],['USA']
+tt0089530,"['Action', 'Adventure', 'Sci-Fi']",['Australia']
+tt0089560,"['Biography', 'Drama']",['USA']
+tt0089572,"['Crime', 'Thriller']",['USA']
+tt0089730,"['Comedy', 'Fantasy', 'Horror']",['USA']
+tt0089755,"['Biography', 'Drama', 'Romance']","['USA', 'UK']"
+tt0089791,"['Adventure', 'Comedy', 'Family']",['USA']
+tt0089822,['Comedy'],['USA']
+tt0089853,"['Comedy', 'Fantasy', 'Romance']",['USA']
+tt0089886,"['Comedy', 'Romance', 'Sci-Fi']",['USA']
+tt0089901,"['Action', 'Adventure', 'Comedy']","['USA', 'Mexico']"
+tt0089907,"['Comedy', 'Horror', 'Sci-Fi']",['USA']
+tt0089927,"['Drama', 'Sport']",['USA']
+tt0089945,"['Comedy', 'Western']","['USA', 'Spain']"
+tt0090022,"['Action', 'Crime', 'Drama']",['USA']
+tt0090056,"['Adventure', 'Comedy']",['USA']
+tt0090060,"['Drama', 'Romance']",['USA']
+tt0090142,"['Comedy', 'Fantasy']",['USA']
+tt0090264,"['Action', 'Adventure', 'Thriller']",['UK']
+tt0090305,"['Comedy', 'Romance', 'Sci-Fi']",['USA']
+tt0090329,"['Crime', 'Drama', 'Romance']",['USA']
+tt0090357,"['Adventure', 'Fantasy', 'Mystery']",['USA']
+tt0090555,"['Action', 'Adventure', 'Comedy']",['Australia']
+tt0090633,"['Animation', 'Adventure', 'Comedy']",['USA']
+tt0090685,"['Comedy', 'Romance', 'Sport']",['USA']
+tt0090713,"['Comedy', 'Drama', 'Sport']",['USA']
+tt0090728,"['Action', 'Adventure', 'Comedy']",['USA']
+tt0090756,"['Drama', 'Mystery', 'Thriller']",['USA']
+tt0090830,"['Drama', 'Romance']",['USA']
+tt0090837,"['Comedy', 'Horror', 'Sci-Fi']",['USA']
+tt0090856,['Comedy'],['USA']
+tt0090859,"['Action', 'Crime', 'Thriller']","['USA', 'Israel']"
+tt0090927,"['Action', 'Adventure', 'Drama']","['USA', 'Israel']"
+tt0091042,['Comedy'],['USA']
+tt0091055,"['Action', 'Adventure', 'Comedy']",['USA']
+tt0091080,"['Horror', 'Thriller']",['USA']
+tt0091129,"['Action', 'Adventure', 'Comedy']",['USA']
+tt0091159,"['Comedy', 'Drama']",['USA']
+tt0091167,"['Comedy', 'Drama']",['USA']
+tt0091188,"['Comedy', 'Drama']",['USA']
+tt0091217,"['Drama', 'Sport']","['UK', 'USA']"
+tt0091225,"['Action', 'Adventure', 'Comedy']",['USA']
+tt0091244,"['Drama', 'Fantasy', 'Romance']","['France', 'Italy']"
+tt0091306,"['Comedy', 'Romance', 'Thriller']",['USA']
+tt0091326,"['Action', 'Family', 'Romance']",['USA']
+tt0091431,"['Action', 'Adventure', 'Comedy']","['Hong Kong', 'Yugoslavia']"
+tt0091530,"['Adventure', 'Drama', 'History']","['UK', 'France']"
+tt0091541,['Comedy'],['USA']
+tt0091699,"['Drama', 'Music']","['Netherlands', 'Italy', 'USA']"
+tt0091763,"['Drama', 'War']","['USA', 'UK']"
+tt0091777,['Comedy'],"['Canada', 'USA']"
+tt0091778,['Horror'],['USA']
+tt0091790,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0091875,"['Action', 'Comedy', 'Crime']",['USA']
+tt0091934,"['Adventure', 'Comedy', 'Crime']",['UK']
+tt0091949,"['Comedy', 'Family', 'Sci-Fi']",['USA']
+tt0091983,"['Comedy', 'Crime', 'Romance']",['USA']
+tt0092003,"['Action', 'Drama', 'Western']",['USA']
+tt0092005,"['Adventure', 'Drama']",['USA']
+tt0092007,"['Adventure', 'Comedy', 'Sci-Fi']",['USA']
+tt0092076,"['Comedy', 'Horror']",['USA']
+tt0092086,"['Comedy', 'Western']",['USA']
+tt0092099,"['Action', 'Drama']",['USA']
+tt0092115,"['Comedy', 'Fantasy', 'Horror']","['USA', 'Italy']"
+tt0092493,"['Action', 'Adventure', 'Comedy']",['Australia']
+tt0092563,"['Horror', 'Mystery', 'Thriller']","['UK', 'Canada', 'USA']"
+tt0092605,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0092644,"['Action', 'Comedy', 'Crime']",['USA']
+tt0092654,"['Comedy', 'Crime', 'Drama']",['USA']
+tt0092675,"['Action', 'Biography', 'Drama']",['USA']
+tt0092699,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0092710,"['Comedy', 'Crime']","['Canada', 'USA']"
+tt0092890,"['Drama', 'Music', 'Romance']",['USA']
+tt0092948,"['Documentary', 'Comedy']",['USA']
+tt0093010,"['Drama', 'Thriller']",['USA']
+tt0093075,"['Fantasy', 'Horror']",['Canada']
+tt0093091,"['Comedy', 'Horror']",['USA']
+tt0093137,"['Action', 'Drama', 'Thriller']",['USA']
+tt0093148,"['Comedy', 'Family', 'Fantasy']",['USA']
+tt0093164,"['Action', 'Crime', 'Drama']",['USA']
+tt0093200,['Comedy'],['USA']
+tt0093223,"['Crime', 'Thriller']",['USA']
+tt0093300,"['Adventure', 'Horror', 'Thriller']",['USA']
+tt0093409,"['Action', 'Crime', 'Thriller']",['USA']
+tt0093428,"['Action', 'Adventure', 'Thriller']",['UK']
+tt0093437,"['Comedy', 'Horror']",['USA']
+tt0093493,"['Comedy', 'Fantasy', 'Romance']",['USA']
+tt0093565,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0093605,"['Action', 'Crime', 'Drama']",['USA']
+tt0093640,"['Action', 'Crime', 'Drama']",['USA']
+tt0093660,"['Drama', 'Thriller']",['USA']
+tt0093693,"['Comedy', 'Romance']",['USA']
+tt0093713,['Drama'],"['Denmark', 'Sweden']"
+tt0093748,"['Comedy', 'Drama']",['USA']
+tt0093756,"['Comedy', 'Crime']",['USA']
+tt0093773,"['Action', 'Adventure', 'Sci-Fi']","['USA', 'Mexico']"
+tt0093779,"['Adventure', 'Family', 'Fantasy']",['USA']
+tt0093822,"['Comedy', 'Crime']",['USA']
+tt0093870,"['Action', 'Crime', 'Sci-Fi']",['USA']
+tt0093886,"['Comedy', 'Romance']",['USA']
+tt0093999,"['Family', 'Fantasy', 'Musical']",['USA']
+tt0094006,"['Drama', 'Romance']",['USA']
+tt0094012,"['Adventure', 'Comedy', 'Sci-Fi']",['USA']
+tt0094027,"['Biography', 'Drama']",['USA']
+tt0094072,"['Comedy', 'Romance']",['USA']
+tt0094074,"['Action', 'Adventure', 'Family']","['UK', 'USA']"
+tt0094118,"['Comedy', 'Fantasy']",['USA']
+tt0094138,['Comedy'],['USA']
+tt0094142,"['Comedy', 'Crime', 'Thriller']",['USA']
+tt0094226,"['Crime', 'Drama', 'Thriller']",['USA']
+tt0094291,"['Crime', 'Drama']",['USA']
+tt0094321,"['Comedy', 'Music', 'Romance']",['USA']
+tt0094608,"['Crime', 'Drama']","['Canada', 'USA']"
+tt0094678,"['Comedy', 'Romance']",['USA']
+tt0094721,"['Comedy', 'Fantasy']",['USA']
+tt0094737,"['Comedy', 'Drama', 'Fantasy']",['USA']
+tt0094744,"['Adventure', 'Comedy', 'Romance']",['USA']
+tt0094783,"['Drama', 'Romance']",['USA']
+tt0094812,"['Comedy', 'Romance', 'Sport']",['USA']
+tt0094862,"['Horror', 'Thriller']",['USA']
+tt0094894,"['Action', 'Crime', 'Drama']",['USA']
+tt0094898,"['Comedy', 'Romance']",['USA']
+tt0094910,['Comedy'],['USA']
+tt0094921,"['Comedy', 'Romance']",['USA']
+tt0095016,"['Action', 'Thriller']",['USA']
+tt0095031,"['Comedy', 'Crime']",['USA']
+tt0095082,"['Drama', 'History', 'Sport']",['USA']
+tt0095159,"['Comedy', 'Crime']","['UK', 'USA']"
+tt0095179,"['Horror', 'Thriller']",['USA']
+tt0095188,"['Comedy', 'Drama']",['USA']
+tt0095253,['Comedy'],['USA']
+tt0095348,"['Action', 'Comedy', 'Crime']",['USA']
+tt0095444,"['Comedy', 'Horror', 'Sci-Fi']",['USA']
+tt0095489,"['Animation', 'Adventure', 'Drama']","['USA', 'Ireland']"
+tt0095497,['Drama'],"['Canada', 'USA']"
+tt0095560,"['Adventure', 'Family', 'Fantasy']",['USA']
+tt0095593,"['Comedy', 'Crime', 'Romance']",['USA']
+tt0095631,"['Action', 'Comedy', 'Crime']",['USA']
+tt0095647,"['Crime', 'Drama', 'History']",['USA']
+tt0095684,"['Comedy', 'Horror', 'Romance']",['USA']
+tt0095690,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0095705,"['Comedy', 'Crime']",['USA']
+tt0095765,['Drama'],"['Italy', 'France']"
+tt0095897,"['Action', 'Crime', 'Mystery']",['USA']
+tt0095925,"['Fantasy', 'Horror']",['USA']
+tt0095953,['Drama'],['USA']
+tt0095990,"['Comedy', 'Horror', 'Sci-Fi']",['USA']
+tt0096061,"['Comedy', 'Drama', 'Fantasy']",['USA']
+tt0096094,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0096101,"['Comedy', 'Drama', 'Family']",['USA']
+tt0096118,"['Comedy', 'Horror']",['USA']
+tt0096256,"['Action', 'Horror', 'Sci-Fi']",['USA']
+tt0096316,"['Biography', 'Drama']",['USA']
+tt0096320,"['Comedy', 'Crime']",['USA']
+tt0096463,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0096486,"['Comedy', 'History']",['Australia']
+tt0096487,"['Action', 'Western']",['USA']
+tt0096734,"['Comedy', 'Mystery', 'Thriller']",['USA']
+tt0096764,"['Adventure', 'Comedy', 'Fantasy']","['UK', 'West Germany']"
+tt0096769,"['Horror', 'Thriller']",['USA']
+tt0096787,"['Animation', 'Comedy', 'Drama']","['Ireland', 'UK', 'USA']"
+tt0096874,"['Adventure', 'Comedy', 'Sci-Fi']",['USA']
+tt0096895,"['Action', 'Adventure']","['USA', 'UK']"
+tt0096933,"['Action', 'Crime', 'Thriller']",['USA']
+tt0096969,"['Biography', 'Drama', 'War']",['USA']
+tt0097138,"['Action', 'Sci-Fi', 'Thriller']",['USA']
+tt0097216,"['Comedy', 'Drama']",['USA']
+tt0097236,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0097239,['Drama'],['USA']
+tt0097240,"['Crime', 'Drama']",['USA']
+tt0097257,"['Comedy', 'Musical', 'Romance']","['UK', 'France', 'USA']"
+tt0097322,"['Comedy', 'Drama', 'Music']",['USA']
+tt0097336,"['Biography', 'Drama', 'History']","['USA', 'Mexico']"
+tt0097351,"['Drama', 'Family', 'Fantasy']",['USA']
+tt0097366,"['Comedy', 'Crime', 'Mystery']",['USA']
+tt0097388,"['Adventure', 'Horror', 'Thriller']","['USA', 'Canada']"
+tt0097428,"['Action', 'Comedy', 'Fantasy']",['USA']
+tt0097441,"['Biography', 'Drama', 'History']",['USA']
+tt0097481,"['Comedy', 'Crime', 'Drama']",['USA']
+tt0097499,"['Action', 'Biography', 'Drama']",['UK']
+tt0097500,"['Comedy', 'Crime', 'Mystery']",['USA']
+tt0097576,"['Action', 'Adventure']",['USA']
+tt0097613,"['Action', 'Crime', 'Mystery']",['USA']
+tt0097647,"['Action', 'Drama', 'Family']",['USA']
+tt0097659,"['Action', 'Sport', 'Thriller']",['USA']
+tt0097733,"['Action', 'Crime', 'Thriller']",['USA']
+tt0097737,"['Adventure', 'Horror', 'Mystery']","['USA', 'Italy']"
+tt0097742,"['Action', 'Adventure', 'Thriller']","['UK', 'Mexico', 'USA']"
+tt0097757,"['Animation', 'Family', 'Fantasy']",['USA']
+tt0097758,"['Adventure', 'Comedy', 'Family']",['USA']
+tt0097778,['Comedy'],['USA']
+tt0097815,"['Comedy', 'Sport']",['USA']
+tt0097937,"['Biography', 'Drama']","['Ireland', 'UK']"
+tt0097958,['Comedy'],['USA']
+tt0098042,"['Comedy', 'Drama', 'Thriller']",['USA']
+tt0098067,"['Comedy', 'Drama']",['USA']
+tt0098084,"['Horror', 'Thriller']",['USA']
+tt0098090,"['Drama', 'Horror', 'Music']","['USA', 'UK', 'Hungary']"
+tt0098141,"['Action', 'Crime', 'Drama']","['Australia', 'USA']"
+tt0098206,"['Action', 'Thriller']",['USA']
+tt0098258,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0098309,['Comedy'],['USA']
+tt0098382,"['Action', 'Adventure', 'Fantasy']",['USA']
+tt0098384,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0098453,"['Comedy', 'Fantasy', 'Romance']",['USA']
+tt0098546,"['Comedy', 'Drama']",['USA']
+tt0098554,['Comedy'],['USA']
+tt0098577,"['Comedy', 'Horror']",['USA']
+tt0098621,"['Comedy', 'Romance']",['USA']
+tt0098625,"['Comedy', 'Crime']",['USA']
+tt0098627,"['Adventure', 'Comedy', 'Crime']",['USA']
+tt0098635,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0098994,"['Crime', 'Drama', 'Mystery']",['USA']
+tt0099044,"['Action', 'Comedy', 'Crime']",['USA']
+tt0099077,"['Biography', 'Drama']",['USA']
+tt0099088,"['Adventure', 'Comedy', 'Sci-Fi']",['USA']
+tt0099141,"['Action', 'Comedy']",['USA']
+tt0099180,"['Comedy', 'Horror', 'Sci-Fi']",['USA']
+tt0099204,"['Comedy', 'Crime']",['USA']
+tt0099253,"['Horror', 'Thriller']",['USA']
+tt0099329,"['Comedy', 'Musical']",['USA']
+tt0099348,"['Adventure', 'Drama', 'Western']","['USA', 'UK']"
+tt0099365,"['Action', 'Sci-Fi', 'Thriller']",['USA']
+tt0099371,"['Action', 'Drama', 'Sport']",['USA']
+tt0099399,"['Action', 'Adventure', 'Crime']",['USA']
+tt0099423,"['Action', 'Thriller']",['USA']
+tt0099487,"['Drama', 'Fantasy', 'Romance']",['USA']
+tt0099558,"['Action', 'Adventure', 'Comedy']",['Hong Kong']
+tt0099582,"['Drama', 'Horror', 'Sci-Fi']",['USA']
+tt0099587,"['Action', 'Drama', 'Thriller']",['USA']
+tt0099653,"['Drama', 'Fantasy', 'Romance']",['USA']
+tt0099674,"['Crime', 'Drama']",['USA']
+tt0099703,"['Crime', 'Drama', 'Thriller']","['USA', 'Canada']"
+tt0099726,['Drama'],"['USA', 'UK', 'France']"
+tt0099785,"['Comedy', 'Family']",['USA']
+tt0099797,"['Crime', 'Drama', 'Romance']",['USA']
+tt0099810,"['Action', 'Adventure', 'Thriller']",['USA']
+tt0099850,"['Crime', 'Drama', 'Thriller']","['USA', 'Canada']"
+tt0099938,"['Comedy', 'Crime']",['USA']
+tt0100054,"['Adventure', 'Drama', 'Thriller']",['USA']
+tt0100107,"['Crime', 'Horror', 'Action']",['USA']
+tt0100114,"['Action', 'Adventure', 'Crime']",['USA']
+tt0100133,"['Action', 'Drama', 'War']","['UK', 'Japan', 'USA']"
+tt0100135,"['Action', 'Comedy', 'Crime']",['USA']
+tt0100157,"['Drama', 'Thriller']",['USA']
+tt0100196,"['Adventure', 'Drama', 'History']",['USA']
+tt0100232,"['Action', 'Adventure', 'Thriller']",['USA']
+tt0100258,['Horror'],['USA']
+tt0100301,['Comedy'],['USA']
+tt0100403,"['Action', 'Horror', 'Sci-Fi']",['USA']
+tt0100486,"['Biography', 'Drama', 'Mystery']","['USA', 'Japan', 'UK']"
+tt0100502,"['Action', 'Crime', 'Sci-Fi']",['USA']
+tt0100507,"['Drama', 'Sport']",['USA']
+tt0100519,"['Comedy', 'Drama']","['UK', 'USA']"
+tt0100530,"['Drama', 'Romance', 'Thriller']",['USA']
+tt0100680,"['Drama', 'Romance']","['USA', 'Canada']"
+tt0100740,"['Comedy', 'Fantasy', 'Horror']",['USA']
+tt0100814,"['Comedy', 'Horror']",['USA']
+tt0100828,"['Crime', 'Drama', 'Mystery']",['USA']
+tt0100935,"['Comedy', 'Crime', 'Drama']",['USA']
+tt0100944,"['Adventure', 'Comedy', 'Family']","['UK', 'USA']"
+tt0101272,"['Comedy', 'Fantasy']",['USA']
+tt0101301,"['Comedy', 'Family', 'Romance']",['USA']
+tt0101318,"['Drama', 'Romance']",['France']
+tt0101329,"['Animation', 'Adventure', 'Family']",['USA']
+tt0101371,"['Drama', 'Comedy']",['USA']
+tt0101393,"['Crime', 'Drama', 'Mystery']",['USA']
+tt0101410,"['Comedy', 'Drama', 'Thriller']","['USA', 'UK']"
+tt0101452,"['Adventure', 'Comedy', 'Fantasy']",['USA']
+tt0101507,"['Crime', 'Drama']",['USA']
+tt0101523,"['Comedy', 'Fantasy', 'Romance']",['USA']
+tt0101540,"['Crime', 'Thriller']",['USA']
+tt0101587,['Comedy'],['USA']
+tt0101615,"['Comedy', 'Drama', 'Music']",['USA']
+tt0101625,"['Comedy', 'Crime', 'Mystery']","['Germany', 'USA']"
+tt0101635,"['Comedy', 'Drama', 'Family']",['USA']
+tt0101698,"['Comedy', 'Drama', 'Fantasy']",['USA']
+tt0101701,"['Comedy', 'Fantasy']",['USA']
+tt0101745,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0101764,"['Action', 'Crime']",['USA']
+tt0101846,"['Action', 'Thriller']",['USA']
+tt0101889,"['Comedy', 'Drama', 'Fantasy']",['USA']
+tt0101912,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0101917,"['Fantasy', 'Horror']",['USA']
+tt0101921,['Drama'],['USA']
+tt0101984,['Drama'],['USA']
+tt0102005,"['Action', 'Crime', 'Drama']",['USA']
+tt0102011,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0102057,"['Adventure', 'Comedy', 'Family']",['USA']
+tt0102059,"['Action', 'Comedy']",['USA']
+tt0102103,"['Biography', 'Comedy', 'Music']","['UK', 'France']"
+tt0102138,"['Drama', 'History', 'Thriller']","['France', 'USA']"
+tt0102175,"['Drama', 'Romance']",['USA']
+tt0102266,"['Action', 'Comedy', 'Crime']",['USA']
+tt0102303,['Comedy'],['USA']
+tt0102316,['Drama'],['USA']
+tt0102370,"['Documentary', 'Music']",['USA']
+tt0102388,"['Drama', 'Romance']",['USA']
+tt0102395,"['Comedy', 'Fantasy', 'Romance']",['USA']
+tt0102492,"['Comedy', 'Drama', 'Family']",['USA']
+tt0102510,"['Comedy', 'Crime']",['USA']
+tt0102517,"['Comedy', 'Sport']",['USA']
+tt0102526,"['Action', 'Crime', 'Drama']",['USA']
+tt0102555,"['Drama', 'Thriller']",['USA']
+tt0102744,"['Action', 'Adventure', 'Drama']","['Australia', 'USA']"
+tt0102749,"['Comedy', 'Crime']","['UK', 'USA']"
+tt0102753,['Drama'],['USA']
+tt0102768,"['Drama', 'Romance']",['USA']
+tt0102798,"['Action', 'Adventure', 'Drama']","['USA', 'UK']"
+tt0102915,"['Action', 'Comedy', 'Crime']",['USA']
+tt0102926,"['Crime', 'Drama', 'Thriller']",['USA']
+tt0102951,"['Comedy', 'Romance']",['USA']
+tt0102960,"['Drama', 'Horror', 'Thriller']",['USA']
+tt0102975,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt0103074,"['Adventure', 'Crime', 'Drama']","['USA', 'UK', 'France']"
+tt0103596,"['Action', 'Comedy', 'Family']",['USA']
+tt0103644,"['Action', 'Horror', 'Sci-Fi']",['USA']
+tt0103759,"['Crime', 'Drama', 'Thriller']",['USA']
+tt0103776,"['Action', 'Crime', 'Fantasy']","['USA', 'UK']"
+tt0103786,"['Comedy', 'Drama', 'Family']",['USA']
+tt0103850,"['Comedy', 'Drama']","['USA', 'UK']"
+tt0103859,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0103873,"['Comedy', 'Horror']",['New Zealand']
+tt0103874,['Horror'],['USA']
+tt0103919,"['Horror', 'Thriller']","['USA', 'UK']"
+tt0103956,"['Horror', 'Thriller']","['UK', 'USA']"
+tt0103994,"['Drama', 'Romance']",['Mexico']
+tt0104009,"['Animation', 'Comedy', 'Fantasy']",['USA']
+tt0104036,"['Crime', 'Drama', 'Romance']","['UK', 'Japan', 'USA']"
+tt0104040,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0104070,"['Comedy', 'Fantasy', 'Horror']",['USA']
+tt0104107,"['Drama', 'Sport']",['USA']
+tt0104231,"['Adventure', 'Drama', 'Romance']",['USA']
+tt0104257,"['Drama', 'Thriller']",['USA']
+tt0104265,"['Drama', 'Thriller']",['USA']
+tt0104348,"['Crime', 'Drama', 'Mystery']",['USA']
+tt0104377,"['Crime', 'Drama', 'Romance']",['USA']
+tt0104409,['Horror'],['USA']
+tt0104427,"['Biography', 'Crime', 'Drama']",['USA']
+tt0104431,"['Adventure', 'Comedy', 'Crime']",['USA']
+tt0104438,"['Comedy', 'Romance', 'Thriller']",['USA']
+tt0104558,"['Action', 'Comedy', 'Crime']",['Hong Kong']
+tt0104567,"['Comedy', 'Drama', 'Music']","['Switzerland', 'France', 'USA']"
+tt0104573,"['Action', 'Crime', 'Drama']","['USA', 'UK']"
+tt0104691,"['Action', 'Adventure', 'Drama']",['USA']
+tt0104694,"['Comedy', 'Drama', 'Family']",['USA']
+tt0104695,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0104714,"['Action', 'Crime', 'Thriller']",['USA']
+tt0104765,['Drama'],['USA']
+tt0104808,"['Action', 'Horror']",['USA']
+tt0104815,"['Action', 'Crime', 'Thriller']","['Mexico', 'USA']"
+tt0104952,"['Comedy', 'Crime']",['USA']
+tt0105046,"['Drama', 'Western']",['USA']
+tt0105112,"['Action', 'Thriller']",['USA']
+tt0105121,"['Comedy', 'Horror', 'Mystery']",['USA']
+tt0105128,"['Fantasy', 'Horror']",['USA']
+tt0105236,"['Crime', 'Drama', 'Thriller']",['USA']
+tt0105265,['Drama'],['USA']
+tt0105323,['Drama'],['USA']
+tt0105327,['Drama'],['USA']
+tt0105414,"['Drama', 'Thriller']",['USA']
+tt0105435,"['Comedy', 'Crime', 'Drama']",['USA']
+tt0105488,"['Comedy', 'Drama', 'Music']","['Australia', 'UK']"
+tt0105690,"['Action', 'Thriller']","['France', 'USA']"
+tt0105695,"['Drama', 'Western']",['USA']
+tt0105698,"['Action', 'Sci-Fi']",['USA']
+tt0105793,"['Comedy', 'Music']",['USA']
+tt0105812,"['Comedy', 'Drama', 'Sport']",['USA']
+tt0106220,"['Comedy', 'Fantasy']",['USA']
+tt0106308,"['Comedy', 'Horror']",['USA']
+tt0106332,"['Drama', 'Music', 'Romance']","['China', 'Hong Kong']"
+tt0106364,"['Animation', 'Action', 'Adventure']",['USA']
+tt0106379,"['Comedy', 'Drama']","['UK', 'Japan']"
+tt0106387,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0106452,"['Horror', 'Sci-Fi']",['USA']
+tt0106455,"['Action', 'Crime', 'Drama']","['USA', 'France']"
+tt0106598,"['Comedy', 'Sci-Fi']",['USA']
+tt0106664,"['Horror', 'Mystery', 'Thriller']",['USA']
+tt0106673,"['Comedy', 'Romance']",['USA']
+tt0106677,['Comedy'],['USA']
+tt0106701,"['Comedy', 'Family']",['USA']
+tt0106770,"['Action', 'Biography', 'Drama']",['USA']
+tt0106856,"['Crime', 'Drama', 'Thriller']","['France', 'USA']"
+tt0106873,"['Comedy', 'Crime', 'Thriller']",['USA']
+tt0106912,"['Biography', 'Drama', 'Fantasy']",['USA']
+tt0106918,"['Drama', 'Mystery', 'Thriller']",['USA']
+tt0107034,"['Drama', 'Thriller']",['USA']
+tt0107048,"['Comedy', 'Fantasy', 'Romance']",['USA']
+tt0107050,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0107076,"['Action', 'Adventure', 'Drama']",['USA']
+tt0107144,"['Action', 'Comedy']",['USA']
+tt0107178,"['Crime', 'Drama', 'History']",['USA']
+tt0107206,"['Action', 'Crime', 'Drama']",['USA']
+tt0107211,"['Drama', 'Romance']",['USA']
+tt0107290,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt0107302,"['Crime', 'Drama', 'Thriller']",['USA']
+tt0107362,"['Action', 'Adventure', 'Comedy']",['USA']
+tt0107387,"['Comedy', 'Fantasy', 'Horror']",['USA']
+tt0107426,['Drama'],"['France', 'Liechtenstein', 'UK']"
+tt0107492,['Comedy'],['USA']
+tt0107614,"['Comedy', 'Drama', 'Family']",['USA']
+tt0107616,"['Comedy', 'Drama', 'Romance']","['UK', 'USA']"
+tt0107818,['Drama'],['USA']
+tt0107822,"['Drama', 'Music', 'Romance']","['New Zealand', 'Australia', 'France']"
+tt0107863,['Western'],"['UK', 'USA', 'Netherlands']"
+tt0107943,"['Drama', 'Romance']","['USA', 'UK']"
+tt0107977,"['Adventure', 'Comedy', 'Musical']","['France', 'USA']"
+tt0107983,"['Crime', 'Drama', 'Romance']","['UK', 'USA']"
+tt0108002,"['Biography', 'Drama', 'Sport']",['USA']
+tt0108026,['Drama'],['USA']
+tt0108052,"['Biography', 'Drama', 'History']",['USA']
+tt0108065,"['Biography', 'Drama']",['USA']
+tt0108071,"['Drama', 'Family', 'Fantasy']","['UK', 'USA']"
+tt0108148,"['Action', 'Crime', 'Drama']",['Hong Kong']
+tt0108149,"['Comedy', 'Drama', 'Mystery']",['USA']
+tt0108160,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0108162,"['Drama', 'Thriller']",['USA']
+tt0108174,"['Comedy', 'Romance']",['USA']
+tt0108187,"['Comedy', 'Crime']","['Italy', 'USA']"
+tt0108525,"['Comedy', 'Music']",['USA']
+tt0108550,['Drama'],['USA']
+tt0109045,"['Comedy', 'Music']",['Australia']
+tt0109120,"['Adventure', 'Drama', 'Family']",['USA']
+tt0109254,"['Action', 'Comedy', 'Crime']",['USA']
+tt0109279,"['Adventure', 'Drama', 'Family']","['USA', 'UK']"
+tt0109288,"['Comedy', 'Action', 'Crime']",['USA']
+tt0109305,"['Drama', 'Sport']",['USA']
+tt0109340,['Drama'],['UK']
+tt0109370,['Comedy'],"['USA', 'Canada']"
+tt0109444,"['Action', 'Crime', 'Drama']","['USA', 'Mexico']"
+tt0109445,['Comedy'],['USA']
+tt0109447,['Comedy'],['USA']
+tt0109506,"['Action', 'Drama', 'Fantasy']",['USA']
+tt0109676,"['Action', 'Adventure', 'Thriller']",['USA']
+tt0109686,['Comedy'],['USA']
+tt0109830,"['Drama', 'Romance']",['USA']
+tt0109831,"['Comedy', 'Drama', 'Romance']",['UK']
+tt0109835,"['Biography', 'Western']",['USA']
+tt0109913,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0110005,"['Biography', 'Crime', 'Drama']","['New Zealand', 'Germany']"
+tt0110027,"['Action', 'Fantasy', 'Romance']","['UK', 'France', 'Canada']"
+tt0110074,"['Comedy', 'Drama', 'Fantasy']","['UK', 'Germany', 'USA']"
+tt0110099,"['Comedy', 'Romance']",['USA']
+tt0110146,"['Drama', 'Romance']",['USA']
+tt0110148,"['Drama', 'Horror']",['USA']
+tt0110305,"['Family', 'Adventure']",['USA']
+tt0110322,"['Drama', 'Romance', 'War']",['USA']
+tt0110329,"['Comedy', 'Fantasy', 'Horror']",['USA']
+tt0110366,"['Comedy', 'Family', 'Romance']",['USA']
+tt0110367,"['Drama', 'Family', 'Romance']","['USA', 'Canada']"
+tt0110413,"['Action', 'Crime', 'Drama']",['France']
+tt0110475,"['Action', 'Comedy', 'Crime']",['USA']
+tt0110516,"['Comedy', 'Romance']",['USA']
+tt0110588,"['Biography', 'Drama']","['USA', 'Canada']"
+tt0110598,"['Comedy', 'Drama']","['Australia', 'France']"
+tt0110622,"['Comedy', 'Crime']",['USA']
+tt0110638,['Drama'],['USA']
+tt0110657,"['Action', 'Drama', 'Family']",['USA']
+tt0110877,"['Biography', 'Comedy', 'Drama']","['Italy', 'France', 'Belgium']"
+tt0110889,"['Drama', 'Romance']",['UK']
+tt0110907,"['Comedy', 'Drama']",['USA']
+tt0110912,"['Crime', 'Drama']",['USA']
+tt0110950,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0110989,"['Comedy', 'Family']",['USA']
+tt0111143,"['Action', 'Adventure', 'Crime']",['USA']
+tt0111161,['Drama'],['USA']
+tt0111255,"['Action', 'Drama', 'Thriller']",['USA']
+tt0111257,"['Action', 'Adventure', 'Thriller']",['USA']
+tt0111280,"['Action', 'Adventure', 'Mystery']",['USA']
+tt0111282,"['Action', 'Adventure', 'Sci-Fi']","['USA', 'France']"
+tt0111301,"['Action', 'Adventure', 'Comedy']","['Japan', 'USA']"
+tt0111512,"['Action', 'Comedy']",['Hong Kong']
+tt0111653,"['Adventure', 'Comedy', 'Western']",['USA']
+tt0111686,"['Fantasy', 'Horror', 'Mystery']",['USA']
+tt0112346,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0112384,"['Adventure', 'Drama', 'History']",['USA']
+tt0112401,"['Action', 'Crime', 'Thriller']","['France', 'USA']"
+tt0112431,"['Comedy', 'Drama', 'Family']","['Australia', 'USA']"
+tt0112442,"['Action', 'Comedy', 'Crime']",['USA']
+tt0112462,"['Action', 'Adventure', 'Fantasy']","['USA', 'UK']"
+tt0112508,['Comedy'],['USA']
+tt0112572,['Comedy'],['USA']
+tt0112573,"['Biography', 'Drama', 'History']",['USA']
+tt0112641,"['Crime', 'Drama']","['France', 'USA']"
+tt0112642,"['Comedy', 'Family', 'Fantasy']",['USA']
+tt0112697,"['Comedy', 'Romance']",['USA']
+tt0112715,"['Action', 'Adventure', 'Mystery']",['USA']
+tt0112722,"['Drama', 'Mystery', 'Thriller']",['USA']
+tt0112744,"['Drama', 'Thriller']",['USA']
+tt0112817,"['Drama', 'Fantasy', 'Western']","['USA', 'Germany', 'Japan']"
+tt0112818,"['Crime', 'Drama']","['UK', 'USA']"
+tt0112851,"['Action', 'Thriller']","['USA', 'Mexico']"
+tt0112864,"['Action', 'Adventure', 'Thriller']",['USA']
+tt0112887,"['Comedy', 'Crime', 'Drama']","['USA', 'France']"
+tt0113026,"['Musical', 'Romance']",['USA']
+tt0113074,"['Action', 'Fantasy', 'Sci-Fi']",['USA']
+tt0113101,['Comedy'],['USA']
+tt0113158,"['Drama', 'Music']","['France', 'USA']"
+tt0113161,"['Comedy', 'Crime', 'Thriller']",['USA']
+tt0113189,"['Action', 'Adventure', 'Thriller']","['UK', 'USA']"
+tt0113228,"['Comedy', 'Romance']",['USA']
+tt0113243,"['Comedy', 'Crime', 'Drama']",['USA']
+tt0113277,"['Crime', 'Drama', 'Thriller']",['USA']
+tt0113321,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0113326,"['Action', 'Comedy', 'Crime']",['Hong Kong']
+tt0113360,"['Action', 'Drama', 'Thriller']",['USA']
+tt0113451,"['Crime', 'Drama', 'Thriller']",['USA']
+tt0113464,"['Comedy', 'Drama']",['USA']
+tt0113497,"['Adventure', 'Comedy', 'Family']",['USA']
+tt0113537,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0113636,"['Comedy', 'Fantasy', 'Horror']",['USA']
+tt0113670,"['Drama', 'Family', 'Fantasy']",['USA']
+tt0113691,['Drama'],['USA']
+tt0113749,"['Comedy', 'Romance']",['USA']
+tt0113845,"['Action', 'Comedy', 'Crime']",['USA']
+tt0113855,"['Action', 'Adventure', 'Fantasy']",['USA']
+tt0113870,"['Drama', 'Thriller']","['USA', 'France']"
+tt0113957,"['Action', 'Crime', 'Drama']",['USA']
+tt0113972,"['Action', 'Crime', 'Drama']",['USA']
+tt0114069,"['Action', 'Drama', 'Thriller']",['USA']
+tt0114134,['Drama'],"['Netherlands', 'UK', 'France', 'Luxembourg', 'Austria']"
+tt0114194,"['Action', 'Crime', 'Drama']",['USA']
+tt0114287,"['Adventure', 'Biography', 'Drama']",['UK']
+tt0114369,"['Crime', 'Drama', 'Mystery']",['USA']
+tt0114388,"['Drama', 'Romance']","['USA', 'UK']"
+tt0114436,['Drama'],"['France', 'USA']"
+tt0114478,"['Comedy', 'Drama']","['Germany', 'Japan', 'USA']"
+tt0114508,"['Action', 'Horror', 'Sci-Fi']",['USA']
+tt0114576,"['Action', 'Crime', 'Thriller']",['USA']
+tt0114594,"['Comedy', 'Crime']",['USA']
+tt0114608,"['Action', 'Fantasy', 'Horror']",['USA']
+tt0114614,"['Action', 'Comedy', 'Sci-Fi']","['USA', 'UK']"
+tt0114694,"['Adventure', 'Comedy']",['USA']
+tt0114746,"['Mystery', 'Sci-Fi', 'Thriller']",['USA']
+tt0114805,['Documentary'],['USA']
+tt0114814,"['Crime', 'Mystery', 'Thriller']","['USA', 'Germany']"
+tt0114852,"['Horror', 'Sci-Fi', 'Thriller']",['USA']
+tt0114857,"['Action', 'Crime', 'Sci-Fi']",['USA']
+tt0114885,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0114887,"['Drama', 'Romance']","['USA', 'Mexico']"
+tt0114898,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt0114938,"['Action', 'Biography', 'Western']",['USA']
+tt0115438,"['Comedy', 'Crime', 'Thriller']",['USA']
+tt0115571,"['Sci-Fi', 'Thriller']","['USA', 'Mexico']"
+tt0115624,"['Action', 'Sci-Fi']",['USA']
+tt0115632,"['Biography', 'Drama']",['USA']
+tt0115639,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0115641,"['Animation', 'Adventure', 'Comedy']",['USA']
+tt0115678,"['Drama', 'Romance']",['USA']
+tt0115685,['Comedy'],['USA']
+tt0115697,['Comedy'],['USA']
+tt0115734,"['Comedy', 'Crime', 'Drama']",['USA']
+tt0115738,"['Comedy', 'Drama']","['Japan', 'USA']"
+tt0115759,"['Action', 'Adventure', 'Thriller']",['USA']
+tt0115783,"['Action', 'Comedy', 'Crime']",['USA']
+tt0115798,"['Comedy', 'Drama', 'Thriller']",['USA']
+tt0115857,"['Action', 'Drama', 'Sci-Fi']",['USA']
+tt0115906,"['Comedy', 'Drama']",['USA']
+tt0115963,"['Drama', 'Fantasy', 'Horror']",['USA']
+tt0115985,"['Action', 'Sci-Fi', 'Comedy']",['USA']
+tt0115986,"['Action', 'Crime', 'Fantasy']",['USA']
+tt0116126,"['Comedy', 'Crime']",['USA']
+tt0116191,"['Comedy', 'Drama', 'Romance']","['UK', 'USA']"
+tt0116209,"['Drama', 'Romance', 'War']","['USA', 'UK']"
+tt0116225,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt0116240,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0116242,"['Comedy', 'Musical', 'Romance']",['USA']
+tt0116253,"['Action', 'Adventure', 'Thriller']",['USA']
+tt0116282,"['Crime', 'Drama', 'Thriller']","['USA', 'UK']"
+tt0116313,['Comedy'],['USA']
+tt0116324,['Comedy'],['USA']
+tt0116365,"['Comedy', 'Fantasy', 'Horror']","['New Zealand', 'USA']"
+tt0116367,"['Action', 'Crime', 'Horror']","['USA', 'Mexico']"
+tt0116483,"['Comedy', 'Sport']",['USA']
+tt0116493,"['Comedy', 'Drama', 'Family']",['USA']
+tt0116514,"['Horror', 'Sci-Fi']",['USA']
+tt0116529,['Drama'],['USA']
+tt0116629,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt0116695,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0116705,"['Comedy', 'Family']",['USA']
+tt0116743,"['Crime', 'Drama', 'History']","['USA', 'India', 'UK', 'Japan', 'Germany']"
+tt0116778,"['Comedy', 'Sport']",['USA']
+tt0116861,"['Comedy', 'Fantasy', 'Horror']",['USA']
+tt0117008,"['Comedy', 'Family', 'Fantasy']",['USA']
+tt0117060,"['Action', 'Adventure', 'Thriller']",['USA']
+tt0117091,"['Comedy', 'Drama']",['USA']
+tt0117107,"['Crime', 'Drama', 'Mystery']",['USA']
+tt0117108,"['Comedy', 'Romance', 'Sci-Fi']",['USA']
+tt0117128,"['Comedy', 'Sci-Fi']",['USA']
+tt0117218,"['Comedy', 'Romance', 'Sci-Fi']",['USA']
+tt0117283,"['Comedy', 'Romance']",['USA']
+tt0117318,"['Biography', 'Drama']",['USA']
+tt0117331,"['Action', 'Adventure', 'Comedy']","['Australia', 'USA']"
+tt0117381,"['Crime', 'Drama', 'Mystery']",['USA']
+tt0117407,"['Crime', 'Thriller']",['Denmark']
+tt0117509,"['Drama', 'Romance']","['USA', 'Mexico', 'Australia']"
+tt0117571,"['Horror', 'Mystery']",['USA']
+tt0117628,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0117666,['Drama'],['USA']
+tt0117731,"['Action', 'Adventure', 'Drama']",['USA']
+tt0117774,"['Action', 'Crime', 'Drama']",['USA']
+tt0117802,"['Comedy', 'Drama']",['USA']
+tt0117887,"['Comedy', 'Drama', 'Music']",['USA']
+tt0117894,"['Fantasy', 'Horror']",['USA']
+tt0117951,['Drama'],['UK']
+tt0117979,"['Comedy', 'Romance']",['USA']
+tt0117998,"['Action', 'Adventure', 'Thriller']",['USA']
+tt0118073,['Comedy'],['USA']
+tt0118113,"['Comedy', 'Drama', 'Romance']","['UK', 'USA', 'Germany', 'Italy', 'France']"
+tt0118564,"['Drama', 'Mystery', 'Thriller']","['USA', 'Canada', 'Japan']"
+tt0118571,"['Action', 'Drama', 'Thriller']","['USA', 'Germany']"
+tt0118583,"['Action', 'Horror', 'Sci-Fi']",['USA']
+tt0118607,"['Drama', 'History']",['USA']
+tt0118615,"['Action', 'Adventure', 'Horror']",['USA']
+tt0118617,"['Animation', 'Adventure', 'Drama']",['USA']
+tt0118632,['Drama'],['USA']
+tt0118643,"['Fantasy', 'Horror', 'Thriller']",['USA']
+tt0118652,"['Comedy', 'Horror', 'Mystery']",['USA']
+tt0118655,"['Adventure', 'Comedy']",['USA']
+tt0118661,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt0118688,"['Action', 'Sci-Fi']","['USA', 'UK']"
+tt0118689,"['Adventure', 'Comedy', 'Family']","['UK', 'USA']"
+tt0118708,"['Action', 'Comedy']",['USA']
+tt0118715,"['Comedy', 'Crime', 'Sport']","['USA', 'UK']"
+tt0118750,"['Comedy', 'Romance']",['USA']
+tt0118771,"['Crime', 'Drama', 'Mystery']",['USA']
+tt0118798,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0118799,"['Comedy', 'Drama', 'Romance']",['Italy']
+tt0118826,"['Comedy', 'Drama']",['Australia']
+tt0118842,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0118849,"['Drama', 'Family', 'Sport']",['Iran']
+tt0118887,"['Crime', 'Drama', 'Thriller']",['USA']
+tt0118900,"['Action', 'Crime', 'Drama']",['USA']
+tt0118928,"['Action', 'Adventure', 'Thriller']",['USA']
+tt0118949,"['Adventure', 'Biography', 'Drama']","['USA', 'Czech Republic']"
+tt0118971,"['Drama', 'Mystery', 'Thriller']","['USA', 'Germany']"
+tt0119008,"['Biography', 'Crime', 'Drama']",['USA']
+tt0119080,['Drama'],['USA']
+tt0119081,"['Horror', 'Sci-Fi', 'Thriller']","['UK', 'USA']"
+tt0119094,"['Action', 'Crime', 'Sci-Fi']",['USA']
+tt0119095,"['Drama', 'Family', 'Fantasy']",['UK']
+tt0119109,"['Comedy', 'Romance']",['USA']
+tt0119116,"['Action', 'Adventure', 'Sci-Fi']","['France', 'UK', 'USA']"
+tt0119174,"['Drama', 'Mystery', 'Thriller']",['USA']
+tt0119177,"['Drama', 'Sci-Fi', 'Thriller']",['USA']
+tt0119208,"['Crime', 'Drama', 'Thriller']",['USA']
+tt0119215,"['Comedy', 'Family']",['USA']
+tt0119217,"['Drama', 'Romance']",['USA']
+tt0119282,"['Animation', 'Adventure', 'Comedy']",['USA']
+tt0119313,"['Drama', 'Romance']",['USA']
+tt0119324,"['Comedy', 'Drama']",['USA']
+tt0119345,"['Horror', 'Mystery']",['USA']
+tt0119349,['Drama'],['USA']
+tt0119360,"['Comedy', 'Romance']",['USA']
+tt0119381,"['Drama', 'Romance']",['USA']
+tt0119395,"['Action', 'Crime', 'Drama']","['USA', 'UK', 'France', 'Germany', 'Japan']"
+tt0119396,"['Crime', 'Drama', 'Thriller']",['USA']
+tt0119426,"['Comedy', 'Crime', 'Drama']",['USA']
+tt0119468,"['Crime', 'Drama', 'Mystery']",['USA']
+tt0119488,"['Crime', 'Drama', 'Mystery']",['USA']
+tt0119528,"['Comedy', 'Fantasy']",['USA']
+tt0119567,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt0119576,"['Drama', 'Romance']","['France', 'UK', 'USA']"
+tt0119592,"['Crime', 'Drama', 'Thriller']",['USA']
+tt0119643,"['Drama', 'Fantasy', 'Romance']",['USA']
+tt0119654,"['Action', 'Adventure', 'Comedy']",['USA']
+tt0119675,"['Horror', 'Sci-Fi']",['USA']
+tt0119715,['Comedy'],['USA']
+tt0119717,"['Comedy', 'Romance']",['USA']
+tt0119738,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0119783,"['Crime', 'Drama']",['USA']
+tt0119822,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0119874,"['Action', 'Thriller']",['USA']
+tt0119896,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0119978,"['Crime', 'Drama', 'Thriller']","['USA', 'Germany']"
+tt0120004,"['Horror', 'Mystery', 'Sci-Fi']","['UK', 'USA', 'Japan', 'Germany']"
+tt0120053,"['Action', 'Adventure', 'Romance']",['USA']
+tt0120082,"['Horror', 'Mystery']",['USA']
+tt0120094,"['Biography', 'Drama', 'Music']",['USA']
+tt0120148,"['Comedy', 'Drama', 'Fantasy']","['UK', 'USA']"
+tt0120151,"['Comedy', 'Romance']",['USA']
+tt0120169,"['Comedy', 'Drama']",['USA']
+tt0120179,"['Action', 'Adventure', 'Crime']",['USA']
+tt0120184,"['Action', 'Mystery', 'Sci-Fi']",['USA']
+tt0120188,"['Action', 'Adventure', 'Comedy']",['USA']
+tt0120201,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt0120241,"['Comedy', 'Crime', 'Drama']",['USA']
+tt0120321,"['Comedy', 'Drama']","['Canada', 'USA']"
+tt0120324,"['Crime', 'Drama', 'Thriller']","['UK', 'Germany', 'France', 'USA', 'Japan']"
+tt0120347,"['Action', 'Adventure', 'Thriller']","['UK', 'USA']"
+tt0120382,"['Comedy', 'Drama', 'Sci-Fi']",['USA']
+tt0120458,"['Action', 'Horror', 'Sci-Fi']","['USA', 'UK', 'Germany', 'Japan', 'France']"
+tt0120461,"['Action', 'Drama', 'Sci-Fi']",['USA']
+tt0120520,"['Drama', 'Romance']","['USA', 'UK']"
+tt0120524,"['Fantasy', 'Horror']",['USA']
+tt0120577,"['Drama', 'Music']",['USA']
+tt0120587,"['Animation', 'Adventure', 'Comedy']",['USA']
+tt0120601,"['Comedy', 'Drama', 'Fantasy']",['USA']
+tt0120604,"['Action', 'Adventure', 'Fantasy']","['UK', 'USA', 'Romania']"
+tt0120611,"['Action', 'Horror', 'Sci-Fi']",['USA']
+tt0120613,"['Drama', 'Romance']",['USA']
+tt0120616,"['Action', 'Adventure', 'Fantasy']",['USA']
+tt0120620,"['Drama', 'Mystery', 'Thriller']",['USA']
+tt0120630,"['Animation', 'Adventure', 'Comedy']","['UK', 'USA', 'France']"
+tt0120631,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0120647,"['Action', 'Drama', 'Romance']",['USA']
+tt0120654,['Comedy'],"['Canada', 'USA']"
+tt0120669,"['Adventure', 'Comedy', 'Drama']",['USA']
+tt0120679,"['Biography', 'Drama', 'Romance']","['Mexico', 'USA', 'Canada']"
+tt0120681,"['Horror', 'Mystery', 'Thriller']",['USA']
+tt0120684,"['Biography', 'Drama']","['USA', 'UK']"
+tt0120685,"['Action', 'Sci-Fi', 'Thriller']","['USA', 'Japan']"
+tt0120686,"['Comedy', 'Drama']",['USA']
+tt0120689,"['Crime', 'Drama', 'Fantasy']",['USA']
+tt0120693,"['Comedy', 'Crime']",['USA']
+tt0120694,"['Horror', 'Thriller']",['USA']
+tt0120696,"['Action', 'Crime', 'Drama']","['USA', 'UK', 'Denmark', 'France', 'Japan', 'New Zealand', 'Germany', 'Australia']"
+tt0120703,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0120735,"['Comedy', 'Crime']",['UK']
+tt0120737,"['Action', 'Adventure', 'Drama']","['New Zealand', 'USA']"
+tt0120744,"['Action', 'Adventure', 'Drama']","['France', 'USA']"
+tt0120746,"['Action', 'Adventure', 'Comedy']","['USA', 'Germany', 'Mexico']"
+tt0120755,"['Action', 'Adventure', 'Thriller']","['USA', 'Germany']"
+tt0120757,"['Action', 'Crime', 'Thriller']",['USA']
+tt0120768,"['Action', 'Crime', 'Drama']","['Germany', 'USA']"
+tt0120770,"['Comedy', 'Music', 'Romance']",['USA']
+tt0120772,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0120780,"['Comedy', 'Crime', 'Drama']",['USA']
+tt0120784,"['Action', 'Crime', 'Drama']",['USA']
+tt0120787,"['Crime', 'Drama', 'Thriller']",['USA']
+tt0120788,"['Biography', 'Drama', 'Romance']",['USA']
+tt0120794,"['Animation', 'Adventure', 'Drama']",['USA']
+tt0120800,"['Animation', 'Adventure', 'Comedy']",['USA']
+tt0120802,"['Drama', 'Music', 'Mystery']","['Canada', 'Italy', 'USA', 'UK', 'Austria']"
+tt0120812,"['Action', 'Comedy', 'Crime']",['USA']
+tt0120815,"['Drama', 'War']",['USA']
+tt0120820,"['Comedy', 'Romance']",['USA']
+tt0120831,"['Comedy', 'Drama']",['USA']
+tt0120841,"['Action', 'Horror', 'Sci-Fi']",['USA']
+tt0120844,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt0120879,"['Drama', 'Music']","['UK', 'USA']"
+tt0120888,"['Comedy', 'Music', 'Romance']",['USA']
+tt0120890,"['Crime', 'Drama', 'Mystery']",['USA']
+tt0120891,"['Action', 'Comedy', 'Sci-Fi']",['USA']
+tt0120902,"['Drama', 'Mystery', 'Sci-Fi']",['USA']
+tt0120903,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt0120907,"['Horror', 'Sci-Fi', 'Thriller']","['UK', 'France', 'Canada']"
+tt0120912,"['Action', 'Adventure', 'Comedy']",['USA']
+tt0120913,"['Animation', 'Action', 'Adventure']",['USA']
+tt0120915,"['Action', 'Adventure', 'Fantasy']",['USA']
+tt0122151,"['Action', 'Crime', 'Thriller']",['USA']
+tt0122541,"['Comedy', 'Romance']","['UK', 'France', 'USA']"
+tt0122690,"['Action', 'Crime', 'Thriller']","['UK', 'France', 'USA']"
+tt0122718,"['Action', 'Adventure', 'Comedy']",['USA']
+tt0122933,"['Comedy', 'Crime']","['USA', 'Australia']"
+tt0123755,"['Drama', 'Mystery', 'Sci-Fi']",['Canada']
+tt0124295,"['Documentary', 'Comedy', 'Crime']","['USA', 'UK']"
+tt0124315,"['Drama', 'Romance']",['USA']
+tt0125439,"['Comedy', 'Drama', 'Romance']","['UK', 'USA']"
+tt0125659,"['Drama', 'Mystery', 'Sci-Fi']","['Spain', 'France', 'Italy']"
+tt0125664,"['Biography', 'Comedy', 'Drama']","['UK', 'Germany', 'Japan', 'USA']"
+tt0125879,"['Drama', 'Music', 'Mystery']",['USA']
+tt0126029,"['Animation', 'Adventure', 'Comedy']",['USA']
+tt0126886,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0127536,"['Biography', 'Drama', 'History']",['UK']
+tt0127723,"['Comedy', 'Romance']",['USA']
+tt0128442,"['Crime', 'Drama']",['USA']
+tt0128853,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0129167,"['Animation', 'Action', 'Adventure']",['USA']
+tt0129290,"['Biography', 'Comedy', 'Drama']",['USA']
+tt0129387,"['Comedy', 'Romance']",['USA']
+tt0130018,"['Horror', 'Mystery']","['USA', 'Mexico']"
+tt0131325,['Comedy'],['USA']
+tt0131857,"['Comedy', 'Sport']",['USA']
+tt0132347,"['Action', 'Comedy', 'Fantasy']",['USA']
+tt0132477,"['Biography', 'Drama', 'Family']",['USA']
+tt0133046,"['Comedy', 'Thriller']",['USA']
+tt0133093,"['Action', 'Sci-Fi']",['USA']
+tt0133751,"['Horror', 'Sci-Fi']",['USA']
+tt0133952,"['Action', 'Thriller']",['USA']
+tt0134067,"['Animation', 'Adventure', 'Comedy']",['USA']
+tt0134084,"['Horror', 'Mystery']",['USA']
+tt0134119,"['Crime', 'Drama', 'Thriller']",['USA']
+tt0134847,"['Horror', 'Sci-Fi']","['USA', 'Australia']"
+tt0134983,"['Horror', 'Sci-Fi', 'Thriller']","['USA', 'Switzerland']"
+tt0137338,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0137363,"['Crime', 'Drama', 'Thriller']",['USA']
+tt0137523,['Drama'],"['USA', 'Germany']"
+tt0138097,"['Comedy', 'Drama', 'History']","['USA', 'UK']"
+tt0138524,"['Comedy', 'Crime', 'Romance']",['USA']
+tt0138704,"['Drama', 'Horror', 'Mystery']",['USA']
+tt0138749,"['Animation', 'Adventure', 'Comedy']",['USA']
+tt0139134,"['Drama', 'Romance']",['USA']
+tt0139239,"['Comedy', 'Crime']",['USA']
+tt0139414,"['Action', 'Comedy', 'Horror']",['USA']
+tt0139654,"['Crime', 'Drama', 'Thriller']",['USA']
+tt0139699,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0141926,"['Action', 'War']","['France', 'USA']"
+tt0142342,"['Comedy', 'Drama']",['USA']
+tt0142688,"['Mystery', 'Thriller']","['France', 'Spain', 'USA']"
+tt0143145,"['Action', 'Adventure', 'Thriller']","['UK', 'USA']"
+tt0144084,"['Comedy', 'Crime', 'Drama']","['USA', 'Canada']"
+tt0144120,"['Comedy', 'Horror']","['USA', 'Canada']"
+tt0144528,"['Comedy', 'Romance', 'Sci-Fi']",['USA']
+tt0144715,"['Comedy', 'Drama']","['USA', 'Australia']"
+tt0144814,"['Horror', 'Sci-Fi', 'Thriller']",['USA']
+tt0144964,"['Action', 'Adventure', 'Fantasy']","['UK', 'USA', 'Luxembourg']"
+tt0145531,['Horror'],"['USA', 'Mexico']"
+tt0145653,['Drama'],"['USA', 'Ireland']"
+tt0145660,"['Action', 'Adventure', 'Comedy']",['USA']
+tt0146316,"['Action', 'Adventure', 'Fantasy']","['USA', 'UK', 'Japan', 'Germany']"
+tt0147004,"['Comedy', 'Drama', 'Music']",['UK']
+tt0149171,['Drama'],['USA']
+tt0149261,"['Action', 'Adventure', 'Sci-Fi']","['USA', 'Mexico']"
+tt0150377,"['Crime', 'Drama', 'Mystery']","['USA', 'Germany', 'Canada']"
+tt0151568,"['Biography', 'Comedy', 'Drama']","['UK', 'USA']"
+tt0151582,"['Crime', 'Drama', 'Mystery']",['USA']
+tt0151738,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0151804,['Comedy'],['USA']
+tt0155267,"['Crime', 'Romance', 'Thriller']",['USA']
+tt0155711,"['Comedy', 'Crime', 'Drama']",['USA']
+tt0157472,"['Action', 'Adventure', 'Comedy']",['USA']
+tt0158493,"['Crime', 'Drama']","['Jamaica', 'USA']"
+tt0158983,"['Animation', 'Comedy', 'Fantasy']",['USA']
+tt0159097,"['Drama', 'Romance']",['USA']
+tt0159273,"['Action', 'Drama', 'Thriller']",['USA']
+tt0159365,"['Adventure', 'Drama', 'History']","['UK', 'Italy', 'Romania', 'USA']"
+tt0160127,"['Action', 'Adventure', 'Comedy']","['USA', 'Germany']"
+tt0160184,"['Crime', 'Horror', 'Mystery']","['Germany', 'USA']"
+tt0160672,"['Crime', 'Drama']",['USA']
+tt0160862,"['Comedy', 'Romance']",['USA']
+tt0161081,"['Drama', 'Fantasy', 'Horror']",['USA']
+tt0161100,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0162222,"['Adventure', 'Drama', 'Romance']",['USA']
+tt0162346,"['Comedy', 'Drama']","['USA', 'UK', 'Germany']"
+tt0162360,"['Comedy', 'Crime', 'Romance']",['USA']
+tt0162650,"['Action', 'Crime', 'Thriller']","['Germany', 'USA']"
+tt0162661,"['Fantasy', 'Horror', 'Mystery']","['Germany', 'USA']"
+tt0162662,"['Drama', 'Music', 'Romance']",['USA']
+tt0163025,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt0163187,"['Comedy', 'Romance']",['USA']
+tt0163651,['Comedy'],['USA']
+tt0163978,"['Adventure', 'Drama', 'Romance']","['USA', 'UK']"
+tt0163983,"['Crime', 'Drama', 'Horror']","['USA', 'Germany']"
+tt0163988,"['Drama', 'Thriller']",['USA']
+tt0164052,"['Action', 'Horror', 'Sci-Fi']","['USA', 'Germany']"
+tt0164114,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0164181,"['Horror', 'Mystery', 'Thriller']",['USA']
+tt0164184,"['Action', 'Drama', 'Thriller']","['USA', 'Germany', 'Canada']"
+tt0164334,"['Drama', 'Thriller']","['USA', 'Germany', 'Canada']"
+tt0164912,"['Adventure', 'Comedy', 'Family']","['Germany', 'USA']"
+tt0165798,"['Action', 'Crime', 'Drama']","['France', 'Germany', 'USA', 'Japan']"
+tt0165854,"['Crime', 'Drama', 'Mystery']",['USA']
+tt0166396,['Comedy'],"['UK', 'Ireland', 'France', 'USA']"
+tt0166924,"['Drama', 'Mystery', 'Thriller']","['France', 'USA']"
+tt0167116,"['Action', 'Romance', 'Thriller']",['USA']
+tt0167260,"['Adventure', 'Drama', 'Fantasy']","['New Zealand', 'USA']"
+tt0167261,"['Adventure', 'Drama', 'Fantasy']","['New Zealand', 'USA']"
+tt0167427,"['Comedy', 'Romance']",['USA']
+tt0168501,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0168786,"['Biography', 'Drama']",['USA']
+tt0169547,['Drama'],['USA']
+tt0170016,"['Comedy', 'Family', 'Fantasy']",['USA']
+tt0171359,"['Drama', 'Romance', 'Thriller']",['USA']
+tt0171363,"['Fantasy', 'Horror', 'Mystery']","['USA', 'UK']"
+tt0172156,"['Action', 'Comedy', 'Crime']",['USA']
+tt0172493,"['Biography', 'Drama']","['USA', 'Germany']"
+tt0172495,"['Action', 'Adventure', 'Drama']","['USA', 'UK', 'Malta', 'Morocco']"
+tt0173716,"['Comedy', 'Crime', 'Thriller']","['France', 'USA']"
+tt0174856,"['Biography', 'Drama', 'Sport']",['USA']
+tt0175142,['Comedy'],['USA']
+tt0177789,"['Adventure', 'Comedy', 'Sci-Fi']",['USA']
+tt0177971,"['Action', 'Adventure', 'Drama']",['USA']
+tt0179116,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0180093,['Drama'],['USA']
+tt0180734,"['Drama', 'Sport']","['Germany', 'USA']"
+tt0181316,"['Action', 'Comedy', 'Crime']","['Germany', 'USA']"
+tt0181536,['Drama'],['USA']
+tt0181689,"['Action', 'Crime', 'Mystery']",['USA']
+tt0181739,"['Animation', 'Action', 'Adventure']",['USA']
+tt0181865,"['Crime', 'Drama', 'Thriller']","['USA', 'Mexico', 'Germany']"
+tt0181875,"['Adventure', 'Comedy', 'Drama']",['USA']
+tt0183505,['Comedy'],['USA']
+tt0183649,"['Crime', 'Thriller']",['USA']
+tt0183678,"['Fantasy', 'Horror', 'Thriller']",['USA']
+tt0183790,"['Action', 'Adventure', 'Romance']",['USA']
+tt0184858,"['Action', 'Adventure', 'Crime']",['USA']
+tt0184907,"['Adventure', 'Comedy', 'Family']",['USA']
+tt0185014,"['Comedy', 'Drama']","['USA', 'Germany', 'UK', 'Japan']"
+tt0185431,"['Comedy', 'Fantasy']",['USA']
+tt0185937,"['Horror', 'Mystery']",['USA']
+tt0186253,['Drama'],"['Canada', 'USA']"
+tt0186508,"['Documentary', 'Music']","['Germany', 'USA', 'UK', 'France', 'Cuba']"
+tt0186566,"['Action', 'Adventure', 'Thriller']",['USA']
+tt0186894,"['Drama', 'Romance']",['USA']
+tt0186975,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0187393,"['Action', 'Drama', 'History']","['USA', 'Germany']"
+tt0187738,"['Action', 'Horror', 'Sci-Fi']","['Germany', 'USA']"
+tt0189584,"['Drama', 'Comedy']",['USA']
+tt0189998,"['Drama', 'Horror']","['UK', 'USA', 'Luxembourg']"
+tt0190138,"['Comedy', 'Crime']",['USA']
+tt0190332,"['Action', 'Adventure', 'Fantasy']","['Taiwan', 'Hong Kong', 'USA', 'China']"
+tt0190590,"['Adventure', 'Comedy', 'Crime']","['UK', 'France', 'USA']"
+tt0190865,"['Action', 'Adventure', 'Drama']","['USA', 'Germany']"
+tt0191133,"['Comedy', 'Drama', 'Music']",['USA']
+tt0191636,"['Drama', 'History', 'Romance']","['France', 'Canada']"
+tt0192071,"['Comedy', 'Romance']",['USA']
+tt0192614,"['Action', 'Crime', 'Drama']","['USA', 'Canada']"
+tt0193560,"['Action', 'Adventure', 'Drama']","['USA', 'Mexico']"
+tt0195685,"['Biography', 'Drama']",['USA']
+tt0195714,"['Horror', 'Thriller']",['USA']
+tt0195945,['Comedy'],['USA']
+tt0196229,['Comedy'],"['Germany', 'USA']"
+tt0198021,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0200465,"['Crime', 'Thriller']","['UK', 'USA', 'Australia']"
+tt0200530,"['Comedy', 'Drama']",['USA']
+tt0202677,"['Action', 'Crime', 'Drama']",['USA']
+tt0203009,"['Drama', 'Musical', 'Romance']","['Australia', 'USA']"
+tt0203019,"['Biography', 'Drama']",['USA']
+tt0203119,"['Crime', 'Drama', 'Thriller']","['UK', 'Spain']"
+tt0203230,['Drama'],['USA']
+tt0203536,"['Action', 'Comedy', 'Thriller']",['USA']
+tt0204946,"['Comedy', 'Romance', 'Sport']",['USA']
+tt0205271,"['Comedy', 'Drama', 'Romance']","['USA', 'Germany']"
+tt0206275,"['Drama', 'Music', 'Romance']",['USA']
+tt0206634,"['Drama', 'Thriller']","['USA', 'UK', 'Japan']"
+tt0207201,"['Comedy', 'Fantasy', 'Romance']",['USA']
+tt0208003,"['Action', 'Comedy', 'Crime']","['Germany', 'USA']"
+tt0208092,"['Comedy', 'Crime']","['UK', 'USA']"
+tt0209037,"['Comedy', 'Drama', 'Music']","['Belgium', 'Netherlands', 'France']"
+tt0209144,"['Mystery', 'Thriller']",['USA']
+tt0209163,"['Action', 'Adventure', 'Fantasy']",['USA']
+tt0209958,"['Horror', 'Sci-Fi', 'Thriller']","['USA', 'Germany']"
+tt0210070,"['Drama', 'Fantasy', 'Horror']",['Canada']
+tt0210358,"['Drama', 'Romance']",['USA']
+tt0211443,"['Action', 'Horror', 'Sci-Fi']","['Canada', 'USA']"
+tt0211915,"['Comedy', 'Romance']","['France', 'Germany']"
+tt0212235,"['Comedy', 'Horror']",['USA']
+tt0212338,"['Comedy', 'Romance']",['USA']
+tt0212346,"['Action', 'Comedy', 'Crime']",['USA']
+tt0212985,"['Crime', 'Drama', 'Thriller']","['USA', 'UK', 'Italy']"
+tt0213790,['Comedy'],['USA']
+tt0213847,"['Comedy', 'Drama', 'Romance']","['Italy', 'USA', 'Germany']"
+tt0215129,['Comedy'],['USA']
+tt0215750,"['Drama', 'History', 'War']","['Ireland', 'UK', 'France', 'Germany', 'USA']"
+tt0216787,"['Comedy', 'Drama', 'Romance']",['France']
+tt0217355,"['Drama', 'Mystery']",['USA']
+tt0217505,"['Crime', 'Drama']","['USA', 'Italy']"
+tt0218182,['Comedy'],['USA']
+tt0218839,['Comedy'],['USA']
+tt0218922,"['Drama', 'Mystery', 'Romance']","['France', 'Mexico', 'USA']"
+tt0218967,"['Comedy', 'Drama', 'Fantasy']",['USA']
+tt0219653,"['Action', 'Fantasy', 'Horror']",['USA']
+tt0219699,"['Drama', 'Fantasy', 'Horror']",['USA']
+tt0220506,"['Horror', 'Thriller']",['USA']
+tt0221799,['Drama'],"['USA', 'Hungary']"
+tt0226009,"['Drama', 'Comedy', 'Romance']",['USA']
+tt0226935,['Drama'],['USA']
+tt0227005,"['Comedy', 'Crime', 'Drama']",['USA']
+tt0227445,"['Crime', 'Drama', 'Thriller']","['Germany', 'Canada', 'USA']"
+tt0227538,"['Action', 'Adventure', 'Comedy']",['USA']
+tt0228333,"['Action', 'Horror', 'Sci-Fi']",['USA']
+tt0229260,"['Adventure', 'Fantasy', 'Horror']",['USA']
+tt0229440,"['Crime', 'Horror', 'Mystery']",['USA']
+tt0230169,"['Biography', 'Crime', 'Drama']","['USA', 'UK']"
+tt0230512,"['Documentary', 'Biography', 'Music']",['USA']
+tt0230600,"['Horror', 'Mystery', 'Thriller']","['Spain', 'USA', 'France', 'Italy']"
+tt0232500,"['Action', 'Crime', 'Thriller']","['USA', 'Germany']"
+tt0233277,"['Family', 'Fantasy']","['USA', 'Germany', 'UK']"
+tt0233657,"['Sci-Fi', 'Thriller']",['USA']
+tt0234137,"['Comedy', 'Romance', 'Drama']","['USA', 'Canada']"
+tt0234215,"['Action', 'Sci-Fi']",['USA']
+tt0234354,"['Comedy', 'Crime', 'Drama']",['USA']
+tt0234829,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0236493,"['Adventure', 'Comedy', 'Crime']","['USA', 'Mexico']"
+tt0236640,"['Biography', 'Drama', 'Romance']","['Germany', 'Canada', 'USA']"
+tt0238112,"['Drama', 'Music', 'Romance']","['UK', 'France', 'USA']"
+tt0238380,"['Action', 'Drama', 'Sci-Fi']",['USA']
+tt0238546,"['Drama', 'Fantasy', 'Horror']","['USA', 'Australia']"
+tt0238924,"['Comedy', 'Drama']",['USA']
+tt0239060,"['Drama', 'Romance']",['Netherlands']
+tt0239395,"['Action', 'Comedy', 'Family']","['USA', 'Australia']"
+tt0239986,"['Comedy', 'Romance']",['USA']
+tt0240468,"['Action', 'Comedy']","['USA', 'Hong Kong', 'Mexico', 'Taiwan']"
+tt0240510,"['Action', 'Adventure', 'Drama']","['UK', 'USA']"
+tt0240601,['Thriller'],['Germany']
+tt0240772,"['Crime', 'Thriller']",['USA']
+tt0240890,"['Comedy', 'Romance']","['USA', 'Canada']"
+tt0241303,"['Drama', 'Romance']","['UK', 'USA']"
+tt0241527,"['Adventure', 'Family', 'Fantasy']","['UK', 'USA']"
+tt0242423,"['Comedy', 'Mystery', 'Sci-Fi']",['USA']
+tt0242508,"['Comedy', 'Crime', 'Drama']",['USA']
+tt0242527,"['Drama', 'Mystery', 'Thriller']",['UK']
+tt0242653,"['Action', 'Sci-Fi']",['USA']
+tt0243133,"['Crime', 'Drama']","['UK', 'USA']"
+tt0243155,"['Comedy', 'Drama', 'Romance']","['UK', 'France', 'USA']"
+tt0243585,"['Animation', 'Adventure', 'Comedy']",['USA']
+tt0243655,"['Comedy', 'Romance']",['USA']
+tt0243736,"['Comedy', 'Romance']","['USA', 'UK', 'France']"
+tt0244244,"['Action', 'Crime', 'Thriller']",['USA']
+tt0244970,"['Comedy', 'Romance']",['USA']
+tt0245046,"['Drama', 'Romance', 'Thriller']","['UK', 'Australia', 'Germany']"
+tt0245238,"['Drama', 'Romance']",['Canada']
+tt0245429,"['Animation', 'Adventure', 'Family']",['Japan']
+tt0245562,"['Action', 'Drama', 'War']",['USA']
+tt0245574,['Drama'],['Mexico']
+tt0245686,"['Adventure', 'Comedy', 'Drama']",['USA']
+tt0245712,"['Drama', 'Thriller']",['Mexico']
+tt0245803,"['Action', 'Comedy', 'Fantasy']","['USA', 'Canada']"
+tt0246460,"['Action', 'Adventure', 'Thriller']","['UK', 'USA']"
+tt0246544,"['Action', 'Adventure', 'Romance']","['Germany', 'Luxembourg', 'UK', 'USA']"
+tt0246772,"['Comedy', 'Romance', 'Drama']","['Germany', 'Italy', 'Austria', 'Switzerland']"
+tt0247425,"['Crime', 'Drama']",['USA']
+tt0247745,"['Comedy', 'Crime', 'Mystery']",['USA']
+tt0247786,['Drama'],['UK']
+tt0249462,"['Drama', 'Music']","['UK', 'France']"
+tt0249478,"['Crime', 'Mystery', 'Thriller']",['USA']
+tt0250202,"['Comedy', 'Romance']",['USA']
+tt0250323,"['Crime', 'Drama', 'Mystery']",['USA']
+tt0250494,"['Comedy', 'Romance']",['USA']
+tt0250687,"['Adventure', 'Comedy']","['USA', 'Canada']"
+tt0250720,"['Action', 'Comedy', 'Crime']","['USA', 'Australia']"
+tt0250797,"['Drama', 'Romance', 'Thriller']","['France', 'Germany', 'USA']"
+tt0251075,"['Comedy', 'Sci-Fi']",['USA']
+tt0251114,"['Drama', 'War']",['USA']
+tt0251127,"['Comedy', 'Romance']","['USA', 'Germany']"
+tt0251160,"['Crime', 'Drama', 'Thriller']",['USA']
+tt0251736,['Horror'],['USA']
+tt0252028,"['Comedy', 'Romance']",['USA']
+tt0252299,"['Comedy', 'Crime', 'Drama']","['UK', 'Germany']"
+tt0252866,['Comedy'],['USA']
+tt0253474,"['Biography', 'Drama', 'Music']","['UK', 'France', 'Poland', 'Germany']"
+tt0253754,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt0255477,"['Comedy', 'Family', 'Fantasy']",['Italy']
+tt0256380,"['Comedy', 'Drama', 'Fantasy']","['USA', 'Germany']"
+tt0257044,"['Crime', 'Drama', 'Thriller']",['USA']
+tt0257076,"['Action', 'Adventure', 'Crime']",['USA']
+tt0257106,['Comedy'],"['USA', 'Canada']"
+tt0258000,"['Crime', 'Drama', 'Thriller']",['USA']
+tt0258038,"['Action', 'Adventure', 'Comedy']",['USA']
+tt0258068,"['Drama', 'Romance', 'Thriller']","['UK', 'Germany', 'USA', 'Vietnam', 'Australia', 'France', 'Canada']"
+tt0258273,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0258463,"['Action', 'Mystery', 'Thriller']","['USA', 'Germany', 'Czech Republic']"
+tt0259324,"['Action', 'Fantasy', 'Thriller']","['USA', 'Australia']"
+tt0259567,"['Drama', 'Romance']",['USA']
+tt0259711,"['Fantasy', 'Mystery', 'Romance']","['USA', 'Spain']"
+tt0261289,"['Comedy', 'Romance']","['Germany', 'USA']"
+tt0261392,['Comedy'],['USA']
+tt0263101,"['Action', 'Crime', 'Thriller']",['Thailand']
+tt0263488,"['Horror', 'Mystery']","['USA', 'Germany']"
+tt0263734,"['Comedy', 'Drama', 'Romance']",['Canada']
+tt0263757,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0264150,"['Comedy', 'Romance']",['USA']
+tt0264323,"['Comedy', 'Horror']",['USA']
+tt0264464,"['Biography', 'Crime', 'Drama']","['USA', 'Canada']"
+tt0264472,"['Drama', 'Thriller']",['USA']
+tt0264616,"['Crime', 'Drama', 'Thriller']","['USA', 'Germany']"
+tt0264734,"['Animation', 'Adventure', 'Biography']",['USA']
+tt0264761,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0264935,"['Crime', 'Mystery', 'Thriller']",['USA']
+tt0265298,"['Adventure', 'Comedy', 'Family']","['USA', 'Germany']"
+tt0265459,"['Drama', 'Thriller']",['USA']
+tt0266489,['Comedy'],"['Germany', 'USA']"
+tt0266697,"['Action', 'Crime', 'Thriller']","['USA', 'Japan']"
+tt0266747,"['Comedy', 'Music']","['Germany', 'USA']"
+tt0266915,"['Action', 'Comedy', 'Crime']","['Hong Kong', 'USA']"
+tt0267248,"['Drama', 'Mystery', 'Romance']","['USA', 'Germany', 'Canada']"
+tt0267913,"['Adventure', 'Comedy', 'Family']","['USA', 'Australia']"
+tt0268126,"['Comedy', 'Drama']",['USA']
+tt0268380,"['Animation', 'Adventure', 'Comedy']",['USA']
+tt0268397,"['Animation', 'Action', 'Adventure']",['USA']
+tt0268695,"['Action', 'Adventure', 'Sci-Fi']","['USA', 'United Arab Emirates']"
+tt0268978,"['Biography', 'Drama']",['USA']
+tt0269743,['Comedy'],['South Korea']
+tt0270288,"['Biography', 'Comedy', 'Crime']","['USA', 'Germany', 'Canada']"
+tt0271219,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0271263,"['Animation', 'Comedy', 'Musical']",['USA']
+tt0272020,"['Action', 'Drama', 'Thriller']",['USA']
+tt0272207,"['Crime', 'Drama', 'Mystery']","['USA', 'Canada']"
+tt0273453,"['Comedy', 'Drama']",['USA']
+tt0273923,"['Comedy', 'Drama']",['USA']
+tt0274166,"['Action', 'Adventure', 'Comedy']","['UK', 'France', 'USA']"
+tt0274309,"['Biography', 'Comedy', 'Drama']",['UK']
+tt0274558,"['Drama', 'Romance']","['USA', 'UK', 'France', 'Canada', 'Germany']"
+tt0274812,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0275022,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0276276,"['Comedy', 'Drama', 'Romance']","['UK', 'France']"
+tt0276751,"['Comedy', 'Drama', 'Romance']","['UK', 'USA', 'France', 'Germany']"
+tt0276919,"['Crime', 'Drama']","['Denmark', 'Netherlands', 'Sweden', 'Germany', 'UK', 'France', 'Finland', 'Norway', 'Italy']"
+tt0277027,['Drama'],['USA']
+tt0277296,"['Action', 'Adventure', 'Fantasy']","['USA', 'Germany', 'Belgium']"
+tt0277371,['Comedy'],['USA']
+tt0277434,"['Action', 'Drama', 'History']","['USA', 'Germany', 'France']"
+tt0278500,"['Comedy', 'Drama', 'Romance']","['UK', 'USA']"
+tt0279493,"['Action', 'Comedy']",['USA']
+tt0279688,['Horror'],['USA']
+tt0280438,"['Crime', 'Drama']",['USA']
+tt0280460,"['Comedy', 'Drama']",['USA']
+tt0280590,"['Comedy', 'Romance']",['USA']
+tt0280605,"['Comedy', 'Crime']","['Australia', 'Canada']"
+tt0280609,"['Action', 'Horror', 'Thriller']","['UK', 'Luxembourg', 'USA']"
+tt0280778,"['Biography', 'Drama', 'Romance']","['UK', 'USA']"
+tt0281322,"['Action', 'Crime', 'Drama']","['USA', 'Germany', 'Japan']"
+tt0281686,"['Comedy', 'Fantasy', 'Horror']",['USA']
+tt0282120,"['Animation', 'Adventure', 'Comedy']",['USA']
+tt0282209,"['Fantasy', 'Horror', 'Mystery']","['USA', 'Australia']"
+tt0283026,"['Drama', 'Thriller']",['USA']
+tt0283090,"['Comedy', 'Crime', 'Drama']",['USA']
+tt0283111,"['Comedy', 'Romance']","['Germany', 'USA']"
+tt0283897,"['Crime', 'Drama', 'Romance']","['USA', 'Argentina']"
+tt0284491,"['Crime', 'Drama']","['Spain', 'France', 'Italy', 'Mexico']"
+tt0284837,['Comedy'],"['France', 'UK', 'Germany']"
+tt0284929,"['Biography', 'Crime', 'Drama']","['UK', 'USA']"
+tt0285487,"['Drama', 'Thriller']",['USA']
+tt0285728,"['Biography', 'Crime', 'Drama']",['USA']
+tt0285742,"['Drama', 'Romance']",['USA']
+tt0285823,"['Action', 'Crime', 'Thriller']","['USA', 'Mexico']"
+tt0286112,"['Action', 'Comedy', 'Fantasy']","['Hong Kong', 'China']"
+tt0286306,"['Drama', 'Horror', 'War']","['UK', 'Germany']"
+tt0286499,"['Comedy', 'Drama', 'Romance']","['UK', 'Germany', 'USA']"
+tt0286716,"['Action', 'Sci-Fi']",['USA']
+tt0286788,"['Comedy', 'Drama', 'Family']","['USA', 'UK']"
+tt0286947,"['Comedy', 'Crime']",['USA']
+tt0287717,"['Action', 'Adventure', 'Comedy']",['USA']
+tt0288477,['Horror'],"['USA', 'Australia']"
+tt0289043,"['Drama', 'Horror', 'Sci-Fi']","['UK', 'Spain']"
+tt0289765,"['Crime', 'Drama', 'Thriller']","['Germany', 'USA']"
+tt0289879,"['Drama', 'Sci-Fi', 'Thriller']","['USA', 'Canada']"
+tt0289944,['Thriller'],"['Denmark', 'Canada', 'UK', 'Brazil']"
+tt0290002,"['Comedy', 'Romance']",['USA']
+tt0290095,"['Action', 'Comedy', 'Sci-Fi']",['USA']
+tt0290212,"['Comedy', 'Romance']",['USA']
+tt0290334,"['Action', 'Sci-Fi', 'Thriller']","['Canada', 'USA']"
+tt0290747,"['Action', 'Adventure', 'Horror']","['USA', 'Germany', 'Australia']"
+tt0291341,"['Comedy', 'Crime', 'Drama']","['UK', 'USA']"
+tt0292644,"['Comedy', 'Drama', 'Romance']","['Germany', 'USA']"
+tt0292963,"['Crime', 'Drama', 'Thriller']",['USA']
+tt0293564,"['Action', 'Comedy', 'Crime']","['USA', 'Germany']"
+tt0293662,"['Action', 'Crime', 'Thriller']","['France', 'USA']"
+tt0293815,"['Comedy', 'Drama']",['USA']
+tt0294357,"['Adventure', 'Drama', 'Romance']","['Germany', 'USA']"
+tt0295178,"['Action', 'Adventure', 'Comedy']",['USA']
+tt0295289,"['Comedy', 'Romance']",['USA']
+tt0295297,"['Adventure', 'Family', 'Fantasy']","['UK', 'USA', 'Germany']"
+tt0296572,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt0297037,"['Romance', 'Comedy', 'Drama']",['USA']
+tt0297181,"['Action', 'Adventure', 'Comedy']","['USA', 'Hungary']"
+tt0297884,['Drama'],"['USA', 'France']"
+tt0298148,"['Animation', 'Adventure', 'Comedy']",['USA']
+tt0298203,"['Drama', 'Music']","['USA', 'Germany']"
+tt0298388,"['Animation', 'Adventure', 'Comedy']","['USA', 'UK']"
+tt0298814,"['Action', 'Adventure', 'Sci-Fi']","['USA', 'Germany', 'Canada', 'UK']"
+tt0298845,['Drama'],"['Ireland', 'UK', 'USA']"
+tt0299117,"['Comedy', 'Drama']",['USA']
+tt0299658,"['Comedy', 'Crime', 'Musical']","['USA', 'Germany', 'Canada']"
+tt0299977,"['Action', 'Adventure', 'History']","['China', 'Hong Kong']"
+tt0299981,"['Action', 'Adventure', 'Drama']","['UK', 'Lithuania']"
+tt0300051,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0300532,"['Drama', 'Romance', 'Sport']","['USA', 'Germany']"
+tt0300556,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt0301199,"['Crime', 'Drama', 'Thriller']",['UK']
+tt0301470,['Horror'],['USA']
+tt0301976,['Drama'],['USA']
+tt0302674,"['Adventure', 'Drama', 'Mystery']","['USA', 'Argentina', 'Jordan']"
+tt0302886,['Comedy'],['USA']
+tt0303361,"['Comedy', 'Drama', 'Horror']",['USA']
+tt0303714,"['Comedy', 'Drama']",['USA']
+tt0303816,['Horror'],['USA']
+tt0303933,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0304141,"['Adventure', 'Family', 'Fantasy']","['UK', 'USA']"
+tt0305224,['Comedy'],['USA']
+tt0305357,"['Action', 'Adventure', 'Comedy']",['USA']
+tt0305396,"['Action', 'Adventure', 'Comedy']","['Australia', 'USA']"
+tt0305556,"['Comedy', 'Sci-Fi']",['USA']
+tt0305711,"['Comedy', 'Romance']","['USA', 'Germany']"
+tt0306047,['Comedy'],"['USA', 'Canada']"
+tt0307351,"['Drama', 'Music']",['USA']
+tt0307507,"['Action', 'Crime', 'Mystery']","['Canada', 'USA']"
+tt0307987,"['Comedy', 'Crime', 'Drama']","['Germany', 'USA']"
+tt0308353,"['Animation', 'Adventure', 'Comedy']","['USA', 'Germany', 'Canada', 'UK']"
+tt0308508,"['Documentary', 'Sport']",['USA']
+tt0308644,"['Biography', 'Drama', 'Family']","['USA', 'UK']"
+tt0309452,"['Action', 'Drama', 'Sport']",['Canada']
+tt0309912,"['Adventure', 'Drama', 'Romance']","['UK', 'USA']"
+tt0310281,"['Comedy', 'Music']",['USA']
+tt0310793,"['Documentary', 'Crime', 'Drama']","['USA', 'Canada', 'Germany']"
+tt0310924,"['Action', 'Comedy', 'Crime']","['UK', 'Canada']"
+tt0311113,"['Action', 'Adventure', 'Drama']",['USA']
+tt0311429,"['Action', 'Adventure', 'Fantasy']","['USA', 'Germany', 'Czech Republic', 'UK']"
+tt0311648,"['Comedy', 'Drama']",['USA']
+tt0312004,"['Animation', 'Adventure', 'Comedy']","['UK', 'USA']"
+tt0312329,"['Biography', 'Drama', 'Romance']","['USA', 'Germany']"
+tt0312528,"['Adventure', 'Comedy', 'Family']",['USA']
+tt0312640,"['Action', 'Sci-Fi', 'Thriller']",['USA']
+tt0313443,"['Crime', 'Drama', 'Mystery']",['USA']
+tt0313737,"['Comedy', 'Romance']","['USA', 'Australia']"
+tt0313911,"['Action', 'Adventure', 'Comedy']","['USA', 'Canada']"
+tt0314331,"['Comedy', 'Drama', 'Romance']","['UK', 'USA', 'France']"
+tt0314498,"['Comedy', 'Crime']","['USA', 'Germany']"
+tt0314676,"['Comedy', 'Crime', 'Musical']",['USA']
+tt0315327,"['Comedy', 'Drama', 'Fantasy']",['USA']
+tt0315733,"['Crime', 'Drama', 'Thriller']",['USA']
+tt0316654,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt0316732,"['Action', 'Comedy', 'Crime']","['USA', 'France']"
+tt0317198,"['Comedy', 'Drama', 'Romance']","['UK', 'France', 'Germany', 'Ireland', 'USA']"
+tt0317248,"['Crime', 'Drama']","['Brazil', 'France', 'Germany']"
+tt0317676,"['Action', 'Adventure', 'Horror']","['Germany', 'Canada', 'USA']"
+tt0317740,"['Action', 'Crime', 'Thriller']","['USA', 'France', 'Italy', 'UK', 'Germany']"
+tt0317919,"['Action', 'Adventure', 'Thriller']","['USA', 'Germany', 'China', 'Italy']"
+tt0318155,"['Animation', 'Adventure', 'Comedy']","['Germany', 'USA']"
+tt0318374,"['Drama', 'Romance']",['USA']
+tt0318462,"['Adventure', 'Biography', 'Drama']","['Argentina', 'USA', 'Chile', 'Peru', 'Brazil', 'UK', 'Germany', 'France']"
+tt0319061,"['Adventure', 'Drama', 'Fantasy']",['USA']
+tt0319262,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt0319343,"['Comedy', 'Family', 'Fantasy']",['USA']
+tt0319531,"['Crime', 'Drama', 'Mystery']","['UK', 'USA']"
+tt0320244,"['Biography', 'Crime', 'Drama']","['USA', 'Netherlands']"
+tt0320661,"['Action', 'Adventure', 'Drama']","['UK', 'Germany', 'Spain', 'Morocco', 'USA', 'Italy', 'France']"
+tt0320691,"['Action', 'Fantasy', 'Thriller']","['USA', 'UK', 'Germany', 'Hungary']"
+tt0321442,"['Comedy', 'Drama', 'Mystery']",['USA']
+tt0321704,"['Action', 'Drama', 'Sport']","['Canada', 'USA']"
+tt0322259,"['Action', 'Crime', 'Thriller']","['USA', 'Germany']"
+tt0322589,"['Drama', 'Music', 'Romance']",['USA']
+tt0322659,"['Drama', 'Fantasy']",['USA']
+tt0322802,"['Documentary', 'Action', 'Comedy']",['USA']
+tt0323939,"['Crime', 'Thriller']",['USA']
+tt0323944,"['Drama', 'History']","['USA', 'Canada']"
+tt0324127,"['Crime', 'Horror', 'Mystery']","['UK', 'Germany', 'USA']"
+tt0324133,"['Crime', 'Drama', 'Mystery']","['France', 'UK']"
+tt0324216,['Horror'],['USA']
+tt0325258,['Comedy'],['USA']
+tt0325537,['Comedy'],['USA']
+tt0325703,"['Action', 'Adventure', 'Fantasy']","['USA', 'Germany', 'Japan', 'UK', 'Hong Kong']"
+tt0325710,"['Action', 'Drama', 'War']","['USA', 'New Zealand', 'Japan']"
+tt0325805,"['Comedy', 'Crime', 'Drama']","['USA', 'UK']"
+tt0326769,"['Action', 'Drama']",['USA']
+tt0326856,['Comedy'],['USA']
+tt0327056,"['Crime', 'Drama', 'Mystery']","['USA', 'Australia']"
+tt0327162,"['Comedy', 'Horror', 'Sci-Fi']",['USA']
+tt0327597,"['Animation', 'Drama', 'Family']",['USA']
+tt0327643,"['Comedy', 'Romance']",['USA']
+tt0327679,"['Comedy', 'Family', 'Fantasy']","['USA', 'Ireland', 'UK']"
+tt0327850,"['Action', 'Adventure', 'Comedy']",['USA']
+tt0327919,"['Adventure', 'Drama']","['UK', 'USA']"
+tt0328031,"['Crime', 'Drama', 'Thriller']",['USA']
+tt0328107,"['Action', 'Crime', 'Drama']","['USA', 'UK', 'Mexico', 'Switzerland']"
+tt0328828,['Comedy'],"['USA', 'Germany']"
+tt0329101,"['Action', 'Horror']","['Canada', 'USA']"
+tt0329575,"['Drama', 'History', 'Sport']",['USA']
+tt0330181,"['Biography', 'Crime', 'Drama']",['USA']
+tt0330373,"['Adventure', 'Family', 'Fantasy']","['UK', 'USA']"
+tt0331632,"['Adventure', 'Comedy', 'Family']","['USA', 'Canada']"
+tt0332047,"['Comedy', 'Drama', 'Romance']","['USA', 'Germany']"
+tt0332280,"['Drama', 'Romance']",['USA']
+tt0332375,"['Comedy', 'Drama']","['USA', 'Canada']"
+tt0332379,"['Comedy', 'Music']","['USA', 'Germany']"
+tt0332452,"['Drama', 'History']","['USA', 'Malta', 'UK']"
+tt0333766,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0333780,['Comedy'],['USA']
+tt0335119,"['Biography', 'Drama', 'Romance']","['UK', 'Luxembourg']"
+tt0335266,"['Drama', 'Romance']","['USA', 'Japan']"
+tt0335438,"['Comedy', 'Crime']",['USA']
+tt0335559,"['Comedy', 'Romance']",['USA']
+tt0337579,"['Comedy', 'Drama']",['USA']
+tt0337697,"['Comedy', 'Family', 'Romance']","['USA', 'Czech Republic']"
+tt0337711,"['Animation', 'Adventure', 'Comedy']",['USA']
+tt0337721,"['Adventure', 'Drama']",['Canada']
+tt0337879,"['Comedy', 'Drama', 'Sport']",['UK']
+tt0337972,['Western'],['USA']
+tt0337978,"['Action', 'Thriller']","['USA', 'UK']"
+tt0338013,"['Drama', 'Romance', 'Sci-Fi']",['USA']
+tt0338075,"['Adventure', 'Comedy', 'Drama']","['USA', 'UK']"
+tt0338095,['Horror'],"['France', 'Italy', 'Romania']"
+tt0338096,"['Drama', 'Music', 'Romance']",['USA']
+tt0338135,"['Comedy', 'Crime', 'Drama']","['Canada', 'France']"
+tt0338216,"['Drama', 'Romance', 'Sport']","['USA', 'Germany', 'Australia']"
+tt0338348,"['Animation', 'Adventure', 'Comedy']",['USA']
+tt0338526,"['Action', 'Adventure', 'Fantasy']","['USA', 'Czech Republic', 'Romania']"
+tt0338564,"['Crime', 'Drama', 'Mystery']",['Hong Kong']
+tt0338751,"['Biography', 'Drama']","['Germany', 'USA']"
+tt0339091,"['Action', 'Drama', 'Western']",['USA']
+tt0339291,"['Adventure', 'Comedy', 'Family']","['Germany', 'USA']"
+tt0339294,"['Comedy', 'Fantasy', 'Horror']",['USA']
+tt0339526,"['Crime', 'Drama', 'Thriller']",['USA']
+tt0339727,"['Drama', 'Music', 'Romance']","['Germany', 'USA']"
+tt0340163,"['Action', 'Crime', 'Drama']","['USA', 'Germany']"
+tt0340377,"['Comedy', 'Drama']",['USA']
+tt0340855,"['Biography', 'Crime', 'Drama']","['Germany', 'USA']"
+tt0343121,"['Documentary', 'Biography', 'Music']",['USA']
+tt0343135,"['Comedy', 'Romance']",['USA']
+tt0343660,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0343818,"['Action', 'Drama', 'Sci-Fi']","['USA', 'Germany']"
+tt0344510,"['Drama', 'Mystery', 'Romance']","['France', 'USA']"
+tt0344604,"['Comedy', 'Romance']",['France']
+tt0345950,"['Animation', 'Adventure', 'Comedy']",['USA']
+tt0348150,"['Action', 'Sci-Fi']",['USA']
+tt0348333,['Comedy'],['USA']
+tt0348505,"['Drama', 'Romance', 'Thriller']","['UK', 'Ireland']"
+tt0348836,"['Horror', 'Mystery', 'Thriller']","['USA', 'France', 'Canada', 'Spain']"
+tt0349205,"['Comedy', 'Family']",['USA']
+tt0349889,"['Action', 'Adventure', 'Drama']","['Aruba', 'USA']"
+tt0349903,"['Crime', 'Thriller']",['USA']
+tt0350258,"['Biography', 'Drama', 'Music']",['USA']
+tt0350261,"['Drama', 'Family', 'Romance']","['Germany', 'USA']"
+tt0351283,"['Animation', 'Adventure', 'Comedy']",['USA']
+tt0351977,"['Action', 'Crime']",['USA']
+tt0352248,"['Biography', 'Drama', 'History']",['USA']
+tt0352277,"['Biography', 'Drama', 'Music']","['UK', 'USA']"
+tt0353489,"['Horror', 'Thriller']",['Canada']
+tt0355295,"['Action', 'Adventure', 'Comedy']","['USA', 'Czech Republic', 'UK']"
+tt0355702,"['Biography', 'Drama', 'Sport']","['USA', 'Germany']"
+tt0356634,"['Animation', 'Comedy', 'Family']",['USA']
+tt0356680,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0356721,['Comedy'],"['UK', 'Germany', 'USA']"
+tt0357277,"['Action', 'Adventure', 'Crime']","['Canada', 'USA', 'Switzerland']"
+tt0357413,['Comedy'],['USA']
+tt0357470,"['Drama', 'Romance', 'Comedy']",['USA']
+tt0357507,"['Drama', 'Horror', 'Mystery']","['USA', 'New Zealand', 'Germany']"
+tt0358135,"['Comedy', 'Drama', 'Music']",['USA']
+tt0358273,"['Biography', 'Drama', 'Music']","['USA', 'Germany']"
+tt0358569,"['Documentary', 'Music']",['UK']
+tt0359517,['Comedy'],['USA']
+tt0360009,"['Action', 'Crime', 'Drama']","['Germany', 'USA']"
+tt0360717,"['Action', 'Adventure', 'Drama']","['New Zealand', 'USA', 'Germany']"
+tt0361411,"['Comedy', 'Drama', 'Musical']","['UK', 'USA', 'India']"
+tt0361693,"['Comedy', 'Drama', 'Music']",['USA']
+tt0361748,"['Adventure', 'Drama', 'War']","['Germany', 'USA']"
+tt0362120,['Comedy'],['USA']
+tt0362478,"['Drama', 'Fantasy', 'Mystery']",['USA']
+tt0362506,"['Crime', 'Drama']",['USA']
+tt0362590,"['Comedy', 'Drama']",['USA']
+tt0363095,"['Crime', 'Drama', 'Mystery']","['UK', 'Ireland']"
+tt0363143,"['Drama', 'Horror', 'Mystery']",['UK']
+tt0363226,"['Action', 'Comedy', 'Crime']",['Japan']
+tt0363276,"['Horror', 'Thriller']",['USA']
+tt0363473,"['Biography', 'Drama', 'Music']","['UK', 'Germany', 'USA']"
+tt0363547,"['Action', 'Horror']","['USA', 'Canada', 'Japan', 'France']"
+tt0364385,['Horror'],['Japan']
+tt0364725,"['Comedy', 'Sport']",['USA']
+tt0364751,"['Adventure', 'Comedy', 'Mystery']","['USA', 'New Zealand']"
+tt0365265,"['Drama', 'Horror']",['Canada']
+tt0365485,"['Comedy', 'Crime', 'Thriller']","['Ireland', 'Mexico', 'Germany', 'USA']"
+tt0365748,"['Comedy', 'Horror']","['UK', 'France']"
+tt0365907,"['Action', 'Crime', 'Drama']",['USA']
+tt0365957,"['Drama', 'Music']",['USA']
+tt0366174,"['Action', 'Adventure', 'Horror']",['USA']
+tt0366548,"['Animation', 'Adventure', 'Comedy']","['USA', 'Australia']"
+tt0366551,"['Adventure', 'Comedy']","['USA', 'Canada', 'Germany']"
+tt0367085,['Comedy'],['USA']
+tt0367089,"['Comedy', 'Drama']",['USA']
+tt0367232,['Comedy'],['Canada']
+tt0367594,"['Adventure', 'Comedy', 'Family']","['UK', 'USA']"
+tt0367652,['Comedy'],['USA']
+tt0367882,"['Action', 'Adventure']",['USA']
+tt0367913,"['Drama', 'Horror']",['Japan']
+tt0367959,"['Adventure', 'Crime', 'Drama']","['UK', 'Czech Republic', 'France', 'Italy', 'USA']"
+tt0368008,"['Drama', 'Mystery', 'Sci-Fi']",['USA']
+tt0368688,"['Action', 'Crime', 'Thriller']","['USA', 'Canada']"
+tt0368709,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0368794,"['Biography', 'Drama', 'Music']","['Germany', 'Canada', 'USA']"
+tt0368909,"['Action', 'Crime', 'Thriller']",['Thailand']
+tt0369339,"['Crime', 'Drama', 'Thriller']",['USA']
+tt0369441,"['Comedy', 'Crime']",['USA']
+tt0369610,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt0369672,['Drama'],['USA']
+tt0369735,"['Comedy', 'Romance']","['USA', 'Germany']"
+tt0370263,"['Action', 'Adventure', 'Horror']","['USA', 'UK', 'Czech Republic', 'Canada', 'Germany']"
+tt0371246,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0371746,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt0372183,"['Action', 'Mystery', 'Thriller']","['USA', 'Germany']"
+tt0372334,"['Comedy', 'Drama']",['USA']
+tt0372588,"['Action', 'Comedy']","['USA', 'Germany']"
+tt0372784,"['Action', 'Adventure']","['USA', 'UK']"
+tt0372824,"['Drama', 'Music']","['France', 'Switzerland', 'Germany']"
+tt0373051,"['Action', 'Adventure', 'Family']",['USA']
+tt0373469,"['Action', 'Comedy', 'Crime']",['USA']
+tt0373883,['Horror'],['USA']
+tt0373889,"['Action', 'Adventure', 'Family']","['UK', 'USA']"
+tt0373908,"['Comedy', 'Drama', 'Family']","['Germany', 'USA']"
+tt0374102,"['Adventure', 'Drama', 'Horror']",['USA']
+tt0374286,"['Action', 'Mystery', 'Sci-Fi']",['USA']
+tt0374536,"['Comedy', 'Fantasy', 'Romance']",['USA']
+tt0374563,"['Crime', 'Drama', 'Horror']","['USA', 'Russia']"
+tt0374900,['Comedy'],['USA']
+tt0375063,"['Comedy', 'Drama', 'Romance']","['USA', 'Hungary']"
+tt0375173,"['Comedy', 'Drama', 'Romance']","['UK', 'USA']"
+tt0375568,"['Animation', 'Action', 'Comedy']","['Japan', 'Hong Kong', 'USA']"
+tt0375679,"['Crime', 'Drama', 'Thriller']","['USA', 'Germany']"
+tt0375912,"['Action', 'Crime', 'Drama']",['UK']
+tt0376541,"['Drama', 'Romance']","['USA', 'UK']"
+tt0376994,"['Action', 'Sci-Fi']","['Canada', 'USA', 'UK']"
+tt0377062,"['Action', 'Adventure', 'Drama']",['USA']
+tt0377091,"['Crime', 'Drama']",['USA']
+tt0377092,['Comedy'],"['USA', 'Canada']"
+tt0377107,"['Drama', 'Mystery']",['USA']
+tt0377109,"['Horror', 'Mystery']",['USA']
+tt0377471,"['Comedy', 'Crime', 'Drama']",['USA']
+tt0377808,"['Action', 'Adventure', 'Fantasy']","['USA', 'Germany']"
+tt0377818,['Comedy'],['USA']
+tt0378109,"['Action', 'Adventure', 'Crime']",['USA']
+tt0378194,"['Action', 'Crime', 'Thriller']",['USA']
+tt0378407,['Documentary'],['USA']
+tt0379725,"['Biography', 'Crime', 'Drama']","['USA', 'Canada']"
+tt0379786,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt0380201,"['Action', 'Crime', 'Drama']",['USA']
+tt0380510,"['Drama', 'Fantasy', 'Thriller']","['USA', 'UK', 'New Zealand']"
+tt0381061,"['Action', 'Adventure', 'Thriller']","['UK', 'Czech Republic', 'USA', 'Germany', 'Bahamas']"
+tt0381681,"['Drama', 'Romance']","['USA', 'France']"
+tt0381849,"['Action', 'Crime', 'Drama']",['USA']
+tt0382077,"['Drama', 'Horror', 'Mystery']","['Germany', 'USA']"
+tt0382625,"['Action', 'Mystery', 'Thriller']","['USA', 'Malta', 'France', 'UK']"
+tt0382810,"['Crime', 'Drama', 'Romance']",['Australia']
+tt0382856,"['Adventure', 'Comedy', 'Horror']",['Canada']
+tt0382943,"['Comedy', 'Horror', 'Mystery']",['USA']
+tt0382992,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt0383216,"['Adventure', 'Comedy', 'Crime']","['USA', 'Czech Republic']"
+tt0383694,"['Crime', 'Drama']","['UK', 'France']"
+tt0384642,"['Comedy', 'Family', 'Romance']",['USA']
+tt0384680,"['Comedy', 'Drama']","['USA', 'Germany']"
+tt0384793,['Comedy'],['USA']
+tt0384806,['Horror'],['USA']
+tt0384814,"['Drama', 'Romance']","['USA', 'Germany']"
+tt0385004,"['Action', 'Adventure', 'Drama']","['China', 'Hong Kong']"
+tt0385057,['Comedy'],"['Canada', 'UK', 'USA']"
+tt0385267,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0385307,"['Action', 'Comedy', 'Crime']",['USA']
+tt0385880,"['Animation', 'Adventure', 'Comedy']",['USA']
+tt0385988,"['Adventure', 'Family', 'Musical']",['USA']
+tt0386032,"['Documentary', 'Drama']",['USA']
+tt0386117,"['Adventure', 'Drama', 'Family']","['Germany', 'Australia', 'USA']"
+tt0386140,"['Action', 'Adventure', 'Romance']","['USA', 'Mexico']"
+tt0386588,"['Comedy', 'Romance']",['USA']
+tt0386751,"['Drama', 'Mystery', 'Thriller']","['Canada', 'UK']"
+tt0387564,"['Horror', 'Mystery', 'Thriller']",['USA']
+tt0387575,"['Comedy', 'Fantasy', 'Horror']","['Romania', 'USA', 'UK']"
+tt0388125,"['Comedy', 'Drama', 'Romance']","['USA', 'Germany', 'UK']"
+tt0388182,"['Comedy', 'Drama']",['USA']
+tt0388395,"['Comedy', 'Drama', 'Music']",['Germany']
+tt0388482,"['Action', 'Thriller']","['France', 'USA', 'Germany']"
+tt0388500,['Comedy'],['USA']
+tt0388795,"['Drama', 'Romance']","['USA', 'Canada']"
+tt0389790,"['Animation', 'Adventure', 'Comedy']","['USA', 'Australia']"
+tt0389860,"['Comedy', 'Drama', 'Fantasy']",['USA']
+tt0390022,"['Action', 'Drama', 'Sport']","['Germany', 'USA']"
+tt0390468,"['Drama', 'Thriller', 'War']",['USA']
+tt0391024,['Documentary'],['USA']
+tt0391198,"['Horror', 'Mystery', 'Thriller']","['USA', 'Japan']"
+tt0393162,"['Biography', 'Drama', 'Sport']","['USA', 'Germany']"
+tt0395169,"['Biography', 'Drama', 'History']","['UK', 'South Africa', 'Italy']"
+tt0395584,['Horror'],"['USA', 'Germany']"
+tt0395972,['Drama'],['USA']
+tt0396171,"['Crime', 'Drama']","['Germany', 'France', 'Spain', 'USA', 'Czech Republic', 'Belgium', 'Netherlands', 'Luxembourg', 'Latvia', 'UK']"
+tt0396184,"['Action', 'Crime', 'Drama']","['Denmark', 'UK']"
+tt0396269,"['Comedy', 'Romance']",['USA']
+tt0397044,"['Drama', 'Fantasy', 'Horror']","['USA', 'UK', 'Germany', 'Romania']"
+tt0397401,"['Comedy', 'Crime']",['USA']
+tt0397535,"['Drama', 'Romance']","['USA', 'Japan', 'France']"
+tt0398165,"['Comedy', 'Crime', 'Sport']",['USA']
+tt0399201,"['Action', 'Sci-Fi', 'Thriller']",['USA']
+tt0399295,"['Action', 'Crime', 'Drama']","['USA', 'Germany', 'France']"
+tt0399901,['Drama'],['USA']
+tt0400717,"['Animation', 'Adventure', 'Comedy']",['USA']
+tt0401383,"['Biography', 'Drama']","['France', 'USA']"
+tt0401420,"['Drama', 'Thriller']","['Canada', 'USA']"
+tt0401792,"['Crime', 'Thriller']",['USA']
+tt0401855,"['Action', 'Fantasy', 'Sci-Fi']",['USA']
+tt0402022,"['Action', 'Adventure', 'Crime']","['USA', 'Germany', 'Brazil', 'Italy']"
+tt0403702,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0405061,"['Horror', 'Mystery']","['Hong Kong', 'Singapore']"
+tt0405159,"['Drama', 'Sport']",['USA']
+tt0405163,['Comedy'],"['USA', 'Germany']"
+tt0405422,"['Comedy', 'Romance']",['USA']
+tt0406158,"['Biography', 'Drama']",['USA']
+tt0406375,"['Action', 'Adventure', 'Comedy']",['USA']
+tt0406650,"['Comedy', 'Drama']","['USA', 'Germany']"
+tt0407304,"['Adventure', 'Sci-Fi', 'Thriller']",['USA']
+tt0407887,"['Crime', 'Drama', 'Thriller']",['USA']
+tt0408236,"['Drama', 'Musical', 'Thriller']","['USA', 'UK']"
+tt0408306,"['Action', 'Drama', 'History']","['France', 'Canada', 'USA']"
+tt0408524,"['Comedy', 'Sport']",['USA']
+tt0408839,"['Comedy', 'Romance']",['USA']
+tt0408985,"['Comedy', 'Romance']",['USA']
+tt0409182,"['Action', 'Adventure', 'Drama']",['USA']
+tt0409459,"['Action', 'Drama', 'Mystery']",['USA']
+tt0409847,"['Action', 'Sci-Fi', 'Thriller']","['USA', 'India']"
+tt0410097,"['Crime', 'Drama', 'Music']",['USA']
+tt0411477,"['Action', 'Adventure', 'Fantasy']","['USA', 'Germany', 'Hungary']"
+tt0412019,"['Comedy', 'Drama', 'Mystery']","['France', 'USA']"
+tt0412798,"['Drama', 'Horror', 'Mystery']","['Germany', 'UK', 'USA']"
+tt0413099,"['Comedy', 'Family', 'Fantasy']",['USA']
+tt0413267,"['Animation', 'Adventure', 'Comedy']",['USA']
+tt0413300,"['Action', 'Sci-Fi']",['USA']
+tt0413466,"['Comedy', 'Drama']",['USA']
+tt0413895,"['Comedy', 'Family', 'Fantasy']","['USA', 'Germany', 'Australia']"
+tt0414055,"['Biography', 'Drama', 'History']","['UK', 'France', 'Germany', 'USA']"
+tt0414387,"['Drama', 'Romance']","['France', 'UK', 'USA']"
+tt0414852,"['Action', 'Crime', 'Sci-Fi']",['France']
+tt0414853,"['Animation', 'Adventure', 'Comedy']","['USA', 'Germany', 'Netherlands']"
+tt0415306,"['Comedy', 'Sport']",['USA']
+tt0416051,"['Comedy', 'Romance']",['USA']
+tt0416212,['Drama'],['USA']
+tt0416236,"['Action', 'Adventure', 'Drama']",['USA']
+tt0416320,"['Drama', 'Romance', 'Thriller']","['UK', 'Ireland', 'Luxembourg']"
+tt0416449,"['Action', 'Drama']","['USA', 'Canada', 'Bulgaria']"
+tt0416508,"['Biography', 'Drama', 'Romance']","['UK', 'Ireland']"
+tt0417148,"['Action', 'Crime', 'Thriller']","['USA', 'Germany']"
+tt0417741,"['Action', 'Adventure', 'Family']","['UK', 'USA']"
+tt0417751,"['Comedy', 'Romance']",['USA']
+tt0418279,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt0418647,"['Drama', 'Family', 'Sport']",['USA']
+tt0418819,"['Horror', 'Sci-Fi', 'Thriller']","['France', 'Canada', 'USA']"
+tt0419706,"['Action', 'Adventure', 'Fantasy']","['UK', 'Czech Republic', 'Germany', 'USA']"
+tt0419843,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0419887,['Drama'],"['USA', 'China', 'UK', 'Afghanistan']"
+tt0420251,['Horror'],"['Hong Kong', 'Japan', 'South Korea']"
+tt0420740,"['Drama', 'Thriller']","['Iceland', 'USA']"
+tt0420757,"['Comedy', 'Drama']",['USA']
+tt0421082,"['Biography', 'Drama', 'Music']","['UK', 'USA', 'Australia', 'Japan', 'France']"
+tt0421238,"['Crime', 'Drama', 'Western']","['Australia', 'UK']"
+tt0421239,"['Action', 'Mystery', 'Thriller']",['USA']
+tt0421715,"['Drama', 'Fantasy', 'Romance']",['USA']
+tt0421729,"['Comedy', 'Crime']",['USA']
+tt0423294,"['Animation', 'Comedy', 'Family']",['USA']
+tt0423977,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0424095,"['Animation', 'Adventure', 'Comedy']","['UK', 'USA']"
+tt0424136,"['Drama', 'Thriller']",['USA']
+tt0424345,['Comedy'],['USA']
+tt0424774,"['Action', 'Adventure', 'Comedy']",['USA']
+tt0424993,"['Comedy', 'Romance']",['USA']
+tt0425061,"['Action', 'Adventure', 'Comedy']",['USA']
+tt0425112,"['Action', 'Comedy', 'Mystery']","['UK', 'France']"
+tt0425123,"['Comedy', 'Drama', 'Fantasy']",['USA']
+tt0425379,"['Crime', 'Drama', 'Thriller']",['Denmark']
+tt0425395,['Comedy'],"['USA', 'Germany']"
+tt0425637,"['Action', 'Adventure', 'Drama']","['China', 'Hong Kong', 'Japan', 'Taiwan', 'South Korea']"
+tt0426459,"['Action', 'Comedy', 'Horror']",['USA']
+tt0426501,"['Action', 'Crime', 'Drama']",['UK']
+tt0426592,"['Action', 'Comedy']",['USA']
+tt0426615,"['Comedy', 'Crime', 'Drama']",['USA']
+tt0427152,['Comedy'],['USA']
+tt0427229,"['Comedy', 'Romance']",['USA']
+tt0427309,"['Biography', 'Drama', 'Romance']",['USA']
+tt0427312,"['Documentary', 'Biography']",['USA']
+tt0427327,"['Comedy', 'Drama', 'Musical']","['USA', 'UK', 'Canada']"
+tt0427470,"['Crime', 'Drama', 'Thriller']",['USA']
+tt0427944,"['Comedy', 'Drama']",['USA']
+tt0427969,"['Biography', 'Crime', 'Drama']",['USA']
+tt0428518,['Documentary'],['USA']
+tt0428803,"['Documentary', 'Family']",['France']
+tt0429493,"['Action', 'Adventure', 'Thriller']","['USA', 'UK']"
+tt0429573,"['Drama', 'History', 'Horror']","['UK', 'Canada', 'Romania', 'USA']"
+tt0430105,"['Action', 'Crime', 'Drama']",['USA']
+tt0430308,"['Biography', 'Crime', 'Drama']","['USA', 'Canada']"
+tt0430912,"['Drama', 'Mystery', 'Thriller']","['UK', 'Germany', 'Spain', 'USA']"
+tt0430919,"['Comedy', 'Romance']","['UK', 'Hungary', 'Germany', 'USA']"
+tt0430922,['Comedy'],"['Germany', 'USA']"
+tt0431021,"['Horror', 'Mystery', 'Thriller']","['USA', 'Canada']"
+tt0431308,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0432283,"['Animation', 'Adventure', 'Comedy']","['USA', 'UK']"
+tt0432348,"['Horror', 'Mystery']","['USA', 'Canada']"
+tt0433362,"['Action', 'Fantasy', 'Horror']","['Australia', 'USA']"
+tt0433386,"['Horror', 'Thriller']","['USA', 'Japan']"
+tt0433412,"['Comedy', 'Family', 'Romance']",['USA']
+tt0433416,['Drama'],"['USA', 'India']"
+tt0434124,"['Comedy', 'Drama', 'Music']","['USA', 'UK']"
+tt0434139,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0434409,"['Action', 'Drama', 'Sci-Fi']","['USA', 'UK', 'Germany']"
+tt0435625,"['Adventure', 'Horror', 'Thriller']",['UK']
+tt0436697,"['Biography', 'Drama', 'History']","['UK', 'USA', 'France', 'Italy']"
+tt0437072,"['Drama', 'Action']",['USA']
+tt0437800,"['Drama', 'Family']",['USA']
+tt0438205,"['Documentary', 'Family', 'Music']",['USA']
+tt0438488,"['Action', 'Sci-Fi']","['USA', 'Germany', 'UK', 'Italy']"
+tt0439815,"['Comedy', 'Horror', 'Sci-Fi']","['Canada', 'USA']"
+tt0440963,"['Action', 'Mystery', 'Thriller']","['USA', 'Germany', 'France', 'Spain']"
+tt0441773,"['Animation', 'Action', 'Adventure']",['USA']
+tt0442933,"['Animation', 'Action', 'Adventure']","['USA', 'UK']"
+tt0443295,"['Comedy', 'Family', 'Fantasy']",['USA']
+tt0443435,"['Horror', 'Mystery', 'Thriller']",['USA']
+tt0443489,"['Drama', 'Music', 'Musical']",['USA']
+tt0443536,"['Animation', 'Comedy', 'Crime']",['USA']
+tt0443559,"['Action', 'Crime', 'Drama']",['USA']
+tt0443632,"['Action', 'Crime', 'Thriller']",['USA']
+tt0443649,"['Action', 'Adventure', 'Drama']","['USA', 'South Africa']"
+tt0443706,"['Crime', 'Drama', 'Mystery']",['USA']
+tt0444682,"['Horror', 'Thriller']",['USA']
+tt0445934,"['Comedy', 'Sport']",['USA']
+tt0445946,"['Action', 'Crime', 'Drama']","['Germany', 'USA']"
+tt0446029,"['Action', 'Comedy', 'Fantasy']","['USA', 'UK', 'Canada', 'Japan']"
+tt0448011,"['Action', 'Drama', 'Mystery']","['USA', 'UK', 'Australia']"
+tt0448075,"['Crime', 'Drama', 'Mystery']",['USA']
+tt0448115,"['Action', 'Adventure', 'Comedy']","['USA', 'Canada']"
+tt0448157,"['Action', 'Fantasy']",['USA']
+tt0448564,"['Drama', 'Mystery', 'Thriller']",['Australia']
+tt0448694,"['Animation', 'Adventure', 'Comedy']",['USA']
+tt0449010,"['Action', 'Adventure', 'Family']","['USA', 'UK', 'Hungary']"
+tt0449059,"['Comedy', 'Drama']",['USA']
+tt0449467,['Drama'],"['France', 'USA', 'Mexico']"
+tt0450259,"['Adventure', 'Drama', 'Thriller']","['USA', 'Germany']"
+tt0450278,['Horror'],"['USA', 'Czech Republic']"
+tt0450336,['Horror'],['USA']
+tt0450385,"['Fantasy', 'Horror', 'Mystery']",['USA']
+tt0450405,"['Action', 'Adventure', 'Fantasy']",['USA']
+tt0451079,"['Animation', 'Adventure', 'Comedy']",['USA']
+tt0451279,"['Action', 'Adventure', 'Fantasy']","['USA', 'China', 'Hong Kong']"
+tt0452594,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0452598,"['Adventure', 'Comedy', 'Family']","['USA', 'Canada']"
+tt0452608,"['Action', 'Sci-Fi', 'Thriller']","['USA', 'Germany', 'UK']"
+tt0452623,"['Crime', 'Drama', 'Mystery']",['USA']
+tt0452625,"['Comedy', 'Romance']","['USA', 'Canada']"
+tt0452694,"['Drama', 'Fantasy', 'Romance']",['USA']
+tt0453451,"['Comedy', 'Family']","['UK', 'France', 'Germany']"
+tt0454841,"['Horror', 'Thriller']","['USA', 'France', 'Romania']"
+tt0454848,"['Crime', 'Drama', 'Mystery']",['USA']
+tt0454879,"['Crime', 'Drama', 'Thriller']","['USA', 'Germany', 'Brazil']"
+tt0454921,"['Biography', 'Drama']",['USA']
+tt0454945,"['Comedy', 'Romance', 'Sport']","['USA', 'Canada']"
+tt0455362,"['Action', 'Comedy', 'Horror']","['Germany', 'South Africa', 'USA']"
+tt0455499,"['Animation', 'Adventure', 'Comedy']","['UK', 'USA']"
+tt0455584,"['Mystery', 'Sci-Fi', 'Thriller']","['Spain', 'UK']"
+tt0455590,"['Biography', 'Drama', 'History']","['UK', 'Germany']"
+tt0455612,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0455760,"['Horror', 'Mystery', 'Thriller']",['USA']
+tt0455824,"['Adventure', 'Comedy', 'Drama']","['UK', 'Australia', 'USA']"
+tt0455857,"['Horror', 'Thriller']",['USA']
+tt0455944,"['Action', 'Crime', 'Thriller']",['USA']
+tt0455967,"['Comedy', 'Romance']","['USA', 'Canada']"
+tt0456554,['Comedy'],['USA']
+tt0457319,"['Action', 'Crime', 'Horror']",['USA']
+tt0457400,"['Action', 'Adventure', 'Comedy']",['USA']
+tt0457510,"['Comedy', 'Family', 'Sport']","['USA', 'Mexico']"
+tt0457572,"['Comedy', 'Drama', 'Horror']",['Canada']
+tt0457939,"['Comedy', 'Romance']",['USA']
+tt0458352,"['Comedy', 'Drama']","['USA', 'France']"
+tt0460732,['Comedy'],['USA']
+tt0460740,"['Comedy', 'Drama', 'Romance']",['UK']
+tt0460810,"['Comedy', 'Drama']",['USA']
+tt0462499,['Action'],"['Germany', 'USA']"
+tt0462504,"['Action', 'Biography', 'Drama']","['USA', 'Luxembourg']"
+tt0462519,['Comedy'],['USA']
+tt0463034,"['Comedy', 'Romance']",['USA']
+tt0463854,"['Drama', 'Horror', 'Sci-Fi']","['UK', 'Spain']"
+tt0463985,"['Action', 'Crime', 'Thriller']","['USA', 'Germany', 'Japan']"
+tt0463998,"['Biography', 'Crime', 'Drama']","['Germany', 'USA']"
+tt0464154,"['Comedy', 'Horror']","['USA', 'Japan']"
+tt0465494,"['Action', 'Crime', 'Thriller']","['France', 'USA']"
+tt0465580,"['Action', 'Sci-Fi', 'Thriller']","['USA', 'Canada']"
+tt0467200,"['Biography', 'Drama', 'History']","['UK', 'USA']"
+tt0467406,"['Comedy', 'Drama']",['USA']
+tt0468492,"['Action', 'Drama', 'Horror']",['South Korea']
+tt0468565,"['Crime', 'Drama']","['UK', 'South Africa']"
+tt0468569,"['Action', 'Crime', 'Drama']","['USA', 'UK']"
+tt0469021,"['Action', 'Comedy', 'Crime']",['UK']
+tt0469062,"['Drama', 'Horror', 'Mystery']",['USA']
+tt0469494,['Drama'],['USA']
+tt0469623,['Drama'],"['USA', 'UK', 'Canada']"
+tt0469641,"['Drama', 'History', 'Thriller']",['USA']
+tt0469999,['Crime'],['USA']
+tt0470705,"['Drama', 'Horror', 'Thriller']","['USA', 'Germany']"
+tt0470752,"['Drama', 'Mystery', 'Sci-Fi']",['UK']
+tt0470761,"['Drama', 'Horror', 'Mystery']",['USA']
+tt0470993,['Horror'],['USA']
+tt0472062,"['Biography', 'Comedy', 'Drama']","['USA', 'Germany']"
+tt0472160,"['Comedy', 'Fantasy', 'Romance']","['UK', 'USA']"
+tt0472181,"['Animation', 'Adventure', 'Comedy']","['USA', 'Belgium', 'Canada']"
+tt0472458,"['Drama', 'Horror']",['Hong Kong']
+tt0473308,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0473464,"['Drama', 'Thriller']",['USA']
+tt0473488,"['Crime', 'Drama']",['USA']
+tt0473692,"['Documentary', 'Music']",['USA']
+tt0475290,"['Comedy', 'Drama', 'Music']","['USA', 'UK', 'Japan']"
+tt0475394,"['Action', 'Crime', 'Drama']","['UK', 'France', 'USA']"
+tt0476964,"['Action', 'Crime', 'Drama']",['USA']
+tt0477051,"['Comedy', 'Romance']",['USA']
+tt0477080,"['Action', 'Thriller']",['USA']
+tt0477139,"['Comedy', 'Drama', 'Fantasy']","['USA', 'UK']"
+tt0477347,"['Adventure', 'Comedy', 'Family']","['USA', 'UK']"
+tt0477348,"['Crime', 'Drama', 'Thriller']","['USA', 'Mexico']"
+tt0478188,"['Action', 'Adventure', 'Fantasy']",['USA']
+tt0478197,"['Documentary', 'Biography', 'Music']",['USA']
+tt0478304,"['Drama', 'Fantasy']",['USA']
+tt0478311,"['Comedy', 'Romance']",['USA']
+tt0479143,"['Action', 'Drama', 'Sport']",['USA']
+tt0479162,"['Comedy', 'Drama', 'Sci-Fi']",['USA']
+tt0479500,"['Comedy', 'Crime', 'Family']",['USA']
+tt0479884,"['Action', 'Crime', 'Thriller']",['USA']
+tt0479952,"['Animation', 'Adventure', 'Comedy']",['USA']
+tt0480249,"['Adventure', 'Drama', 'Sci-Fi']",['USA']
+tt0480255,"['Action', 'Adventure', 'Crime']","['USA', 'France']"
+tt0480271,"['Comedy', 'Romance']",['USA']
+tt0480669,"['Horror', 'Mystery', 'Sci-Fi']",['Spain']
+tt0480687,"['Comedy', 'Romance']",['USA']
+tt0481499,"['Animation', 'Action', 'Adventure']",['USA']
+tt0482088,"['Comedy', 'Romance']",['France']
+tt0482463,"['Drama', 'Romance']","['USA', 'Mexico']"
+tt0482606,"['Horror', 'Mystery', 'Thriller']",['USA']
+tt0483607,"['Action', 'Sci-Fi', 'Thriller']","['UK', 'USA', 'South Africa', 'Germany']"
+tt0486259,['Documentary'],['USA']
+tt0486321,"['Animation', 'Adventure', 'Family']","['Belgium', 'USA']"
+tt0486358,['Documentary'],['USA']
+tt0486583,"['Comedy', 'Family', 'Fantasy']",['USA']
+tt0486655,"['Adventure', 'Family', 'Fantasy']","['UK', 'USA']"
+tt0486674,"['Comedy', 'Drama']",['USA']
+tt0486822,"['Crime', 'Drama', 'Mystery']",['USA']
+tt0488085,"['Comedy', 'Crime', 'Thriller']",['UK']
+tt0488508,"['Documentary', 'Family']",['USA']
+tt0489049,"['Adventure', 'Comedy', 'Drama']",['USA']
+tt0489099,"['Action', 'Adventure', 'Sci-Fi']","['USA', 'Canada', 'Mexico', 'Spain', 'Italy']"
+tt0489237,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0489270,"['Horror', 'Mystery', 'Thriller']","['USA', 'Canada']"
+tt0489281,"['Drama', 'War']",['USA']
+tt0489318,"['Crime', 'Horror', 'Thriller']","['Spain', 'USA']"
+tt0489327,"['Comedy', 'Drama', 'Romance']",['UK']
+tt0490181,"['Action', 'Adventure', 'Sci-Fi']","['UK', 'USA']"
+tt0490215,"['Drama', 'History']","['USA', 'UK', 'Taiwan', 'Japan', 'Mexico', 'Italy']"
+tt0491152,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0491747,['Drama'],"['Canada', 'UK', 'USA']"
+tt0492044,"['Drama', 'Horror', 'Mystery']","['USA', 'Canada', 'UK']"
+tt0492389,"['Comedy', 'Family']","['USA', 'United Arab Emirates']"
+tt0492486,"['Comedy', 'Horror', 'Mystery']","['Ireland', 'UK', 'Denmark']"
+tt0492492,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0492619,['Comedy'],['USA']
+tt0492912,"['Drama', 'Thriller']",['USA']
+tt0493129,['Comedy'],['USA']
+tt0493430,"['Documentary', 'Action', 'Comedy']",['USA']
+tt0493464,"['Action', 'Crime', 'Fantasy']","['USA', 'Germany']"
+tt0494222,"['Comedy', 'Romance']",['New Zealand']
+tt0496806,"['Action', 'Crime', 'Thriller']",['USA']
+tt0497116,"['Documentary', 'News']",['USA']
+tt0497465,"['Comedy', 'Drama', 'Romance']","['Spain', 'USA']"
+tt0498353,['Horror'],"['USA', 'Czech Republic']"
+tt0498381,"['Drama', 'Horror', 'Mystery']",['USA']
+tt0499554,"['Comedy', 'Crime']",['USA']
+tt0756729,"['Comedy', 'Drama']",['USA']
+tt0757361,"['Comedy', 'Drama']",['USA']
+tt0758746,"['Horror', 'Mystery', 'Thriller']",['USA']
+tt0758752,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0758758,"['Adventure', 'Biography', 'Drama']",['USA']
+tt0758774,"['Action', 'Drama', 'Thriller']","['USA', 'UK']"
+tt0758794,"['Drama', 'Sport']",['USA']
+tt0760188,['Drama'],['USA']
+tt0762073,"['Drama', 'Fantasy', 'Horror']","['South Korea', 'USA']"
+tt0762107,"['Comedy', 'Romance']",['USA']
+tt0762125,"['Animation', 'Adventure', 'Comedy']","['Spain', 'UK', 'USA']"
+tt0763831,"['Comedy', 'Drama']",['USA']
+tt0765429,"['Biography', 'Crime', 'Drama']","['USA', 'UK']"
+tt0765443,"['Action', 'Crime', 'Drama']","['UK', 'Canada', 'USA']"
+tt0770752,"['Action', 'Adventure', 'Comedy']",['USA']
+tt0770778,"['Drama', 'Fantasy', 'Thriller']","['USA', 'Canada']"
+tt0770810,['Drama'],"['Canada', 'USA', 'France']"
+tt0770828,"['Action', 'Adventure', 'Sci-Fi']","['USA', 'UK']"
+tt0775489,"['Animation', 'Drama', 'Family']","['France', 'UK']"
+tt0780511,['Drama'],['USA']
+tt0780567,"['Comedy', 'Drama', 'Family']","['USA', 'Germany']"
+tt0780607,"['Horror', 'Sci-Fi', 'Thriller']",['USA']
+tt0780608,['Comedy'],"['USA', 'Germany']"
+tt0780622,"['Comedy', 'Fantasy', 'Horror']",['USA']
+tt0780653,"['Drama', 'Fantasy', 'Horror']",['USA']
+tt0781008,"['Documentary', 'Short', 'Comedy']",['USA']
+tt0785006,"['Comedy', 'Family']","['Germany', 'USA']"
+tt0785035,['Action'],['Thailand']
+tt0787470,"['Comedy', 'Sport']",['USA']
+tt0787474,"['Animation', 'Adventure', 'Comedy']",['USA']
+tt0787475,"['Comedy', 'Sport']",['USA']
+tt0790618,"['Comedy', 'Drama']",['USA']
+tt0790636,"['Biography', 'Drama']",['USA']
+tt0790724,"['Action', 'Crime', 'Thriller']",['USA']
+tt0790736,"['Action', 'Comedy', 'Crime']",['USA']
+tt0795351,"['Horror', 'Mystery', 'Thriller']","['USA', 'Canada']"
+tt0795421,"['Comedy', 'Musical', 'Romance']","['USA', 'UK', 'Germany']"
+tt0795426,['Drama'],['USA']
+tt0795461,['Comedy'],['USA']
+tt0795493,"['Crime', 'Drama', 'Romance']","['USA', 'UK', 'France']"
+tt0796366,"['Action', 'Adventure', 'Sci-Fi']","['USA', 'Germany']"
+tt0800003,"['Action', 'Adventure', 'Comedy']",['USA']
+tt0800039,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0800241,"['Crime', 'Drama', 'Mystery']","['UK', 'Germany', 'Spain', 'Lithuania']"
+tt0800320,"['Action', 'Adventure', 'Fantasy']","['USA', 'UK', 'Australia']"
+tt0802948,"['Biography', 'Crime', 'Drama']",['USA']
+tt0803096,"['Action', 'Adventure', 'Fantasy']","['China', 'Canada', 'Japan', 'USA']"
+tt0804452,"['Comedy', 'Family', 'Music']",['USA']
+tt0804497,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0804516,"['Crime', 'Horror', 'Thriller']",['USA']
+tt0805564,"['Comedy', 'Drama', 'Romance']","['USA', 'Canada']"
+tt0805570,"['Horror', 'Mystery']",['USA']
+tt0805619,"['Horror', 'Thriller']","['USA', 'Canada']"
+tt0808151,"['Action', 'Mystery', 'Thriller']","['USA', 'Italy']"
+tt0808265,"['Fantasy', 'Horror', 'Thriller']","['New Zealand', 'UK']"
+tt0810817,"['Action', 'Adventure', 'Mystery']",['USA']
+tt0810819,"['Biography', 'Drama', 'Romance']","['UK', 'USA', 'Germany', 'Denmark', 'Belgium', 'Japan']"
+tt0811080,"['Action', 'Adventure', 'Comedy']","['USA', 'Australia', 'Germany']"
+tt0811138,"['Comedy', 'Romance', 'Sport']","['UK', 'Germany', 'USA']"
+tt0814022,"['Action', 'Crime', 'Thriller']","['USA', 'Czech Republic', 'Thailand']"
+tt0814075,"['Documentary', 'Crime']",['USA']
+tt0814255,"['Adventure', 'Family', 'Fantasy']","['UK', 'Canada', 'USA']"
+tt0815230,['Comedy'],['USA']
+tt0815236,"['Comedy', 'Romance']",['USA']
+tt0815245,"['Drama', 'Horror', 'Mystery']","['USA', 'Canada', 'Germany']"
+tt0816462,"['Action', 'Adventure', 'Fantasy']",['USA']
+tt0816711,"['Action', 'Adventure', 'Horror']","['USA', 'UK', 'Malta']"
+tt0817177,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0817230,"['Comedy', 'Romance']",['USA']
+tt0817538,"['Comedy', 'Drama']",['USA']
+tt0821642,"['Biography', 'Drama', 'Music']","['UK', 'France', 'USA']"
+tt0822832,"['Comedy', 'Drama', 'Family']",['USA']
+tt0822847,"['Action', 'Horror', 'Thriller']",['USA']
+tt0822854,"['Action', 'Drama', 'Thriller']",['USA']
+tt0824747,"['Biography', 'Crime', 'Drama']",['USA']
+tt0825232,"['Comedy', 'Drama']",['USA']
+tt0828393,['Drama'],['USA']
+tt0829150,"['Action', 'Drama', 'Fantasy']","['USA', 'UK', 'Ireland']"
+tt0829459,"['Biography', 'Drama', 'History']","['USA', 'UK']"
+tt0829482,['Comedy'],['USA']
+tt0830515,"['Action', 'Adventure', 'Thriller']","['UK', 'USA']"
+tt0830558,"['Crime', 'Drama', 'Horror']",['USA']
+tt0831887,"['Action', 'Crime', 'Fantasy']",['USA']
+tt0832266,"['Comedy', 'Drama', 'Romance']","['UK', 'France', 'Germany', 'USA']"
+tt0834001,"['Action', 'Fantasy', 'Sci-Fi']","['USA', 'New Zealand']"
+tt0835418,['Comedy'],['USA']
+tt0837562,"['Animation', 'Comedy', 'Family']",['USA']
+tt0837563,"['Horror', 'Mystery', 'Thriller']","['USA', 'Canada']"
+tt0838221,"['Adventure', 'Comedy', 'Drama']",['USA']
+tt0838283,['Comedy'],['USA']
+tt0839880,"['Horror', 'Thriller']",['USA']
+tt0840361,"['Crime', 'Drama', 'Thriller']",['USA']
+tt0841046,"['Comedy', 'Drama', 'Music']",['USA']
+tt0842000,"['Animation', 'Adventure', 'Comedy']",['USA']
+tt0842926,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0843873,"['Action', 'Adventure', 'Comedy']",['USA']
+tt0844471,"['Animation', 'Adventure', 'Comedy']",['USA']
+tt0848537,"['Animation', 'Adventure', 'Family']",['USA']
+tt0848557,"['Fantasy', 'Horror', 'Sci-Fi']",['USA']
+tt0849470,['Comedy'],['USA']
+tt0852713,"['Comedy', 'Romance']",['USA']
+tt0858411,"['Comedy', 'Horror']",['USA']
+tt0858479,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0859163,"['Action', 'Fantasy', 'Horror']","['USA', 'Germany', 'China', 'Canada']"
+tt0860462,['Action'],['Thailand']
+tt0864761,"['Biography', 'Drama', 'History']","['UK', 'Italy', 'France', 'USA']"
+tt0864835,"['Animation', 'Adventure', 'Comedy']",['USA']
+tt0865556,"['Action', 'Adventure', 'Fantasy']","['USA', 'China']"
+tt0870111,"['Biography', 'Drama', 'History']","['UK', 'France', 'USA']"
+tt0870195,"['Drama', 'History', 'Romance']","['USA', 'India', 'UK']"
+tt0871426,"['Comedy', 'Romance']",['USA']
+tt0872230,"['Horror', 'Mystery', 'Thriller']",['USA']
+tt0873886,"['Action', 'Crime', 'Horror']",['USA']
+tt0878804,"['Biography', 'Drama', 'Sport']",['USA']
+tt0879870,"['Drama', 'Romance']",['USA']
+tt0881320,"['Action', 'Adventure', 'Drama']","['USA', 'Australia']"
+tt0884224,"['Action', 'Comedy', 'Thriller']",['USA']
+tt0884328,"['Horror', 'Sci-Fi']",['USA']
+tt0884732,['Comedy'],['USA']
+tt0887883,"['Comedy', 'Crime', 'Drama']","['USA', 'UK', 'France']"
+tt0887912,"['Drama', 'Thriller', 'War']",['USA']
+tt0889573,"['Comedy', 'Drama', 'Romance']",['USA']
+tt0889583,['Comedy'],"['USA', 'UK']"
+tt0890870,"['Horror', 'Mystery', 'Thriller']","['USA', 'Canada']"
+tt0891527,"['Crime', 'Drama', 'Mystery']",['USA']
+tt0892318,"['Adventure', 'Comedy', 'Drama']",['USA']
+tt0892769,"['Animation', 'Action', 'Adventure']",['USA']
+tt0892782,"['Animation', 'Action', 'Comedy']",['USA']
+tt0892791,"['Animation', 'Adventure', 'Comedy']",['USA']
+tt0893412,"['Comedy', 'Drama', 'Romance']","['Mexico', 'USA']"
+tt0898367,['Drama'],['USA']
+tt0899106,"['Drama', 'Romance']","['USA', 'Canada', 'UK']"
+tt0901476,"['Comedy', 'Romance']",['USA']
+tt0903624,"['Adventure', 'Family', 'Fantasy']","['New Zealand', 'USA']"
+tt0905372,"['Horror', 'Mystery', 'Sci-Fi']","['USA', 'Canada']"
+tt0906665,"['Action', 'Western']",['Japan']
+tt0910936,"['Action', 'Comedy', 'Crime']",['USA']
+tt0913354,"['Action', 'Crime', 'Thriller']",['USA']
+tt0914364,"['Action', 'Horror', 'Thriller']",['USA']
+tt0918927,"['Drama', 'Mystery']",['USA']
+tt0918940,"['Action', 'Adventure', 'Drama']","['UK', 'Canada', 'USA']"
+tt0923671,"['Horror', 'Thriller']",['USA']
+tt0926084,"['Adventure', 'Family', 'Fantasy']","['UK', 'USA']"
+tt0928375,"['Horror', 'Thriller']",['Ireland']
+tt0929618,['Comedy'],['USA']
+tt0929629,"['Action', 'Adventure', 'Drama']","['Canada', 'USA']"
+tt0929632,['Drama'],['USA']
+tt0935075,['Drama'],['USA']
+tt0938283,"['Action', 'Adventure', 'Family']",['USA']
+tt0942385,"['Action', 'Comedy', 'War']","['USA', 'UK', 'Germany']"
+tt0942903,"['Action', 'Adventure', 'Drama']","['USA', 'Canada']"
+tt0944835,"['Action', 'Mystery', 'Thriller']",['USA']
+tt0945513,"['Action', 'Drama', 'Mystery']","['USA', 'Canada', 'France']"
+tt0947798,"['Drama', 'Thriller']",['USA']
+tt0947810,"['Action', 'Drama', 'Thriller']","['UK', 'France', 'Spain', 'USA']"
+tt0948470,"['Action', 'Sci-Fi']",['USA']
+tt0949731,"['Drama', 'Mystery', 'Sci-Fi']","['India', 'USA']"
+tt0952640,"['Animation', 'Comedy', 'Family']",['USA']
+tt0955308,"['Action', 'Drama', 'History']","['USA', 'UK']"
+tt0959337,"['Drama', 'Romance']","['USA', 'UK']"
+tt0960144,['Comedy'],['USA']
+tt0960835,"['Action', 'Sci-Fi', 'Thriller']",['USA']
+tt0961722,['Horror'],['USA']
+tt0963794,"['Fantasy', 'Horror', 'Thriller']","['USA', 'Germany', 'Australia']"
+tt0964517,"['Biography', 'Drama', 'Sport']",['USA']
+tt0970179,"['Drama', 'Family', 'Fantasy']","['UK', 'USA', 'France']"
+tt0970866,"['Comedy', 'Romance']",['USA']
+tt0971209,"['Drama', 'Mystery', 'Thriller']",['USA']
+tt0974015,"['Action', 'Adventure', 'Fantasy']","['USA', 'Canada', 'UK']"
+tt0974959,['Comedy'],"['Canada', 'USA']"
+tt0975645,"['Biography', 'Drama', 'Romance']","['USA', 'UK']"
+tt0976051,"['Drama', 'Romance']","['Germany', 'USA']"
+tt0976222,"['Comedy', 'Drama', 'Family']",['USA']
+tt0977855,"['Biography', 'Drama', 'Thriller']","['USA', 'United Arab Emirates']"
+tt0978764,"['Action', 'Adventure', 'Fantasy']","['USA', 'Canada']"
+tt0979434,['Comedy'],['USA']
+tt0981072,"['Comedy', 'Drama', 'War']",['USA']
+tt0981227,"['Comedy', 'Drama', 'Music']",['USA']
+tt0983193,"['Animation', 'Action', 'Adventure']","['USA', 'New Zealand', 'UK']"
+tt0985025,"['Action', 'Fantasy', 'Horror']","['Finland', 'Iceland']"
+tt0985694,"['Action', 'Crime', 'Thriller']",['USA']
+tt0985699,"['Drama', 'History', 'Thriller']","['USA', 'Germany']"
+tt0988045,"['Action', 'Adventure', 'Crime']","['USA', 'Germany', 'UK']"
+tt0988595,"['Comedy', 'Romance']",['USA']
+tt0988849,"['Crime', 'Drama', 'Horror']",['UK']
+tt0989757,"['Drama', 'Romance', 'War']",['USA']
+tt0990407,"['Action', 'Comedy']",['USA']
+tt0993842,"['Action', 'Drama', 'Thriller']","['USA', 'UK', 'Germany']"
+tt0993846,"['Biography', 'Crime', 'Drama']",['USA']
+tt0995039,"['Comedy', 'Drama', 'Fantasy']",['USA']
+tt0995740,"['Drama', 'Mystery', 'Thriller']",['India']
+tt0997143,['Horror'],['USA']
+tt0997147,"['Action', 'Comedy', 'Sci-Fi']",['Japan']
+tt1000774,"['Comedy', 'Drama', 'Romance']",['USA']
+tt1001526,"['Animation', 'Action', 'Comedy']",['USA']
+tt1001562,"['Comedy', 'Crime']",['USA']
+tt1007028,"['Comedy', 'Romance']",['USA']
+tt1007029,"['Biography', 'Drama']","['UK', 'France']"
+tt1013743,"['Action', 'Adventure', 'Comedy']",['USA']
+tt1013752,"['Action', 'Thriller']","['USA', 'Japan']"
+tt1013753,"['Biography', 'Drama']",['USA']
+tt10146586,['Documentary'],['USA']
+tt1014763,"['Crime', 'Drama', 'History']","['Czech Republic', 'UK', 'USA', 'Russia']"
+tt1016268,"['Documentary', 'Biography', 'History']",['USA']
+tt1017460,"['Drama', 'Horror', 'Sci-Fi']","['Canada', 'France', 'USA']"
+tt1019452,"['Comedy', 'Drama']","['USA', 'UK', 'France']"
+tt1020543,"['Action', 'Adventure', 'Comedy']",['USA']
+tt1020558,"['Action', 'Drama', 'History']","['UK', 'France', 'USA']"
+tt1020773,"['Drama', 'Romance']","['France', 'Italy', 'Belgium', 'Iran']"
+tt1022603,"['Comedy', 'Drama', 'Romance']",['USA']
+tt1023111,"['Action', 'Drama', 'Sport']",['USA']
+tt1024648,"['Biography', 'Drama', 'Thriller']","['USA', 'UK']"
+tt1027747,"['Action', 'Crime', 'Drama']",['USA']
+tt1028528,"['Action', 'Thriller']",['USA']
+tt1031280,"['Horror', 'Sci-Fi', 'Thriller']",['USA']
+tt1033575,"['Comedy', 'Drama']",['USA']
+tt1033643,"['Comedy', 'Romance']",['USA']
+tt1034032,"['Action', 'Sci-Fi', 'Thriller']",['USA']
+tt1034303,"['Action', 'Drama', 'History']",['USA']
+tt1034389,"['Action', 'Adventure', 'Drama']","['UK', 'USA']"
+tt1037705,"['Action', 'Adventure', 'Drama']",['USA']
+tt1038686,"['Action', 'Adventure', 'Fantasy']",['USA']
+tt1038919,"['Action', 'Comedy', 'Romance']",['USA']
+tt1043791,['Horror'],['UK']
+tt1045658,"['Comedy', 'Drama', 'Romance']",['USA']
+tt1045670,"['Comedy', 'Drama', 'Romance']",['UK']
+tt1046163,"['Comedy', 'Romance']",['USA']
+tt1046173,"['Action', 'Adventure', 'Sci-Fi']","['USA', 'Czech Republic']"
+tt1051904,"['Adventure', 'Comedy', 'Family']","['USA', 'Australia']"
+tt1053424,"['Action', 'Adventure', 'Crime']","['Canada', 'USA']"
+tt1053859,"['Horror', 'Mystery', 'Thriller']","['USA', 'Japan']"
+tt1055292,"['Comedy', 'Drama', 'Romance']",['USA']
+tt1055369,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt1056026,"['Action', 'Sci-Fi']",['USA']
+tt1057500,"['Biography', 'Drama', 'History']",['USA']
+tt1058017,"['Comedy', 'Fantasy', 'Romance']",['USA']
+tt1059932,['Romance'],['Indonesia']
+tt1060277,"['Horror', 'Sci-Fi', 'Thriller']",['USA']
+tt1065073,['Drama'],['USA']
+tt1068242,"['Comedy', 'Drama', 'Music']",['USA']
+tt10720210,['Documentary'],['USA']
+tt1074638,"['Action', 'Adventure', 'Thriller']","['UK', 'USA']"
+tt1075746,"['Action', 'Adventure', 'Drama']",['USA']
+tt1075747,"['Action', 'Drama', 'Fantasy']",['USA']
+tt1077258,"['Action', 'Comedy', 'Horror']","['USA', 'Mexico']"
+tt1078940,['Comedy'],['USA']
+tt1081935,"['Comedy', 'Drama']","['Italy', 'France']"
+tt1082601,"['Action', 'Crime', 'Drama']",['USA']
+tt1087524,['Crime'],['USA']
+tt1091191,"['Action', 'Biography', 'Drama']",['USA']
+tt1091722,"['Comedy', 'Drama', 'Romance']",['USA']
+tt1091863,"['Documentary', 'Biography']",['USA']
+tt1092026,"['Adventure', 'Comedy', 'Sci-Fi']","['USA', 'UK']"
+tt1093357,"['Action', 'Adventure', 'Horror']","['USA', 'Russia']"
+tt1094162,"['Action', 'Adventure', 'Horror']",['USA']
+tt1095217,"['Crime', 'Drama']",['USA']
+tt1095442,['Drama'],['USA']
+tt1097013,"['Action', 'Comedy', 'Crime']",['USA']
+tt1099212,"['Drama', 'Fantasy', 'Romance']",['USA']
+tt1103275,"['Drama', 'Romance']","['USA', 'France']"
+tt1107365,"['Animation', 'Adventure', 'Comedy']",['USA']
+tt1112782,"['Action', 'Crime', 'Thriller']","['USA', 'Germany']"
+tt1114740,"['Action', 'Comedy', 'Crime']",['USA']
+tt1116184,"['Documentary', 'Action', 'Comedy']",['USA']
+tt1119646,['Comedy'],"['USA', 'Germany']"
+tt1120985,"['Drama', 'Romance']",['USA']
+tt1121096,"['Action', 'Adventure', 'Fantasy']","['USA', 'UK', 'Canada', 'China']"
+tt1121931,"['Action', 'Thriller']",['USA']
+tt1121977,"['Drama', 'Romance']","['USA', 'Spain']"
+tt1124048,"['Horror', 'Thriller']",['USA']
+tt1126591,"['Drama', 'Music', 'Musical']",['USA']
+tt1126618,"['Comedy', 'Drama', 'Romance']",['USA']
+tt1127180,"['Horror', 'Thriller']",['USA']
+tt1127896,"['Biography', 'Comedy', 'Drama']",['USA']
+tt1129442,"['Action', 'Thriller']","['France', 'USA', 'Ukraine']"
+tt1130080,"['Biography', 'Comedy', 'Crime']",['USA']
+tt1130088,['Drama'],['UK']
+tt1130884,"['Mystery', 'Thriller']",['USA']
+tt1131734,"['Comedy', 'Horror']","['USA', 'Canada']"
+tt1132130,"['Action', 'Adventure', 'Drama']",['USA']
+tt1132626,"['Horror', 'Mystery', 'Thriller']","['USA', 'Canada']"
+tt1133985,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt1133995,"['Action', 'Thriller']",['USA']
+tt1134854,"['Comedy', 'Drama', 'Horror']","['USA', 'Canada']"
+tt1135084,"['Action', 'Crime', 'Thriller']",['USA']
+tt1135487,"['Comedy', 'Crime', 'Romance']","['USA', 'Germany']"
+tt1135503,"['Biography', 'Drama', 'Romance']",['USA']
+tt1136608,"['Action', 'Sci-Fi', 'Thriller']","['South Africa', 'USA', 'New Zealand', 'Canada']"
+tt1136683,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt1137470,"['Comedy', 'Romance']","['USA', 'UK']"
+tt1139328,"['Drama', 'Mystery', 'Thriller']","['France', 'Germany', 'UK']"
+tt1139668,"['Drama', 'Horror', 'Mystery']",['USA']
+tt1139797,"['Drama', 'Horror', 'Romance']",['Sweden']
+tt1149361,"['Action', 'Comedy', 'Crime']",['France']
+tt1151359,"['Comedy', 'Crime', 'Drama']",['USA']
+tt1151928,"['Action', 'Sci-Fi']","['USA', 'Canada']"
+tt1152836,"['Biography', 'Crime', 'Drama']","['USA', 'Japan']"
+tt1153706,"['Action', 'Comedy', 'Music']",['USA']
+tt1155056,"['Comedy', 'Romance']",['USA']
+tt1155076,"['Action', 'Drama', 'Family']","['USA', 'China']"
+tt1155592,"['Documentary', 'Biography', 'History']","['UK', 'USA']"
+tt1156300,['Horror'],['USA']
+tt1156398,"['Adventure', 'Comedy', 'Horror']",['USA']
+tt1161449,['Action'],['Thailand']
+tt1161864,"['Drama', 'Horror', 'Mystery']","['USA', 'Hungary', 'Italy']"
+tt1170358,"['Adventure', 'Fantasy']","['New Zealand', 'USA']"
+tt1172060,"['Horror', 'Sci-Fi']",['USA']
+tt1172570,"['Action', 'Biography', 'Crime']","['UK', 'Cayman Islands']"
+tt1172994,['Horror'],['USA']
+tt1174732,['Drama'],"['UK', 'USA']"
+tt1175491,"['Biography', 'Comedy', 'Drama']","['USA', 'Australia', 'Hong Kong', 'Switzerland', 'China']"
+tt1175709,"['Crime', 'Drama', 'Mystery']",['USA']
+tt1179056,"['Crime', 'Drama', 'Horror']",['USA']
+tt1179891,"['Horror', 'Mystery', 'Thriller']","['USA', 'Canada']"
+tt1179904,"['Horror', 'Mystery', 'Thriller']",['USA']
+tt1179933,"['Drama', 'Horror', 'Mystery']",['USA']
+tt1181791,"['Action', 'Drama', 'History']","['Germany', 'UK']"
+tt1182350,"['Comedy', 'Drama', 'Romance']","['USA', 'Spain']"
+tt1182609,"['Action', 'Thriller']","['Bulgaria', 'Germany']"
+tt1183733,"['Action', 'Adventure', 'Horror']",['USA']
+tt1186367,"['Action', 'Thriller']","['Germany', 'USA']"
+tt1186830,"['Adventure', 'Biography', 'Drama']","['Spain', 'Malta', 'Bulgaria']"
+tt1187064,"['Fantasy', 'Mystery', 'Thriller']","['UK', 'Australia']"
+tt1189340,"['Crime', 'Drama', 'Thriller']",['USA']
+tt1190080,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt1192628,"['Animation', 'Adventure', 'Comedy']",['USA']
+tt1193138,"['Comedy', 'Drama', 'Romance']",['USA']
+tt1194173,"['Action', 'Adventure', 'Thriller']","['USA', 'Japan']"
+tt1194263,"['Drama', 'Mystery']","['USA', 'Germany', 'Poland']"
+tt1195478,"['Comedy', 'Romance']","['USA', 'Japan']"
+tt1196141,"['Comedy', 'Drama', 'Family']","['USA', 'UK']"
+tt1196948,"['Comedy', 'Drama', 'Romance']","['USA', 'Romania']"
+tt1198138,"['Drama', 'Romance', 'Thriller']",['USA']
+tt1198153,"['Action', 'Drama', 'Thriller']","['Israel', 'France', 'USA']"
+tt1201167,"['Comedy', 'Drama']",['USA']
+tt1201607,"['Adventure', 'Drama', 'Fantasy']","['UK', 'USA']"
+tt1204975,"['Comedy', 'Drama']",['USA']
+tt1204977,"['Horror', 'Mystery', 'Thriller']",['USA']
+tt1205537,"['Action', 'Drama', 'Thriller']","['USA', 'Russia']"
+tt1210166,"['Biography', 'Drama', 'Sport']",['USA']
+tt1210801,"['Action', 'Drama', 'Thriller']",['USA']
+tt1211956,"['Action', 'Thriller']",['USA']
+tt1212023,['Horror'],['USA']
+tt1212419,"['Drama', 'Fantasy', 'Romance']",['USA']
+tt1212450,"['Crime', 'Drama']",['USA']
+tt1213012,"['Animation', 'Adventure', 'Comedy']","['USA', 'India', 'Canada']"
+tt1213641,"['Biography', 'Drama', 'History']","['USA', 'Japan']"
+tt1213644,['Comedy'],['USA']
+tt1213663,"['Action', 'Comedy', 'Sci-Fi']","['UK', 'USA', 'Japan']"
+tt1216491,"['Biography', 'Crime', 'Drama']",['USA']
+tt1216492,"['Comedy', 'Romance']","['USA', 'Ireland']"
+tt1216496,"['Crime', 'Drama', 'Thriller']",['South Korea']
+tt1217613,"['Action', 'Sci-Fi']",['USA']
+tt1219289,"['Sci-Fi', 'Thriller']",['USA']
+tt1219342,"['Animation', 'Action', 'Adventure']","['USA', 'Australia']"
+tt1219671,"['Action', 'Adventure', 'Romance']",['USA']
+tt1219827,"['Action', 'Drama', 'Sci-Fi']","['USA', 'India', 'Hong Kong', 'China', 'UK']"
+tt1220634,"['Action', 'Adventure', 'Horror']","['Germany', 'France', 'USA', 'Canada', 'UK']"
+tt1220719,"['Action', 'Biography', 'Drama']","['Hong Kong', 'China']"
+tt1221208,"['Biography', 'Drama']",['Canada']
+tt1225822,"['Comedy', 'Crime', 'Romance']",['USA']
+tt1226229,"['Comedy', 'Music']",['USA']
+tt1226236,"['Drama', 'Romance']",['Italy']
+tt1226273,"['Crime', 'Drama', 'Mystery']","['UK', 'USA']"
+tt1226753,"['Drama', 'Thriller']","['USA', 'UK', 'Hungary', 'Israel']"
+tt1228705,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt1229238,"['Action', 'Adventure', 'Thriller']","['USA', 'United Arab Emirates', 'Czech Republic', 'India', 'Canada']"
+tt1229340,['Comedy'],['USA']
+tt1229822,"['Drama', 'Romance']","['UK', 'USA']"
+tt1230168,"['Biography', 'Drama']",['USA']
+tt1231287,"['Comedy', 'Romance']",['USA']
+tt1231583,"['Comedy', 'Drama']",['USA']
+tt1231587,"['Comedy', 'Sci-Fi']",['USA']
+tt1232200,['Comedy'],['USA']
+tt1232783,"['Horror', 'Mystery']",['USA']
+tt1232824,['Drama'],['USA']
+tt1232829,"['Action', 'Comedy', 'Crime']",['USA']
+tt1233219,"['Drama', 'Thriller']","['USA', 'Germany']"
+tt1233227,"['Horror', 'Mystery', 'Thriller']","['Canada', 'USA', 'UK', 'Australia']"
+tt1234654,"['Comedy', 'Drama', 'Romance']",['USA']
+tt1234721,"['Action', 'Crime', 'Sci-Fi']",['USA']
+tt1235522,"['Action', 'Crime', 'Drama']",['USA']
+tt1235796,"['Drama', 'Mystery', 'Romance']","['Ireland', 'USA']"
+tt1235837,"['Animation', 'Adventure', 'Comedy']","['USA', 'Germany']"
+tt1237838,"['Comedy', 'Crime', 'Mystery']",['USA']
+tt1240982,"['Comedy', 'Fantasy']",['USA']
+tt1242618,"['Drama', 'Horror', 'Thriller']",['USA']
+tt1243957,"['Action', 'Adventure', 'Crime']","['USA', 'France', 'Italy', 'UK']"
+tt1245112,"['Horror', 'Thriller']",['Spain']
+tt1245526,"['Action', 'Comedy', 'Crime']",['USA']
+tt1247640,"['Action', 'Crime', 'Thriller']",['France']
+tt1250777,"['Action', 'Adventure', 'Comedy']","['UK', 'USA']"
+tt1251757,"['Comedy', 'Crime', 'Drama']",['USA']
+tt1253596,['Comedy'],['USA']
+tt1253863,"['Action', 'Drama']",['USA']
+tt1255919,"['Comedy', 'Crime', 'Mystery']","['USA', 'Canada']"
+tt1255953,"['Drama', 'Mystery', 'War']","['Canada', 'France']"
+tt1258972,['Action'],"['USA', 'Hong Kong']"
+tt1259521,['Horror'],['USA']
+tt1259571,"['Adventure', 'Drama', 'Fantasy']",['USA']
+tt1261046,"['Action', 'Comedy', 'Horror']",['USA']
+tt1261945,"['Comedy', 'Drama', 'Romance']",['USA']
+tt1262416,"['Horror', 'Mystery']",['USA']
+tt1262981,"['Comedy', 'Drama']",['USA']
+tt1263670,"['Drama', 'Music', 'Romance']",['USA']
+tt1265621,"['Action', 'Adventure', 'Drama']","['USA', 'Germany']"
+tt1265990,"['Drama', 'Thriller']",['USA']
+tt1266029,"['Biography', 'Drama', 'Music']","['UK', 'Canada']"
+tt1266121,"['Fantasy', 'Horror']",['USA']
+tt1268799,"['Adventure', 'Comedy']",['USA']
+tt1270262,"['Biography', 'Drama', 'Thriller']","['Belgium', 'Netherlands']"
+tt1270761,"['Fantasy', 'Horror', 'Thriller']","['USA', 'Australia', 'Mexico']"
+tt1270792,"['Drama', 'Musical']",['USA']
+tt1270797,"['Action', 'Sci-Fi', 'Thriller']","['China', 'USA']"
+tt1272878,"['Action', 'Comedy', 'Thriller']",['USA']
+tt1273678,"['Action', 'Comedy', 'Family']",['USA']
+tt1274586,"['Action', 'Drama', 'Thriller']","['Bahamas', 'USA']"
+tt1276419,"['Biography', 'Drama', 'History']","['Denmark', 'Sweden', 'Czech Republic', 'Germany']"
+tt1277737,"['Drama', 'Thriller']",['USA']
+tt1277953,"['Animation', 'Adventure', 'Comedy']",['USA']
+tt1278449,"['Comedy', 'Crime', 'Music']","['Sweden', 'France']"
+tt1279935,"['Comedy', 'Crime', 'Romance']",['USA']
+tt1282140,"['Comedy', 'Drama', 'Romance']",['USA']
+tt1284575,"['Comedy', 'Romance']",['USA']
+tt1285009,['Horror'],"['UK', 'USA']"
+tt1285016,"['Biography', 'Drama']",['USA']
+tt1287468,"['Action', 'Comedy', 'Family']","['USA', 'Australia']"
+tt1288558,"['Fantasy', 'Horror', 'Thriller']",['USA']
+tt1289401,"['Action', 'Comedy', 'Fantasy']","['USA', 'Australia']"
+tt1290400,"['Action', 'Crime', 'Thriller']",['USA']
+tt1290471,"['Action', 'Sci-Fi']",['USA']
+tt1291150,"['Action', 'Adventure', 'Comedy']",['USA']
+tt1291584,"['Drama', 'Sport']",['USA']
+tt1293842,"['Comedy', 'Sport']",['USA']
+tt1293847,"['Action', 'Adventure', 'Thriller']","['China', 'Canada', 'USA']"
+tt1294136,"['Crime', 'Thriller']",['USA']
+tt1294688,"['Drama', 'Romance']","['USA', 'France']"
+tt1294699,"['Action', 'Adventure', 'Drama']",['USA']
+tt1294970,"['Comedy', 'Drama']",['USA']
+tt1297919,"['Action', 'Crime', 'Thriller']","['UK', 'France', 'USA']"
+tt1300851,"['Action', 'Crime', 'Thriller']",['USA']
+tt1302011,"['Animation', 'Action', 'Adventure']",['USA']
+tt1302067,"['Animation', 'Adventure', 'Comedy']","['USA', 'New Zealand']"
+tt1305583,"['Comedy', 'Romance']",['USA']
+tt1305806,"['Drama', 'Mystery', 'Romance']","['Argentina', 'Spain']"
+tt1306980,"['Comedy', 'Drama', 'Romance']",['USA']
+tt1307068,"['Adventure', 'Comedy', 'Drama']",['USA']
+tt1311067,['Horror'],['USA']
+tt1313092,"['Crime', 'Drama']",['Australia']
+tt1315981,"['Drama', 'Romance']",['USA']
+tt1318514,"['Action', 'Drama', 'Sci-Fi']","['USA', 'UK', 'Canada']"
+tt1320253,"['Action', 'Adventure', 'Thriller']","['USA', 'Bulgaria']"
+tt1321509,['Comedy'],['USA']
+tt1321860,['Drama'],"['USA', 'United Arab Emirates']"
+tt1321870,"['Action', 'Crime', 'Drama']",['USA']
+tt1322312,"['Comedy', 'Romance']",['USA']
+tt1323594,"['Animation', 'Comedy', 'Family']","['USA', 'France']"
+tt1324999,"['Action', 'Adventure', 'Drama']",['USA']
+tt1325004,"['Action', 'Drama', 'Fantasy']",['USA']
+tt1325753,"['Animation', 'Action', 'Adventure']",['USA']
+tt1326972,"['Action', 'Drama', 'History']","['China', 'Hong Kong', 'Japan', 'Taiwan', 'South Korea']"
+tt1327773,"['Biography', 'Drama']",['USA']
+tt1328910,"['Action', 'Sci-Fi']",['USA']
+tt1331307,"['Drama', 'Horror', 'Thriller']","['UK', 'USA']"
+tt1334512,"['Comedy', 'Romance']",['USA']
+tt1334526,['Horror'],['USA']
+tt1334536,"['Horror', 'Mystery', 'Thriller']",['USA']
+tt1334537,"['Comedy', 'Drama', 'Romance']",['USA']
+tt1335975,"['Action', 'Drama', 'Fantasy']","['USA', 'UK', 'Japan', 'Hungary']"
+tt1340138,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt1341167,"['Comedy', 'Crime', 'Drama']","['UK', 'France']"
+tt1341188,"['Comedy', 'Drama', 'Romance']",['USA']
+tt1341341,"['Comedy', 'Romance']",['USA']
+tt1343092,"['Drama', 'Romance']","['Australia', 'USA']"
+tt1343727,"['Action', 'Crime', 'Sci-Fi']","['UK', 'South Africa', 'USA', 'India']"
+tt1350498,"['Action', 'Adventure', 'Comedy']",['USA']
+tt1350512,"['Action', 'Adventure', 'Horror']",['USA']
+tt1353997,"['Action', 'Adventure', 'Fantasy']",['USA']
+tt1355630,"['Drama', 'Fantasy', 'Music']",['USA']
+tt1355644,"['Drama', 'Romance', 'Sci-Fi']","['USA', 'Australia']"
+tt1356864,"['Comedy', 'Drama', 'Music']",['USA']
+tt1357005,"['Short', 'Comedy']",['USA']
+tt1366365,"['Action', 'Thriller']","['USA', 'Spain']"
+tt1368116,"['Action', 'Drama']",['Indonesia']
+tt1371155,"['Biography', 'Comedy', 'Drama']",['UK']
+tt1374989,"['Action', 'Comedy', 'Fantasy']","['USA', 'UK']"
+tt1374992,"['Drama', 'Fantasy', 'Romance']","['Canada', 'France']"
+tt1375666,"['Action', 'Adventure', 'Sci-Fi']","['USA', 'UK']"
+tt1375670,['Comedy'],['USA']
+tt1376460,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt1376709,['Comedy'],['Australia']
+tt1385826,"['Romance', 'Sci-Fi', 'Thriller']",['USA']
+tt1385867,"['Action', 'Comedy', 'Crime']",['USA']
+tt1386588,"['Action', 'Comedy', 'Crime']",['USA']
+tt1386697,"['Action', 'Adventure', 'Fantasy']",['USA']
+tt1386703,"['Action', 'Adventure', 'Sci-Fi']","['USA', 'Canada']"
+tt1386932,"['Action', 'Biography', 'Drama']","['Hong Kong', 'China']"
+tt1389096,"['Comedy', 'Crime', 'Thriller']",['USA']
+tt1389137,"['Comedy', 'Drama', 'Family']",['USA']
+tt1391116,"['Drama', 'Thriller', 'War']","['UK', 'Germany']"
+tt1392170,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt1392190,"['Action', 'Adventure', 'Sci-Fi']","['Australia', 'USA', 'South Africa']"
+tt1396523,"['Action', 'Crime', 'Drama']","['Hong Kong', 'USA']"
+tt1398426,"['Biography', 'Drama', 'History']",['USA']
+tt1399103,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt1399683,"['Drama', 'Mystery']",['USA']
+tt1401152,"['Action', 'Mystery', 'Thriller']","['UK', 'Germany', 'France', 'USA']"
+tt1403177,"['Comedy', 'Crime', 'Drama']",['USA']
+tt1403865,"['Drama', 'Western']",['USA']
+tt1403981,"['Drama', 'Romance']",['USA']
+tt1406157,['Action'],['Japan']
+tt1408101,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt1408253,"['Action', 'Comedy', 'Crime']",['USA']
+tt1409024,"['Action', 'Adventure', 'Comedy']","['USA', 'United Arab Emirates']"
+tt1411238,"['Comedy', 'Romance']",['USA']
+tt1411250,"['Action', 'Adventure', 'Sci-Fi']","['Canada', 'USA']"
+tt1411697,['Comedy'],"['USA', 'Thailand']"
+tt1411704,"['Animation', 'Adventure', 'Comedy']","['USA', 'India', 'Malaysia', 'Taiwan', 'Canada', 'UK']"
+tt1412386,"['Comedy', 'Drama', 'Romance']","['UK', 'USA', 'United Arab Emirates']"
+tt1415283,"['Comedy', 'Family', 'Fantasy']","['UK', 'France', 'USA']"
+tt1418377,"['Action', 'Fantasy', 'Sci-Fi']","['USA', 'Australia']"
+tt1421051,"['Comedy', 'Drama']","['USA', 'UK', 'Italy', 'Japan']"
+tt1423593,['Drama'],['USA']
+tt1423894,"['Comedy', 'Drama']","['Italy', 'Canada']"
+tt1428538,"['Action', 'Fantasy', 'Horror']","['Germany', 'USA']"
+tt1430607,"['Animation', 'Adventure', 'Comedy']","['UK', 'USA']"
+tt1430626,"['Animation', 'Adventure', 'Comedy']","['UK', 'USA']"
+tt1431181,"['Comedy', 'Drama']",['UK']
+tt1436045,"['Action', 'Adventure', 'Drama']","['Japan', 'UK']"
+tt1436432,"['Action', 'Adventure', 'Drama']",['USA']
+tt1436562,"['Animation', 'Adventure', 'Comedy']","['USA', 'Brazil']"
+tt1438254,"['Drama', 'Fantasy', 'Romance']","['USA', 'Canada']"
+tt1440129,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt1440161,"['Comedy', 'Drama', 'Fantasy']",['USA']
+tt1440728,"['Crime', 'Drama', 'Thriller']","['USA', 'UK']"
+tt1440732,"['Crime', 'Drama', 'History']","['UK', 'Italy']"
+tt1446192,"['Animation', 'Action', 'Adventure']",['USA']
+tt1448755,"['Action', 'Thriller']","['UK', 'Australia']"
+tt1450321,"['Comedy', 'Crime', 'Drama']","['UK', 'Germany', 'Sweden', 'Belgium', 'USA']"
+tt1452628,"['Horror', 'Mystery', 'Thriller']",['USA']
+tt1453403,"['Crime', 'Drama']",['USA']
+tt1456635,"['Comedy', 'Drama', 'Sport']","['USA', 'Canada']"
+tt1456661,"['Action', 'Drama', 'History']","['Hong Kong', 'China']"
+tt1457765,"['Drama', 'Horror', 'Mystery']",['USA']
+tt1458175,"['Action', 'Crime', 'Drama']","['USA', 'France']"
+tt1462041,"['Drama', 'Mystery', 'Thriller']","['USA', 'Canada']"
+tt1462758,"['Drama', 'Mystery', 'Thriller']",['Spain']
+tt1465522,"['Comedy', 'Horror']",['Canada']
+tt1469304,"['Action', 'Comedy', 'Crime']","['UK', 'China', 'USA']"
+tt1470023,"['Action', 'Comedy', 'Romance']",['USA']
+tt1473801,"['Comedy', 'Romance']",['USA']
+tt1477076,"['Adventure', 'Horror', 'Mystery']","['Canada', 'USA']"
+tt1477834,"['Action', 'Adventure', 'Fantasy']","['USA', 'Australia']"
+tt1477855,"['Biography', 'Comedy', 'Drama']",['UK']
+tt1478338,"['Comedy', 'Romance']",['USA']
+tt1479847,"['Action', 'Adventure', 'Drama']",['USA']
+tt1480295,"['Action', 'Drama', 'Thriller']","['USA', 'Belgium', 'Bulgaria']"
+tt1482459,"['Animation', 'Adventure', 'Comedy']","['USA', 'France']"
+tt1483013,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt1486185,"['Fantasy', 'Horror', 'Mystery']","['USA', 'Canada']"
+tt1486190,"['Comedy', 'Drama', 'Romance']",['UK']
+tt1488555,"['Comedy', 'Fantasy']",['USA']
+tt1489889,"['Action', 'Comedy', 'Crime']","['USA', 'China']"
+tt1491044,"['Biography', 'Crime', 'Drama']",['USA']
+tt1492842,"['Drama', 'Thriller']",['USA']
+tt1496025,"['Action', 'Drama', 'Fantasy']","['USA', 'Canada']"
+tt1496422,"['Crime', 'Drama', 'Mystery']",['USA']
+tt1499658,"['Comedy', 'Crime']",['USA']
+tt1501652,"['Fantasy', 'Mystery', 'Romance']",['USA']
+tt1502404,"['Action', 'Fantasy', 'Thriller']",['USA']
+tt1502407,"['Horror', 'Thriller']",['USA']
+tt1504320,"['Biography', 'Drama', 'History']","['UK', 'USA', 'Australia']"
+tt1507566,"['Crime', 'Mystery', 'Thriller']",['USA']
+tt1509767,"['Action', 'Adventure', 'History']","['USA', 'Germany', 'France', 'UK']"
+tt1517489,"['Action', 'Adventure', 'Comedy']",['USA']
+tt1519461,"['Horror', 'Mystery', 'Sci-Fi']",['USA']
+tt1521787,"['Horror', 'Mystery', 'Thriller']",['USA']
+tt1524575,"['Horror', 'Thriller']",['USA']
+tt1527186,"['Drama', 'Sci-Fi']","['Denmark', 'Sweden', 'France', 'Germany']"
+tt1528854,"['Comedy', 'Family']",['USA']
+tt1529572,"['Crime', 'Drama', 'Thriller']",['USA']
+tt1531663,['Drama'],['USA']
+tt1531911,"['Sci-Fi', 'Thriller', 'War']",['USA']
+tt1532503,"['Comedy', 'Drama', 'Romance']",['USA']
+tt1535108,"['Action', 'Drama', 'Sci-Fi']","['USA', 'Mexico', 'Canada']"
+tt1535109,"['Biography', 'Crime', 'Drama']",['USA']
+tt1536044,['Horror'],['USA']
+tt1536410,"['Crime', 'Drama', 'Mystery']","['USA', 'France', 'Canada', 'UK']"
+tt1538819,"['Action', 'Crime', 'Thriller']",['Turkey']
+tt1540011,"['Horror', 'Mystery', 'Thriller']","['Canada', 'USA']"
+tt1540115,['Documentary'],['USA']
+tt1542344,"['Biography', 'Drama']","['USA', 'UK', 'France']"
+tt1545098,"['Documentary', 'Music']",['USA']
+tt1549920,"['Action', 'Thriller']",['USA']
+tt1551621,"['Action', 'Romance']",['Thailand']
+tt1554091,"['Drama', 'Romance']",['USA']
+tt1557769,"['Biography', 'Comedy', 'Crime']",['USA']
+tt1563738,"['Drama', 'Romance']","['USA', 'UK']"
+tt1563742,"['Comedy', 'Romance']","['USA', 'Mexico']"
+tt1564367,"['Comedy', 'Romance']",['USA']
+tt1564585,"['Action', 'Sci-Fi', 'Thriller']",['USA']
+tt1568338,"['Action', 'Adventure', 'Crime']",['USA']
+tt1568346,"['Crime', 'Drama', 'Mystery']","['USA', 'Sweden', 'Norway']"
+tt1570728,"['Comedy', 'Drama', 'Romance']",['USA']
+tt1571249,"['Comedy', 'Drama', 'Romance']",['USA']
+tt1572315,"['Horror', 'Thriller']",['USA']
+tt1572491,"['Comedy', 'Drama', 'Horror']","['Spain', 'France']"
+tt1576379,"['Animation', 'Adventure', 'Family']","['Argentina', 'USA']"
+tt1578275,"['Comedy', 'Drama']",['USA']
+tt1578882,"['Action', 'Crime', 'Fantasy']",['USA']
+tt1582248,"['Biography', 'Drama']",['USA']
+tt1582465,"['Adventure', 'Comedy', 'Drama']",['USA']
+tt1583420,"['Comedy', 'Drama', 'Romance']",['USA']
+tt1583421,"['Action', 'Adventure', 'Sci-Fi']",['USA']
+tt1584016,"['Documentary', 'Drama', 'Mystery']",['USA']
+tt1584733,['Horror'],['USA']
+tt1586261,"['Horror', 'Mystery', 'Thriller']",['USA']
+tt1586265,"['Comedy', 'Drama', 'Romance']",['USA']
+tt1587807,"['Action', 'Adventure', 'Comedy']",['USA']
+tt1588170,"['Action', 'Crime', 'Drama']",['South Korea']
+tt1588173,"['Comedy', 'Horror', 'Romance']","['USA', 'Canada']"
+tt1588337,"['Drama', 'History']",['France']
+tt1592281,"['Comedy', 'Drama']","['Canada', 'Spain', 'Japan']"
+tt1592873,"['Comedy', 'Drama', 'Romance']",['USA']
+tt1594562,"['Drama', 'Horror', 'Mystery']",['USA']
+tt1595656,"['Drama', 'Romance']",['USA']
+tt1596343,"['Action', 'Adventure', 'Thriller']",['USA']
+tt1596345,"['Biography', 'Drama', 'Sport']",['USA']
+tt1596346,"['Biography', 'Drama', 'Family']",['USA']
+tt1596350,"['Action', 'Comedy', 'Romance']",['USA']
+tt1596363,"['Biography', 'Comedy', 'Drama']",['USA']
+tt1598828,"['Action', 'Comedy', 'Crime']",['USA']
+tt1599348,"['Action', 'Thriller']","['South Africa', 'Japan', 'USA']"
+tt1600195,"['Action', 'Mystery', 'Thriller']",['USA']
+tt1602098,"['Drama', 'Romance']","['UK', 'Ireland', 'France', 'USA']"
+tt1602472,"['Comedy', 'Drama', 'Romance']","['France', 'Germany', 'Belgium']"
+tt1605630,['Comedy'],['USA']
+tt1610528,"['Action', 'Adventure', 'Drama']",['USA']
+tt1612774,"['Comedy', 'Fantasy', 'Horror']","['France', 'Angola']"
+tt1614989,"['Action', 'Crime', 'Thriller']","['Norway', 'Sweden', 'Denmark', 'Germany']"
+tt1615091,"['Adventure', 'Sci-Fi', 'Thriller']","['Germany', 'South Africa', 'USA']"
+tt1615147,"['Drama', 'Thriller']",['USA']
+tt1615480,"['Comedy', 'Drama']","['USA', 'Mexico']"
+tt1617661,"['Action', 'Adventure', 'Sci-Fi']","['USA', 'Australia']"
+tt1618442,"['Action', 'Adventure', 'Fantasy']","['USA', 'China', 'Canada']"
+tt1621045,"['Comedy', 'Romance']",['USA']
+tt1621046,"['Biography', 'Drama']","['USA', 'Mexico']"
+tt1622979,"['Horror', 'Thriller']","['USA', 'Canada', 'Singapore', 'Hong Kong']"
+tt1623288,"['Animation', 'Adventure', 'Comedy']",['USA']
+tt1623745,['Drama'],['USA']
+tt1627497,['Drama'],[]
+tt1628841,"['Action', 'Adventure', 'Sci-Fi']",[]
+tt1629705,"['Action', 'Adventure', 'Western']",[]
+tt1630564,"['Action', 'Crime', 'Thriller']",['Canada']
+tt1632708,"['Comedy', 'Romance']",[]
+tt1633356,"['Horror', 'Thriller']",[]
+tt1634121,"['Fantasy', 'Horror', 'Thriller']","['USA', 'UK', 'Spain']"
+tt1634122,"['Action', 'Adventure', 'Comedy']","['USA', 'France', 'UK']"
+tt1636629,"['Action', 'Adventure', 'Fantasy']",[]
+tt1637706,"['Comedy', 'Drama']",['USA']
+tt1637725,['Comedy'],[]
+tt1640459,"['Action', 'Comedy', 'Horror']",[]
+tt1640484,"['Comedy', 'Drama']",[]
