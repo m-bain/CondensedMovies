@@ -13,7 +13,7 @@ This repository contains the video dataset, implementation and baselines from <s
 ![videocaptions](figs/example_captions.png)
 
 
-3K+  movies, 30K+ profesionally captioned clips, 1K+ video hours, 400K+ facetracks & precomputed features from 6 different modalities.
+The dataset consists of 3K+ movies, 30K+ professionally captioned clips, 1K+ video hours, 400K+ facetracks & precomputed features from 6 different modalities.
 
 #### Installation
 
