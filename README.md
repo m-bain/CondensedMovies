@@ -26,7 +26,9 @@ Requirements:
     - 20GB for features
     - 250GB for source videos (optional)
 - Libraries
-    - Some libraries
+    - ffmpeg (video download)
+    - pandas, numpy
+    - python 3.6+
 
 #### Prepare Data
 
