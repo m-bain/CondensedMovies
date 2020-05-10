@@ -10,7 +10,7 @@ This repository contains the video dataset, implementation and baselines from <s
 ----
 ### CondensedMovies Dataset
 
-![videocaptions](figs/example_captions.png)
+![videocaptions](figs/example_captions.pdf)
 
 
 3K+  movies
