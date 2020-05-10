@@ -13,11 +13,7 @@ This repository contains the video dataset, implementation and baselines from <s
 ![videocaptions](figs/example_captions.png)
 
 
-3K+  movies
-35K+ profesionally captioned clips
-1K+ video hours
-400K+ facetracks
-Precomputed features from 8 modalities
+3K+  movies, 30K+ profesionally captioned clips, 1K+ video hours, 400K+ facetracks & precomputed features from 6 different modalities.
 
 #### Installation
 
@@ -27,6 +23,7 @@ Requirements:
     - 250GB for source videos (optional)
 - Libraries
     - ffmpeg (video download)
+    - youtube-dl (video download)
     - pandas, numpy
     - python 3.6+
 
@@ -35,7 +32,7 @@ Requirements:
 1. Navigate to directory `cd CondensedMovies/prep/`
 2. Edit configuration file `config.json` to suit your needs.
 3. If downloading the source videos (`src: true`), you can edit `youtube-dl.conf` for desired resolution, subtitles etc.
-Please see ***LINKyoutube-dl*** for more info
+Please see [youtube-dl](https://github.com/ytdl-org/youtube-dl) for more info
 4. Run `python download.py`
 
 
