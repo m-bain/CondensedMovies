@@ -5,7 +5,7 @@ This repository contains the video dataset, implementation and baselines from <s
 [Project page](https://www.robots.ox.ac.uk/~vgg/research/condensed-movies) |
 [arXiv preprint](https://arxiv.org/abs/2005.04208) |
 [Read the paper](https://arxiv.org/pdf/2005.04208.pdf) |
-[Preview the data](https://www.robots.ox.ac.uk/~vgg/research/condensed-movies/preview.html)
+[Preview the data](https://www.robots.ox.ac.uk/~vgg/research/condensed-movies/#preview)
 
 ----
 ### CondensedMovies Dataset
