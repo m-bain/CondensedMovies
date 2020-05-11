@@ -3,9 +3,9 @@
 This repository contains the video dataset, implementation and baselines from <strong>Condensed Movies: Story Based Retrieval with Contextual Embeddings</strong>.
 
 [Project page](https://www.robots.ox.ac.uk/~vgg/research/condensed-movies) |
-[arXiv preprint](TBD) |
-[Read the paper](TBD) |
-[Preview the data](TBD)
+[arXiv preprint](https://arxiv.org/abs/2005.04208) |
+[Read the paper](https://arxiv.org/pdf/2005.04208.pdf) |
+[Preview the data](https://www.robots.ox.ac.uk/~vgg/research/condensed-movies/preview.html)
 
 ----
 ### CondensedMovies Dataset
