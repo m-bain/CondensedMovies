@@ -1,5 +1,6 @@
 {
   "data_dir": "data",
   "features": true,
+  "facetracks": true,
   "src": false
 }

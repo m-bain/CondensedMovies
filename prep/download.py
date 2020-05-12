@@ -4,9 +4,16 @@ from os.path import join as osj
 import pandas as pd
 import pdb
 
+hosting_address = 'https://www.robots.ox.ac.uk/~vgg/research/condensed-movies/data/'
+
 
 def download_features(data_dir):
-    cmd = 'wget https://www.robots.ox.ac.uk/~vgg/research/ccr/files/features.zip; unzip features.zip'
+    cmd = 'wget {}/features.zip -P {}; unzip {}/features.zip'.format(hosting_address, data_dir, data_dir)
+    os.system(cmd)
+
+
+def download_facetracks(data_dir):
+    cmd = 'wget {}/facetracks.zip -P {}; unzip {}/facetracks.zip'.format(hosting_address, data_dir, data_dir)
     os.system(cmd)
 
 
@@ -27,15 +34,12 @@ def youtube_download(data_dir):
         os.system(cmd)
         break
 
-    # check for failed downloads: this can be due to...
-    # i) geographical restrictions
-    # ii) Too many requests error
-
     # trim advertisement outro from video.
     trim = None
     while trim not in ['y', 'n']:
         trim = str(input(
-            "\n #### Do you want to trim the videos (y/n) ?###\nThis removes the advertisements (unrelated to the film), and should needs to be done once per download. "))
+            "\n #### Do you want to trim the videos (y/n) ?###\n\
+            This removes the advertisements (unrelated to the film), and only needs to be done once per download. "))
 
         if trim not in ['y', 'n']:
             print('Please type "y" or "n"')
@@ -44,6 +48,9 @@ def youtube_download(data_dir):
         trim_video_outro(video_dir)
 
 
+    # check for failed downloads: this can be due to...
+    # i) geographical restrictions
+    # ii) Too many requests error
     check_missing_vids(video_dir)
 
 
@@ -67,6 +74,7 @@ def trim_video_outro(video_dir, video_ext='.mkv'):
                 os.system(cmd)
                 os.remove(tmp_fp)
 
+
 def check_missing_vids(video_dir, video_ext='.mkv'):
     missing_ids = []
     clips_data = pd.read_csv('../metadata/clips.csv').set_index('videoid')
@@ -82,19 +90,25 @@ def check_missing_vids(video_dir, video_ext='.mkv'):
     if success == 100:
         pass
     elif success < 100:
-        print('%d clips failed to download. This is likely due to geographical restrictions. Contact maxbain@robots.ox.ac.uk if this is an issue.' % len(missing_ids))
-
+        print(
+            '%d clips failed to download. This is likely due to geographical restrictions.\n\
+            Contact maxbain@robots.ox.ac.uk if this is an issue.' % len(missing_ids))
 
     with open('missing_videos.out', 'w') as fid:
-        for id in missing_ids:
-            fid.write(id + '\n')
+        for mid in missing_ids:
+            fid.write(mid + '\n')
 
 
 def main():
     config = json.load(open('config.json', 'r'))
     data_dir = config['data_dir']
+    if not os.path.exists(data_dir):
+        os.makedirs(data_dir)
+
     if config['features']:
         download_features(data_dir)
+    if config['facetracks']:
+        download_facetracks(data_dir)
     if config['src']:
         youtube_download(data_dir)
 
