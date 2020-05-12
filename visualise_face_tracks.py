@@ -51,11 +51,6 @@ if __name__ == '__main__':
     if not os.path.isfile(os.path.join(args.face_track_dir, args.video_year,args.video_ID+'.mkvface_dets.pk')):
         raise Exception('path to face detections does not exist')
 
-    # check that annotation file exists
-
-    if not os.path.isfile(args.face_track_annotation_file):
-        raise Exception('face-track annotation file not found')
-
     # load the face-tracks
 
     with open(os.path.join(args.face_track_dir, args.video_year,args.video_ID+'.mkvface_dets.pk'), 'rb') as f:
@@ -82,7 +77,6 @@ if __name__ == '__main__':
     # extract the audio to the output directory
     audio_call = "ffmpeg -i " + os.path.join(args.data_dir, args.video_year, args.video_ID + '.mkv') +" "+ os.path.join(args.out_dir,'audio.mp3')
     os.system(audio_call)
-
     # for each track in the face-track, read and write the detection
     print('writing face tracks...')
     for track_ID, face_track_frames in enumerate(tqdm(database['index_into_facedetfile'])):
@@ -101,6 +95,8 @@ if __name__ == '__main__':
 
             image = cv2.rectangle(image, (int(expand_rect[0]), int(expand_rect[1])), (int(expand_rect[2]), int(expand_rect[3])), track_colour,
                                   int(max(min(7, ((expand_rect[2] - expand_rect[0]) / 20)), 2))) # draw the bounding box
+            image = cv2.putText(image, str(track_ID), (int(expand_rect[0]), int(expand_rect[3]) + 30), 0, 1, track_colour,
+                                3)
 
             cv2.imwrite(os.path.join(args.out_dir, args.video_ID, frame), image)
 
@@ -114,6 +110,7 @@ if __name__ == '__main__':
 
     # add audio
 
-    audio_call = "ffmpeg -i "+os.path.join(args.out_dir, args.video_ID+ '.mp4') + " -i "+os.path.join(args.out_dir,'audio.mp3')+" -c:v libx264 -c:a libvorbis -shortest " + os.path.join('temp', args.video_ID+ '.mkv')
+    audio_call = "ffmpeg -i "+os.path.join(args.out_dir, args.video_ID+ '.mp4') + " -i "+os.path.join(args.out_dir,'audio.mp3')+" -c:v libx264 -c:a libvorbis -shortest " + os.path.join(args.out_dir, args.video_ID+ '.mkv')
     os.system(audio_call)
+    os.system('rm '+os.path.join(args.out_dir, args.video_ID+ '.mp4'))
     os.system('rm -R ' + os.path.join(args.out_dir,'audio.mp3'))
