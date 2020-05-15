@@ -1,6 +1,8 @@
 # requires ffmpeg (2.8.15)
 import os, cv2, pickle, argparse, random
 from tqdm import tqdm
+import pandas as pd
+import pdb
 
 track_colour_choices = [(75,25,230), (25,225,255), (75,180,60), (230,50,240), (240,240,70), (49,130,245), (180,30,145), (12,246,188), (216,99,67), (195,255,170), (255,190,230)]
 random.shuffle(track_colour_choices)
@@ -28,14 +30,22 @@ def expandrect(ROI, extensionx, extensiony, shape):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
 
-    parser.add_argument('--video_ID', default='vqOByzMoS_A', help='the ID of the video for face-track visualisation', type=str)
-    parser.add_argument('--video_year', default='2012',choices=['2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020'], help='year --> data sub-directory which contains the video to be visualised', type=str)
-    parser.add_argument('--out_dir', default='/scratch/shared/beegfs/abrown/Movie_Clips_ECCV/temp', help='path to output directory for saving visualisation video', type=str)
-    parser.add_argument('--data_dir', default='/scratch/shared/beegfs/abrown/Movie_Clips_ECCV/MovieClips', help='path to data directory', type=str)
-    parser.add_argument('--face_track_dir', default='/datasets/CondensedMovies/facetracks', help='path to data directory containing the face-tracks', type=str)
+    parser.add_argument('--video_ID', default='9YyC1Uq84v8', help='the ID of the video for face-track visualisation', type=str)
+    parser.add_argument('--out_dir', default='figs', help='path to output directory for saving visualisation video', type=str)
+    parser.add_argument('--data_dir', default='data/videos', help='path to video data directory', type=str)
+    parser.add_argument('--face_track_dir', default='data/facetracks', help='path to data directory containing the face-tracks', type=str)
 
     args = parser.parse_args()
 
+    # automatically get video year
+    clips = pd.read_csv('metadata/clips.csv')
+    target_clip = clips[clips['videoid'] == args.video_ID]
+    if len(target_clip) == 0:
+        raise Exception('video ID not found')
+    video_year = str(int(target_clip['upload_year'].iloc[0]))
+
+    # automatically get data directory
+    
     # check that the output directory exists
 
     if not os.path.isdir(args.out_dir):
@@ -43,19 +53,20 @@ if __name__ == '__main__':
 
     # check that the path exists to the video
 
-    if not os.path.isfile(os.path.join(args.data_dir, args.video_year, args.video_ID + '.mkv')):
+    if not os.path.isfile(os.path.join(args.data_dir, video_year, args.video_ID + '.mkv')):
+        pdb.set_trace()
         raise Exception('path to video does not exist')
 
     # check that the path exists to the face-track
 
-    if not os.path.isfile(os.path.join(args.face_track_dir, args.video_year,args.video_ID+'.mkvface_dets.pk')):
+    if not os.path.isfile(os.path.join(args.face_track_dir, video_year,args.video_ID+'.mkvface_dets.pk')):
         raise Exception('path to face detections does not exist')
 
     # load the face-tracks
 
-    with open(os.path.join(args.face_track_dir, args.video_year,args.video_ID+'.mkvface_dets.pk'), 'rb') as f:
+    with open(os.path.join(args.face_track_dir, video_year,args.video_ID+'.mkvface_dets.pk'), 'rb') as f:
         face_dets = pickle.load(f)
-    with open(os.path.join(args.face_track_dir, args.video_year, args.video_ID + '.mkvdatabase.pk'), 'rb') as f:
+    with open(os.path.join(args.face_track_dir, video_year, args.video_ID + '.mkvdatabase.pk'), 'rb') as f:
         database = pickle.load(f)
 
     # extract the frames to the output directory
@@ -66,7 +77,7 @@ if __name__ == '__main__':
         os.system('rm -R '+ os.path.join(args.out_dir, args.video_ID))
         os.mkdir(os.path.join(args.out_dir, args.video_ID))
 
-    Command = "ffmpeg -i " + os.path.join(args.data_dir, args.video_year, args.video_ID + '.mkv') + " -threads 1 -deinterlace -q:v 1 -s 640:360 -vf fps=25 " + os.path.join(args.out_dir,args.video_ID) + "/%05d.jpg"
+    Command = "ffmpeg -i " + os.path.join(args.data_dir, video_year, args.video_ID + '.mkv') + " -threads 1 -deinterlace -q:v 1 -s 640:360 -vf fps=25 " + os.path.join(args.out_dir,args.video_ID) + "/%05d.jpg"
     os.system(Command)
     extracted_frames = [f for f in os.listdir(os.path.join(args.out_dir, args.video_ID))]
     if len(extracted_frames) == 0:
@@ -75,7 +86,7 @@ if __name__ == '__main__':
     if os.path.isfile(os.path.join(args.out_dir,'audio.mp3')):
         os.system('rm -R ' + os.path.join(args.out_dir, 'audio.mp3'))
     # extract the audio to the output directory
-    audio_call = "ffmpeg -i " + os.path.join(args.data_dir, args.video_year, args.video_ID + '.mkv') +" "+ os.path.join(args.out_dir,'audio.mp3')
+    audio_call = "ffmpeg -i " + os.path.join(args.data_dir, video_year, args.video_ID + '.mkv') +" "+ os.path.join(args.out_dir,'audio.mp3')
     os.system(audio_call)
     # for each track in the face-track, read and write the detection
     print('writing face tracks...')

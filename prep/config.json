@@ -1,5 +1,5 @@
 {
-  "data_dir": "data",
+  "data_dir": "/users/maxbain/Libs/CondensedMovies/data",
   "features": true,
   "facetracks": true,
   "src": false
