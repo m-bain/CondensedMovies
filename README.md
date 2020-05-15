@@ -20,6 +20,7 @@ The dataset consists of 3K+ movies, 30K+ professionally captioned clips, 1K+ vid
 Requirements:
 - Storage
     - 20GB for features
+    - 10GB for facetracks (optional)
     - 250GB for source videos (optional)
 - Libraries
     - ffmpeg (video download)
@@ -30,7 +31,7 @@ Requirements:
 #### Prepare Data
 
 1. Navigate to directory `cd CondensedMovies/prep/`
-2. Edit configuration file `config.json` to suit your needs.
+2. Edit configuration file `config.json` to download desired subsets of the dataset and their destination.
 3. If downloading the source videos (`src: true`), you can edit `youtube-dl.conf` for desired resolution, subtitles etc.
 Please see [youtube-dl](https://github.com/ytdl-org/youtube-dl) for more info
 4. Run `python download.py`
@@ -40,16 +41,21 @@ Please see [youtube-dl](https://github.com/ytdl-org/youtube-dl) for more info
 ### Training and Inference
 
 Coming soon
-##### TODO:
+
+### Visualisation
+
+Run `python visualisace_face_tracks.py` with the appropriate arguments to visualise face tracks for a given videoID (requires facetracks and source videos downloaded).
+
+#### TODO:
 - [x] youtube download script
 - [x] missing videos check
 - [x] precomputed features download script
+- [x] facetrack visualisation
 - [ ] dataloader
 - [ ] video-text retrieval baselines
-- [ ] facetrack visualisation
 
 
-##### FAQ
+#### FAQ
 
 Why did some of the source videos fail to download?
 >This is most likely due to geographical restrictions on the videos, email me at maxbain@robots.ox.ac.uk and I can help.
@@ -59,3 +65,8 @@ The precomputed features are averaged over the temporal dimension, will you rele
 
 I think clip X is incorrectly identified as being from movie Y, what do do?
 >Please let me know any movie identification mistakes and I'll correct it ASAP.
+
+
+#### Acknowledgements
+
+We would like to thank Samuel Albanie for his help with feature extraction.
