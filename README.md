@@ -19,18 +19,18 @@ The dataset consists of 3K+ movies, 30K+ professionally captioned clips, 1K+ vid
 
 Requirements:
 - Storage
-    - 20GB for features
-    - 10GB for facetracks (optional)
-    - 250GB for source videos (optional)
+    - 20GB for features (required for baseline experiments)
+    - 10GB for facetracks
+    - 250GB for videos
 - Libraries
-    - ffmpeg (video download)
-    - youtube-dl (video download)
+    - ffmpeg (for video download)
+    - youtube-dl (for video download)
     - pandas, numpy
     - python 3.6+
 
 #### Prepare Data
 
-1. Navigate to directory `cd CondensedMovies/prep/`
+1. Navigate to directory `cd CondensedMovies/data_prep/`
 2. Edit configuration file `config.json` to download desired subsets of the dataset and their destination.
 3. If downloading the source videos (`src: true`), you can edit `youtube-dl.conf` for desired resolution, subtitles etc.
 Please see [youtube-dl](https://github.com/ytdl-org/youtube-dl) for more info
@@ -38,21 +38,26 @@ Please see [youtube-dl](https://github.com/ytdl-org/youtube-dl) for more info
 
 
 
-### Training and Inference
+### Video-Text Retrieval
 
-Coming soon
+#### Baseline (Mixture of Expert Embeddings)
+Edit `data_dir` and `save_dir` in `configs/moe.json` for the experiments.
+1. `python train.py configs/moe.json`
+2. `python test.py --resume $SAVED_EXP_DIR/model_best.pth`
 
 ### Visualisation
 
-Run `python visualisace_face_tracks.py` with the appropriate arguments to visualise face tracks for a given videoID (requires facetracks and source videos downloaded).
+Run `python visualise_face_tracks.py` with the appropriate arguments to visualise face tracks for a given videoID (requires facetracks and source videos downloaded).
 
 #### TODO:
 - [x] youtube download script
 - [x] missing videos check
 - [x] precomputed features download script
 - [x] facetrack visualisation
-- [ ] dataloader
-- [ ] video-text retrieval baselines
+- [x] dataloader
+- [x] video-text retrieval baselines
+- [ ] intra-movie baselines + char module
+- [ ] release fixed_seg features
 
 
 #### FAQ

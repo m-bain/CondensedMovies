@@ -19,7 +19,7 @@ def download_facetracks(data_dir):
 
 
 def youtube_download(data_dir):
-    id_dir = '../metadata/youtube-dl-dump'
+    id_dir = '../data/metadata/youtube-dl-dump'
     video_dir = osj(data_dir, 'videos')
     if not os.path.exists(video_dir):
         os.makedirs(video_dir)
@@ -53,7 +53,7 @@ def youtube_download(data_dir):
 
 
 def trim_video_outro(video_dir, video_ext='.mkv'):
-    duration_data = pd.read_csv('../metadata/durations.csv').set_index('videoid')
+    duration_data = pd.read_csv('../data/metadata/durations.csv').set_index('videoid')
 
     tmp_fp = osj(video_dir, 'tmp' + video_ext)
     for root, subdir, files in os.walk(video_dir):
@@ -76,7 +76,7 @@ def trim_video_outro(video_dir, video_ext='.mkv'):
 
 def check_missing_vids(video_dir, video_ext='.mkv'):
     missing_ids = []
-    clips_data = pd.read_csv('../metadata/clips.csv').set_index('videoid')
+    clips_data = pd.read_csv('../data/metadata/clips.csv').set_index('videoid')
     for idx, row in clips_data.iterrows():
         videoid = row.name
         upload_year = row['upload_year']
