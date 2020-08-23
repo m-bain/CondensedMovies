@@ -36,7 +36,7 @@ Requirements:
 Please see [youtube-dl](https://github.com/ytdl-org/youtube-dl) for more info
 4. Run `python download.py`
 
-
+If you have trouble downloading the source videos or features (due to geographical restrictions or otherwise), please contact me for a download link for the data hosted on OneDrive cloud.
 
 ### Video-Text Retrieval
 
