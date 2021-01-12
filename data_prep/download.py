@@ -4,7 +4,7 @@ from os.path import join as osj
 import pandas as pd
 import pdb
 
-hosting_address = 'https://www.robots.ox.ac.uk/~vgg/research/condensed-movies/data'
+hosting_address = 'https://thor.robots.ox.ac.uk/~vgg/data/condensed-movies/data'
 
 
 def download_features(data_dir):
