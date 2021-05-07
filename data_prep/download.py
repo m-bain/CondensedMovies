@@ -60,7 +60,6 @@ def trim_video_outro(video_dir, video_ext='.mkv'):
         for file in files:
             if file.endswith(video_ext) and file != 'tmp' + video_ext:
                 videoid = file.split(video_ext)[0]
-                pdb.set_trace()
                 if videoid not in duration_data.index:
                     raise ValueError("Videoid not found, video files should be in format {VIDEOID}.mkv")
 
