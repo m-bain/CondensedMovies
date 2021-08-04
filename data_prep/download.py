@@ -13,8 +13,8 @@ def download_features(data_dir):
 
 
 def download_facetracks(data_dir):
-    cmd = 'wget {}/facetracks.zip -P {}/facetracks.zip; unzip {}/facetracks.zip -d {}'.format(hosting_address, data_dir,
-                                                                                              data_dir, data_dir)
+    cmd = 'wget {}/facetracks.zip -P {}; unzip {}/facetracks.zip -d {}'.format(hosting_address, data_dir,
+                                                                               data_dir, data_dir)
     os.system(cmd)
 
 
