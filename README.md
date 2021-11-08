@@ -1,6 +1,11 @@
 ## CondensedMovies
 
-**** Please use the condensed movies challenge https://github.com/m-bain/CondensedMovies-chall with updated splits since some videos in the original paper are unavailable with missing features **** You can contact me directly for the raw videos and details in the challenge repo for feature download.
+**** ___N.B: Please use the condensed movies challenge https://github.com/m-bain/CondensedMovies-chall with updated splits since some videos in the original paper are unavailable with missing features ****____
+
+___You can contact me directly for the raw videos and details in the challenge repo for feature download.___
+
+
+###############################################
 
 This repository contains the video dataset, implementation and baselines from <strong>Condensed Movies: Story Based Retrieval with Contextual Embeddings</strong>.
 
