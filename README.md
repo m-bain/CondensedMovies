@@ -2,7 +2,7 @@
 
 **** ___N.B: Please use the condensed movies challenge https://github.com/m-bain/CondensedMovies-chall with updated splits since some videos in the original paper are unavailable with missing features ****____
 
-___You can contact me directly for the raw videos and details in the challenge repo for feature download.___
+___Contact me directly for the additional dataset queries, details in the challenge repo for feature download.___
 
 
 ###############################################
